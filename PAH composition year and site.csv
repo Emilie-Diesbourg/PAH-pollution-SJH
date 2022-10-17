@@ -1,0 +1,3277 @@
+Site,Year,Analyte ,PAH,Percent
+Bayshore,2018,Acenaphthene,0.005,4.166666667
+Black Beach,2018,Acenaphthene,0.005,5.882352941
+Courtenay Bay,2018,Acenaphthene,0.06,0.855920114
+Digby Ferry Terminal,2018,Acenaphthene,0.55,2.06224222
+Hazen Creek Nearshore,2018,Acenaphthene,0.005,5.263157895
+Inner Harbour,2018,Acenaphthene,0.04,0.539811066
+Little River,2018,Acenaphthene,0.02,1.044386423
+Marsh Creek WS DS,2018,Acenaphthene,0.05,0.712250712
+Saints Rest Beach,2018,Acenaphthene,0.005,5.882352941
+Spar Cove,2018,Acenaphthene,0.005,2.222222222
+Tin Can Beach,2018,Acenaphthene,0.15,2.071823204
+Bayshore,2018,Acenaphthylene,0.005,4.166666667
+Black Beach,2018,Acenaphthylene,0.005,5.882352941
+Courtenay Bay,2018,Acenaphthylene,0.01,0.142653352
+Digby Ferry Terminal,2018,Acenaphthylene,0.12,0.449943757
+Hazen Creek Nearshore,2018,Acenaphthylene,0.005,5.263157895
+Inner Harbour,2018,Acenaphthylene,0.04,0.539811066
+Little River,2018,Acenaphthylene,0.005,0.261096606
+Marsh Creek WS DS,2018,Acenaphthylene,0.02,0.284900285
+Saints Rest Beach,2018,Acenaphthylene,0.005,5.882352941
+Spar Cove,2018,Acenaphthylene,0.005,2.222222222
+Tin Can Beach,2018,Acenaphthylene,0.04,0.552486188
+Bayshore,2018,Anthracene,0.005,4.166666667
+Black Beach,2018,Anthracene,0.005,5.882352941
+Courtenay Bay,2018,Anthracene,0.35,4.992867332
+Digby Ferry Terminal,2018,Anthracene,1.3,4.874390701
+Hazen Creek Nearshore,2018,Anthracene,0.01,10.52631579
+Inner Harbour,2018,Anthracene,0.23,3.10391363
+Little River,2018,Anthracene,0.06,3.133159269
+Marsh Creek WS DS,2018,Anthracene,0.38,5.413105413
+Saints Rest Beach,2018,Anthracene,0.005,5.882352941
+Spar Cove,2018,Anthracene,0.005,2.222222222
+Tin Can Beach,2018,Anthracene,0.27,3.729281768
+Bayshore,2018,Benz[a]anthracene,0.01,8.333333333
+Black Beach,2018,Benz[a]anthracene,0.005,5.882352941
+Courtenay Bay,2018,Benz[a]anthracene,0.73,10.41369472
+Digby Ferry Terminal,2018,Benz[a]anthracene,2,7.499062617
+Hazen Creek Nearshore,2018,Benz[a]anthracene,0.005,5.263157895
+Inner Harbour,2018,Benz[a]anthracene,0.69,9.311740891
+Little River,2018,Benz[a]anthracene,0.14,7.310704961
+Marsh Creek WS DS,2018,Benz[a]anthracene,0.66,9.401709402
+Saints Rest Beach,2018,Benz[a]anthracene,0.005,5.882352941
+Spar Cove,2018,Benz[a]anthracene,0.02,8.888888889
+Tin Can Beach,2018,Benz[a]anthracene,0.55,7.596685083
+Bayshore,2018,"Benzo(g,h,i)perylene-D12",0.005,4.166666667
+Black Beach,2018,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Courtenay Bay,2018,"Benzo(g,h,i)perylene-D12",0.14,1.997146933
+Digby Ferry Terminal,2018,"Benzo(g,h,i)perylene-D12",0.39,1.46231721
+Hazen Creek Nearshore,2018,"Benzo(g,h,i)perylene-D12",0.005,5.263157895
+Inner Harbour,2018,"Benzo(g,h,i)perylene-D12",0.2,2.699055331
+Little River,2018,"Benzo(g,h,i)perylene-D12",0.27,14.09921671
+Marsh Creek WS DS,2018,"Benzo(g,h,i)perylene-D12",0.19,2.706552707
+Saints Rest Beach,2018,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Spar Cove,2018,"Benzo(g,h,i)perylene-D12",0.005,2.222222222
+Tin Can Beach,2018,"Benzo(g,h,i)perylene-D12",0.13,1.79558011
+Bayshore,2018,Benzo[a]pyrene,0.005,4.166666667
+Black Beach,2018,Benzo[a]pyrene,0.005,5.882352941
+Courtenay Bay,2018,Benzo[a]pyrene,0.44,6.276747504
+Digby Ferry Terminal,2018,Benzo[a]pyrene,1.2,4.49943757
+Hazen Creek Nearshore,2018,Benzo[a]pyrene,0.005,5.263157895
+Inner Harbour,2018,Benzo[a]pyrene,0.57,7.692307692
+Little River,2018,Benzo[a]pyrene,0.11,5.744125326
+Marsh Creek WS DS,2018,Benzo[a]pyrene,0.37,5.270655271
+Saints Rest Beach,2018,Benzo[a]pyrene,0.005,5.882352941
+Spar Cove,2018,Benzo[a]pyrene,0.01,4.444444444
+Tin Can Beach,2018,Benzo[a]pyrene,0.38,5.248618785
+Bayshore,2018,"Benzo[b,j]fluoranthene",0.01,8.333333333
+Black Beach,2018,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Courtenay Bay,2018,"Benzo[b,j]fluoranthene",0.72,10.27104137
+Digby Ferry Terminal,2018,"Benzo[b,j]fluoranthene",1.7,6.374203225
+Hazen Creek Nearshore,2018,"Benzo[b,j]fluoranthene",0.005,5.263157895
+Inner Harbour,2018,"Benzo[b,j]fluoranthene",0.76,10.25641026
+Little River,2018,"Benzo[b,j]fluoranthene",0.1,5.221932115
+Marsh Creek WS DS,2018,"Benzo[b,j]fluoranthene",0.95,13.53276353
+Saints Rest Beach,2018,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Spar Cove,2018,"Benzo[b,j]fluoranthene",0.02,8.888888889
+Tin Can Beach,2018,"Benzo[b,j]fluoranthene",0.58,8.011049724
+Bayshore,2018,Benzo[e]pyrene,0.005,4.166666667
+Black Beach,2018,Benzo[e]pyrene,0.005,5.882352941
+Courtenay Bay,2018,Benzo[e]pyrene,0.34,4.85021398
+Digby Ferry Terminal,2018,Benzo[e]pyrene,0.81,3.03712036
+Hazen Creek Nearshore,2018,Benzo[e]pyrene,0.005,5.263157895
+Inner Harbour,2018,Benzo[e]pyrene,0.38,5.128205128
+Little River,2018,Benzo[e]pyrene,0.3,15.66579634
+Marsh Creek WS DS,2018,Benzo[e]pyrene,0.43,6.125356125
+Saints Rest Beach,2018,Benzo[e]pyrene,0.005,5.882352941
+Spar Cove,2018,Benzo[e]pyrene,0.02,8.888888889
+Tin Can Beach,2018,Benzo[e]pyrene,0.31,4.281767956
+Bayshore,2018,Benzo[k]fluoranthene,0.005,4.166666667
+Black Beach,2018,Benzo[k]fluoranthene,0.005,5.882352941
+Courtenay Bay,2018,Benzo[k]fluoranthene,0.27,3.851640514
+Digby Ferry Terminal,2018,Benzo[k]fluoranthene,0.67,2.512185977
+Hazen Creek Nearshore,2018,Benzo[k]fluoranthene,0.005,5.263157895
+Inner Harbour,2018,Benzo[k]fluoranthene,0.3,4.048582996
+Little River,2018,Benzo[k]fluoranthene,0.04,2.088772846
+Marsh Creek WS DS,2018,Benzo[k]fluoranthene,0.38,5.413105413
+Saints Rest Beach,2018,Benzo[k]fluoranthene,0.005,5.882352941
+Spar Cove,2018,Benzo[k]fluoranthene,0.005,2.222222222
+Tin Can Beach,2018,Benzo[k]fluoranthene,0.22,3.038674033
+Bayshore,2018,Chrysene + Triphenylene,0.005,4.166666667
+Black Beach,2018,Chrysene + Triphenylene,0.005,5.882352941
+Courtenay Bay,2018,Chrysene + Triphenylene,0.66,9.415121255
+Digby Ferry Terminal,2018,Chrysene + Triphenylene,1.8,6.749156355
+Hazen Creek Nearshore,2018,Chrysene + Triphenylene,0.005,5.263157895
+Inner Harbour,2018,Chrysene + Triphenylene,0.62,8.367071525
+Little River,2018,Chrysene + Triphenylene,0.14,7.310704961
+Marsh Creek WS DS,2018,Chrysene + Triphenylene,0.93,13.24786325
+Saints Rest Beach,2018,Chrysene + Triphenylene,0.005,5.882352941
+Spar Cove,2018,Chrysene + Triphenylene,0.02,8.888888889
+Tin Can Beach,2018,Chrysene + Triphenylene,0.53,7.320441989
+Bayshore,2018,"Dibenz[a,h]anthracene",0.005,4.166666667
+Black Beach,2018,"Dibenz[a,h]anthracene",0.005,5.882352941
+Courtenay Bay,2018,"Dibenz[a,h]anthracene",0.04,0.570613409
+Digby Ferry Terminal,2018,"Dibenz[a,h]anthracene",0.13,0.48743907
+Hazen Creek Nearshore,2018,"Dibenz[a,h]anthracene",0.005,5.263157895
+Inner Harbour,2018,"Dibenz[a,h]anthracene",0.06,0.809716599
+Little River,2018,"Dibenz[a,h]anthracene",0.04,2.088772846
+Marsh Creek WS DS,2018,"Dibenz[a,h]anthracene",0.05,0.712250712
+Saints Rest Beach,2018,"Dibenz[a,h]anthracene",0.005,5.882352941
+Spar Cove,2018,"Dibenz[a,h]anthracene",0.005,2.222222222
+Tin Can Beach,2018,"Dibenz[a,h]anthracene",0.04,0.552486188
+Bayshore,2018,Fluoranthene,0.02,16.66666667
+Black Beach,2018,Fluoranthene,0.005,5.882352941
+Courtenay Bay,2018,Fluoranthene,1.4,19.97146933
+Digby Ferry Terminal,2018,Fluoranthene,4.8,17.99775028
+Hazen Creek Nearshore,2018,Fluoranthene,0.01,10.52631579
+Inner Harbour,2018,Fluoranthene,1.3,17.54385965
+Little River,2018,Fluoranthene,0.22,11.48825065
+Marsh Creek WS DS,2018,Fluoranthene,0.92,13.10541311
+Saints Rest Beach,2018,Fluoranthene,0.005,5.882352941
+Spar Cove,2018,Fluoranthene,0.04,17.77777778
+Tin Can Beach,2018,Fluoranthene,1.3,17.9558011
+Bayshore,2018,Fluorene,0.005,4.166666667
+Black Beach,2018,Fluorene,0.005,5.882352941
+Courtenay Bay,2018,Fluorene,0.13,1.854493581
+Digby Ferry Terminal,2018,Fluorene,0.82,3.074615673
+Hazen Creek Nearshore,2018,Fluorene,0.005,5.263157895
+Inner Harbour,2018,Fluorene,0.08,1.079622132
+Little River,2018,Fluorene,0.02,1.044386423
+Marsh Creek WS DS,2018,Fluorene,0.15,2.136752137
+Saints Rest Beach,2018,Fluorene,0.005,5.882352941
+Spar Cove,2018,Fluorene,0.005,2.222222222
+Tin Can Beach,2018,Fluorene,0.17,2.348066298
+Bayshore,2018,"Indeno[1,2,3-cd]pyrene",0.005,4.166666667
+Black Beach,2018,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Courtenay Bay,2018,"Indeno[1,2,3-cd]pyrene",0.16,2.282453638
+Digby Ferry Terminal,2018,"Indeno[1,2,3-cd]pyrene",0.48,1.799775028
+Hazen Creek Nearshore,2018,"Indeno[1,2,3-cd]pyrene",0.005,5.263157895
+Inner Harbour,2018,"Indeno[1,2,3-cd]pyrene",0.24,3.238866397
+Little River,2018,"Indeno[1,2,3-cd]pyrene",0.1,5.221932115
+Marsh Creek WS DS,2018,"Indeno[1,2,3-cd]pyrene",0.23,3.276353276
+Saints Rest Beach,2018,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Spar Cove,2018,"Indeno[1,2,3-cd]pyrene",0.005,2.222222222
+Tin Can Beach,2018,"Indeno[1,2,3-cd]pyrene",0.15,2.071823204
+Bayshore,2018,Naphthalene,0.005,4.166666667
+Black Beach,2018,Naphthalene,0.005,5.882352941
+Courtenay Bay,2018,Naphthalene,0.05,0.713266762
+Digby Ferry Terminal,2018,Naphthalene,1,3.749531309
+Hazen Creek Nearshore,2018,Naphthalene,0.005,5.263157895
+Inner Harbour,2018,Naphthalene,0.04,0.539811066
+Little River,2018,Naphthalene,0.01,0.522193211
+Marsh Creek WS DS,2018,Naphthalene,0.04,0.56980057
+Saints Rest Beach,2018,Naphthalene,0.005,5.882352941
+Spar Cove,2018,Naphthalene,0.005,2.222222222
+Tin Can Beach,2018,Naphthalene,0.22,3.038674033
+Bayshore,2018,Phenanthrene,0.01,8.333333333
+Black Beach,2018,Phenanthrene,0.005,5.882352941
+Courtenay Bay,2018,Phenanthrene,0.64,9.129814551
+Digby Ferry Terminal,2018,Phenanthrene,5,18.74765654
+Hazen Creek Nearshore,2018,Phenanthrene,0.005,5.263157895
+Inner Harbour,2018,Phenanthrene,0.76,10.25641026
+Little River,2018,Phenanthrene,0.14,7.310704961
+Marsh Creek WS DS,2018,Phenanthrene,0.6,8.547008547
+Saints Rest Beach,2018,Phenanthrene,0.005,5.882352941
+Spar Cove,2018,Phenanthrene,0.02,8.888888889
+Tin Can Beach,2018,Phenanthrene,1.1,15.19337017
+Bayshore,2018,Pyrene,0.01,8.333333333
+Black Beach,2018,Pyrene,0.005,5.882352941
+Courtenay Bay,2018,Pyrene,0.87,12.41084165
+Digby Ferry Terminal,2018,Pyrene,3.9,14.6231721
+Hazen Creek Nearshore,2018,Pyrene,0.005,5.263157895
+Inner Harbour,2018,Pyrene,1.1,14.84480432
+Little River,2018,Pyrene,0.2,10.44386423
+Marsh Creek WS DS,2018,Pyrene,0.67,9.544159544
+Saints Rest Beach,2018,Pyrene,0.005,5.882352941
+Spar Cove,2018,Pyrene,0.03,13.33333333
+Tin Can Beach,2018,Pyrene,1.1,15.19337017
+Bayshore,2018,Total PAH,0.12,100
+Black Beach,2018,Total PAH,0.085,100
+Courtenay Bay,2018,Total PAH,7.01,100
+Digby Ferry Terminal,2018,Total PAH,26.67,100
+Hazen Creek Nearshore,2018,Total PAH,0.095,100
+Inner Harbour,2018,Total PAH,7.41,100
+Little River,2018,Total PAH,1.915,100
+Marsh Creek WS DS,2018,Total PAH,7.02,100
+Saints Rest Beach,2018,Total PAH,0.085,100
+Spar Cove,2018,Total PAH,0.225,100
+Tin Can Beach,2018,Total PAH,7.24,100
+Bayshore,2019,Acenaphthene,0.01,5.882352941
+Bayshore,2019,Acenaphthene,0.01,5.882352941
+Bayshore,2019,Acenaphthene,0.005,5.882352941
+Black Beach,2019,Acenaphthene,0.01,5.882352941
+Black Beach,2019,Acenaphthene,0.01,5.882352941
+Black Beach,2019,Acenaphthene,0.005,5
+Courtenay Bay,2019,Acenaphthene,0.03,1.754385965
+Courtenay Bay,2019,Acenaphthene,0.02,1.298701299
+Courtenay Bay,2019,Acenaphthene,0.03,0.896860987
+Digby Ferry Terminal,2019,Acenaphthene,0.01,4.347826087
+Digby Ferry Terminal,2019,Acenaphthene,0.06,2.316602317
+Digby Ferry Terminal,2019,Acenaphthene,0.01,1.204819277
+Hazen Creek Mouth,2019,Acenaphthene,0.01,5.882352941
+Hazen Creek Mouth,2019,Acenaphthene,0.01,4
+Hazen Creek Mouth,2019,Acenaphthene,0.005,5.882352941
+Hazen Creek Nearshore,2019,Acenaphthene,0.01,5.882352941
+Hazen Creek Nearshore,2019,Acenaphthene,0.01,5
+Hazen Creek Nearshore,2019,Acenaphthene,0.005,5.882352941
+Inner Harbour,2019,Acenaphthene,0.01,2.5
+Inner Harbour,2019,Acenaphthene,0.01,2.631578947
+Inner Harbour,2019,Acenaphthene,0.005,0.99009901
+Little River,2019,Acenaphthene,0.05,3.816793893
+Little River,2019,Acenaphthene,0.02,1.801801802
+Little River,2019,Acenaphthene,0.06,0.991735537
+Marsh Creek WS DS,2019,Acenaphthene,0.15,1.068376068
+Marsh Creek WS DS,2019,Acenaphthene,0.57,0.340664595
+Marsh Creek WS DS,2019,Acenaphthene,0.2,0.582580833
+Mispec,2019,Acenaphthene,0.01,5.882352941
+Mispec,2019,Acenaphthene,0.01,5.882352941
+Mispec,2019,Acenaphthene,0.005,5.882352941
+Saints Rest Beach,2019,Acenaphthene,0.01,5.882352941
+Saints Rest Beach,2019,Acenaphthene,0.01,5.882352941
+Saints Rest Beach,2019,Acenaphthene,0.005,5.882352941
+Spar Cove,2019,Acenaphthene,0.02,0.555555556
+Spar Cove,2019,Acenaphthene,0.09,0.551470588
+Tin Can Beach,2019,Acenaphthene,0.03,1.428571429
+Tin Can Beach,2019,Acenaphthene,0.01,0.680272109
+Tin Can Beach,2019,Acenaphthene,0.005,0.237529691
+Bayshore,2019,Acenaphthylene,0.01,5.882352941
+Bayshore,2019,Acenaphthylene,0.01,5.882352941
+Bayshore,2019,Acenaphthylene,0.005,5.882352941
+Black Beach,2019,Acenaphthylene,0.01,5.882352941
+Black Beach,2019,Acenaphthylene,0.01,5.882352941
+Black Beach,2019,Acenaphthylene,0.005,5
+Courtenay Bay,2019,Acenaphthylene,0.01,0.584795322
+Courtenay Bay,2019,Acenaphthylene,0.01,0.649350649
+Courtenay Bay,2019,Acenaphthylene,0.005,0.149476831
+Digby Ferry Terminal,2019,Acenaphthylene,0.01,4.347826087
+Digby Ferry Terminal,2019,Acenaphthylene,0.01,0.386100386
+Digby Ferry Terminal,2019,Acenaphthylene,0.005,0.602409639
+Hazen Creek Mouth,2019,Acenaphthylene,0.01,5.882352941
+Hazen Creek Mouth,2019,Acenaphthylene,0.01,4
+Hazen Creek Mouth,2019,Acenaphthylene,0.005,5.882352941
+Hazen Creek Nearshore,2019,Acenaphthylene,0.01,5.882352941
+Hazen Creek Nearshore,2019,Acenaphthylene,0.01,5
+Hazen Creek Nearshore,2019,Acenaphthylene,0.005,5.882352941
+Inner Harbour,2019,Acenaphthylene,0.01,2.5
+Inner Harbour,2019,Acenaphthylene,0.01,2.631578947
+Inner Harbour,2019,Acenaphthylene,0.005,0.99009901
+Little River,2019,Acenaphthylene,0.05,3.816793893
+Little River,2019,Acenaphthylene,0.04,3.603603604
+Little River,2019,Acenaphthylene,0.23,3.801652893
+Marsh Creek WS DS,2019,Acenaphthylene,0.13,0.925925926
+Marsh Creek WS DS,2019,Acenaphthylene,0.26,0.155390868
+Marsh Creek WS DS,2019,Acenaphthylene,0.1,0.291290417
+Mispec,2019,Acenaphthylene,0.01,5.882352941
+Mispec,2019,Acenaphthylene,0.01,5.882352941
+Mispec,2019,Acenaphthylene,0.005,5.882352941
+Saints Rest Beach,2019,Acenaphthylene,0.01,5.882352941
+Saints Rest Beach,2019,Acenaphthylene,0.01,5.882352941
+Saints Rest Beach,2019,Acenaphthylene,0.005,5.882352941
+Spar Cove,2019,Acenaphthylene,0.02,0.555555556
+Spar Cove,2019,Acenaphthylene,0.11,0.674019608
+Tin Can Beach,2019,Acenaphthylene,0.02,0.952380952
+Tin Can Beach,2019,Acenaphthylene,0.01,0.680272109
+Tin Can Beach,2019,Acenaphthylene,0.02,0.950118765
+Bayshore,2019,Anthracene,0.01,5.882352941
+Bayshore,2019,Anthracene,0.01,5.882352941
+Bayshore,2019,Anthracene,0.005,5.882352941
+Black Beach,2019,Anthracene,0.01,5.882352941
+Black Beach,2019,Anthracene,0.01,5.882352941
+Black Beach,2019,Anthracene,0.005,5
+Courtenay Bay,2019,Anthracene,0.05,2.923976608
+Courtenay Bay,2019,Anthracene,0.08,5.194805195
+Courtenay Bay,2019,Anthracene,0.54,16.14349776
+Digby Ferry Terminal,2019,Anthracene,0.01,4.347826087
+Digby Ferry Terminal,2019,Anthracene,0.15,5.791505792
+Digby Ferry Terminal,2019,Anthracene,0.04,4.819277108
+Hazen Creek Mouth,2019,Anthracene,0.01,5.882352941
+Hazen Creek Mouth,2019,Anthracene,0.01,4
+Hazen Creek Mouth,2019,Anthracene,0.005,5.882352941
+Hazen Creek Nearshore,2019,Anthracene,0.01,5.882352941
+Hazen Creek Nearshore,2019,Anthracene,0.01,5
+Hazen Creek Nearshore,2019,Anthracene,0.005,5.882352941
+Inner Harbour,2019,Anthracene,0.01,2.5
+Inner Harbour,2019,Anthracene,0.01,2.631578947
+Inner Harbour,2019,Anthracene,0.01,1.98019802
+Little River,2019,Anthracene,0.05,3.816793893
+Little River,2019,Anthracene,0.02,1.801801802
+Little River,2019,Anthracene,0.31,5.123966942
+Marsh Creek WS DS,2019,Anthracene,0.42,2.991452991
+Marsh Creek WS DS,2019,Anthracene,3.3,1.972268707
+Marsh Creek WS DS,2019,Anthracene,5,14.56452083
+Mispec,2019,Anthracene,0.01,5.882352941
+Mispec,2019,Anthracene,0.01,5.882352941
+Mispec,2019,Anthracene,0.005,5.882352941
+Saints Rest Beach,2019,Anthracene,0.01,5.882352941
+Saints Rest Beach,2019,Anthracene,0.01,5.882352941
+Saints Rest Beach,2019,Anthracene,0.005,5.882352941
+Spar Cove,2019,Anthracene,0.09,2.5
+Spar Cove,2019,Anthracene,0.37,2.267156863
+Tin Can Beach,2019,Anthracene,0.08,3.80952381
+Tin Can Beach,2019,Anthracene,0.04,2.721088435
+Tin Can Beach,2019,Anthracene,0.04,1.90023753
+Bayshore,2019,Benz[a]anthracene,0.01,5.882352941
+Bayshore,2019,Benz[a]anthracene,0.01,5.882352941
+Bayshore,2019,Benz[a]anthracene,0.005,5.882352941
+Black Beach,2019,Benz[a]anthracene,0.01,5.882352941
+Black Beach,2019,Benz[a]anthracene,0.01,5.882352941
+Black Beach,2019,Benz[a]anthracene,0.005,5
+Courtenay Bay,2019,Benz[a]anthracene,0.14,8.187134503
+Courtenay Bay,2019,Benz[a]anthracene,0.13,8.441558442
+Courtenay Bay,2019,Benz[a]anthracene,0.15,4.484304933
+Digby Ferry Terminal,2019,Benz[a]anthracene,0.02,8.695652174
+Digby Ferry Terminal,2019,Benz[a]anthracene,0.18,6.94980695
+Digby Ferry Terminal,2019,Benz[a]anthracene,0.07,8.43373494
+Hazen Creek Mouth,2019,Benz[a]anthracene,0.01,5.882352941
+Hazen Creek Mouth,2019,Benz[a]anthracene,0.02,8
+Hazen Creek Mouth,2019,Benz[a]anthracene,0.005,5.882352941
+Hazen Creek Nearshore,2019,Benz[a]anthracene,0.01,5.882352941
+Hazen Creek Nearshore,2019,Benz[a]anthracene,0.01,5
+Hazen Creek Nearshore,2019,Benz[a]anthracene,0.005,5.882352941
+Inner Harbour,2019,Benz[a]anthracene,0.03,7.5
+Inner Harbour,2019,Benz[a]anthracene,0.03,7.894736842
+Inner Harbour,2019,Benz[a]anthracene,0.04,7.920792079
+Little River,2019,Benz[a]anthracene,0.05,3.816793893
+Little River,2019,Benz[a]anthracene,0.06,5.405405405
+Little River,2019,Benz[a]anthracene,0.38,6.280991736
+Marsh Creek WS DS,2019,Benz[a]anthracene,1.1,7.834757835
+Marsh Creek WS DS,2019,Benz[a]anthracene,16,9.562514941
+Marsh Creek WS DS,2019,Benz[a]anthracene,2.1,6.117098747
+Mispec,2019,Benz[a]anthracene,0.01,5.882352941
+Mispec,2019,Benz[a]anthracene,0.01,5.882352941
+Mispec,2019,Benz[a]anthracene,0.005,5.882352941
+Saints Rest Beach,2019,Benz[a]anthracene,0.01,5.882352941
+Saints Rest Beach,2019,Benz[a]anthracene,0.01,5.882352941
+Saints Rest Beach,2019,Benz[a]anthracene,0.005,5.882352941
+Spar Cove,2019,Benz[a]anthracene,0.32,8.888888889
+Spar Cove,2019,Benz[a]anthracene,1.4,8.578431373
+Tin Can Beach,2019,Benz[a]anthracene,0.18,8.571428571
+Tin Can Beach,2019,Benz[a]anthracene,0.13,8.843537415
+Tin Can Beach,2019,Benz[a]anthracene,0.18,8.551068884
+Bayshore,2019,"Benzo(g,h,i)perylene-D12",0.01,5.882352941
+Bayshore,2019,"Benzo(g,h,i)perylene-D12",0.01,5.882352941
+Bayshore,2019,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Black Beach,2019,"Benzo(g,h,i)perylene-D12",0.01,5.882352941
+Black Beach,2019,"Benzo(g,h,i)perylene-D12",0.01,5.882352941
+Black Beach,2019,"Benzo(g,h,i)perylene-D12",0.005,5
+Courtenay Bay,2019,"Benzo(g,h,i)perylene-D12",0.04,2.339181287
+Courtenay Bay,2019,"Benzo(g,h,i)perylene-D12",0.04,2.597402597
+Courtenay Bay,2019,"Benzo(g,h,i)perylene-D12",0.09,2.69058296
+Digby Ferry Terminal,2019,"Benzo(g,h,i)perylene-D12",0.01,4.347826087
+Digby Ferry Terminal,2019,"Benzo(g,h,i)perylene-D12",0.06,2.316602317
+Digby Ferry Terminal,2019,"Benzo(g,h,i)perylene-D12",0.03,3.614457831
+Hazen Creek Mouth,2019,"Benzo(g,h,i)perylene-D12",0.01,5.882352941
+Hazen Creek Mouth,2019,"Benzo(g,h,i)perylene-D12",0.01,4
+Hazen Creek Mouth,2019,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Hazen Creek Nearshore,2019,"Benzo(g,h,i)perylene-D12",0.01,5.882352941
+Hazen Creek Nearshore,2019,"Benzo(g,h,i)perylene-D12",0.01,5
+Hazen Creek Nearshore,2019,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Inner Harbour,2019,"Benzo(g,h,i)perylene-D12",0.02,5
+Inner Harbour,2019,"Benzo(g,h,i)perylene-D12",0.02,5.263157895
+Inner Harbour,2019,"Benzo(g,h,i)perylene-D12",0.03,5.940594059
+Little River,2019,"Benzo(g,h,i)perylene-D12",0.05,3.816793893
+Little River,2019,"Benzo(g,h,i)perylene-D12",0.06,5.405405405
+Little River,2019,"Benzo(g,h,i)perylene-D12",0.39,6.446280992
+Marsh Creek WS DS,2019,"Benzo(g,h,i)perylene-D12",0.63,4.487179487
+Marsh Creek WS DS,2019,"Benzo(g,h,i)perylene-D12",2.1,1.255080086
+Marsh Creek WS DS,2019,"Benzo(g,h,i)perylene-D12",0.98,2.854646082
+Mispec,2019,"Benzo(g,h,i)perylene-D12",0.01,5.882352941
+Mispec,2019,"Benzo(g,h,i)perylene-D12",0.01,5.882352941
+Mispec,2019,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Saints Rest Beach,2019,"Benzo(g,h,i)perylene-D12",0.01,5.882352941
+Saints Rest Beach,2019,"Benzo(g,h,i)perylene-D12",0.01,5.882352941
+Saints Rest Beach,2019,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Spar Cove,2019,"Benzo(g,h,i)perylene-D12",0.14,3.888888889
+Spar Cove,2019,"Benzo(g,h,i)perylene-D12",0.79,4.840686275
+Tin Can Beach,2019,"Benzo(g,h,i)perylene-D12",0.07,3.333333333
+Tin Can Beach,2019,"Benzo(g,h,i)perylene-D12",0.05,3.401360544
+Tin Can Beach,2019,"Benzo(g,h,i)perylene-D12",0.12,5.700712589
+Bayshore,2019,Benzo[a]pyrene,0.01,5.882352941
+Bayshore,2019,Benzo[a]pyrene,0.01,5.882352941
+Bayshore,2019,Benzo[a]pyrene,0.005,5.882352941
+Black Beach,2019,Benzo[a]pyrene,0.01,5.882352941
+Black Beach,2019,Benzo[a]pyrene,0.01,5.882352941
+Black Beach,2019,Benzo[a]pyrene,0.005,5
+Courtenay Bay,2019,Benzo[a]pyrene,0.09,5.263157895
+Courtenay Bay,2019,Benzo[a]pyrene,0.08,5.194805195
+Courtenay Bay,2019,Benzo[a]pyrene,0.14,4.185351271
+Digby Ferry Terminal,2019,Benzo[a]pyrene,0.01,4.347826087
+Digby Ferry Terminal,2019,Benzo[a]pyrene,0.14,5.405405405
+Digby Ferry Terminal,2019,Benzo[a]pyrene,0.06,7.228915663
+Hazen Creek Mouth,2019,Benzo[a]pyrene,0.01,5.882352941
+Hazen Creek Mouth,2019,Benzo[a]pyrene,0.01,4
+Hazen Creek Mouth,2019,Benzo[a]pyrene,0.005,5.882352941
+Hazen Creek Nearshore,2019,Benzo[a]pyrene,0.01,5.882352941
+Hazen Creek Nearshore,2019,Benzo[a]pyrene,0.01,5
+Hazen Creek Nearshore,2019,Benzo[a]pyrene,0.005,5.882352941
+Inner Harbour,2019,Benzo[a]pyrene,0.02,5
+Inner Harbour,2019,Benzo[a]pyrene,0.03,7.894736842
+Inner Harbour,2019,Benzo[a]pyrene,0.04,7.920792079
+Little River,2019,Benzo[a]pyrene,0.1,7.633587786
+Little River,2019,Benzo[a]pyrene,0.08,7.207207207
+Little River,2019,Benzo[a]pyrene,0.55,9.090909091
+Marsh Creek WS DS,2019,Benzo[a]pyrene,1,7.122507123
+Marsh Creek WS DS,2019,Benzo[a]pyrene,7.4,4.42266316
+Marsh Creek WS DS,2019,Benzo[a]pyrene,1.8,5.243227498
+Mispec,2019,Benzo[a]pyrene,0.01,5.882352941
+Mispec,2019,Benzo[a]pyrene,0.01,5.882352941
+Mispec,2019,Benzo[a]pyrene,0.005,5.882352941
+Saints Rest Beach,2019,Benzo[a]pyrene,0.01,5.882352941
+Saints Rest Beach,2019,Benzo[a]pyrene,0.01,5.882352941
+Saints Rest Beach,2019,Benzo[a]pyrene,0.005,5.882352941
+Spar Cove,2019,Benzo[a]pyrene,0.26,7.222222222
+Spar Cove,2019,Benzo[a]pyrene,1.4,8.578431373
+Tin Can Beach,2019,Benzo[a]pyrene,0.15,7.142857143
+Tin Can Beach,2019,Benzo[a]pyrene,0.11,7.482993197
+Tin Can Beach,2019,Benzo[a]pyrene,0.2,9.501187648
+Bayshore,2019,"Benzo[b,j]fluoranthene",0.01,5.882352941
+Bayshore,2019,"Benzo[b,j]fluoranthene",0.01,5.882352941
+Bayshore,2019,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Black Beach,2019,"Benzo[b,j]fluoranthene",0.01,5.882352941
+Black Beach,2019,"Benzo[b,j]fluoranthene",0.01,5.882352941
+Black Beach,2019,"Benzo[b,j]fluoranthene",0.005,5
+Courtenay Bay,2019,"Benzo[b,j]fluoranthene",0.15,8.771929825
+Courtenay Bay,2019,"Benzo[b,j]fluoranthene",0.11,7.142857143
+Courtenay Bay,2019,"Benzo[b,j]fluoranthene",0.19,5.680119581
+Digby Ferry Terminal,2019,"Benzo[b,j]fluoranthene",0.02,8.695652174
+Digby Ferry Terminal,2019,"Benzo[b,j]fluoranthene",0.18,6.94980695
+Digby Ferry Terminal,2019,"Benzo[b,j]fluoranthene",0.06,7.228915663
+Hazen Creek Mouth,2019,"Benzo[b,j]fluoranthene",0.01,5.882352941
+Hazen Creek Mouth,2019,"Benzo[b,j]fluoranthene",0.04,16
+Hazen Creek Mouth,2019,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Hazen Creek Nearshore,2019,"Benzo[b,j]fluoranthene",0.01,5.882352941
+Hazen Creek Nearshore,2019,"Benzo[b,j]fluoranthene",0.01,5
+Hazen Creek Nearshore,2019,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Inner Harbour,2019,"Benzo[b,j]fluoranthene",0.04,10
+Inner Harbour,2019,"Benzo[b,j]fluoranthene",0.03,7.894736842
+Inner Harbour,2019,"Benzo[b,j]fluoranthene",0.05,9.900990099
+Little River,2019,"Benzo[b,j]fluoranthene",0.1,7.633587786
+Little River,2019,"Benzo[b,j]fluoranthene",0.08,7.207207207
+Little River,2019,"Benzo[b,j]fluoranthene",0.59,9.752066116
+Marsh Creek WS DS,2019,"Benzo[b,j]fluoranthene",1.5,10.68376068
+Marsh Creek WS DS,2019,"Benzo[b,j]fluoranthene",11,6.574229022
+Marsh Creek WS DS,2019,"Benzo[b,j]fluoranthene",2.7,7.864841247
+Mispec,2019,"Benzo[b,j]fluoranthene",0.01,5.882352941
+Mispec,2019,"Benzo[b,j]fluoranthene",0.01,5.882352941
+Mispec,2019,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Saints Rest Beach,2019,"Benzo[b,j]fluoranthene",0.01,5.882352941
+Saints Rest Beach,2019,"Benzo[b,j]fluoranthene",0.01,5.882352941
+Saints Rest Beach,2019,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Spar Cove,2019,"Benzo[b,j]fluoranthene",0.37,10.27777778
+Spar Cove,2019,"Benzo[b,j]fluoranthene",1.8,11.02941176
+Tin Can Beach,2019,"Benzo[b,j]fluoranthene",0.18,8.571428571
+Tin Can Beach,2019,"Benzo[b,j]fluoranthene",0.13,8.843537415
+Tin Can Beach,2019,"Benzo[b,j]fluoranthene",0.25,11.87648456
+Bayshore,2019,Benzo[e]pyrene,0.01,5.882352941
+Bayshore,2019,Benzo[e]pyrene,0.01,5.882352941
+Bayshore,2019,Benzo[e]pyrene,0.005,5.882352941
+Black Beach,2019,Benzo[e]pyrene,0.01,5.882352941
+Black Beach,2019,Benzo[e]pyrene,0.01,5.882352941
+Black Beach,2019,Benzo[e]pyrene,0.005,5
+Courtenay Bay,2019,Benzo[e]pyrene,0.08,4.678362573
+Courtenay Bay,2019,Benzo[e]pyrene,0.07,4.545454545
+Courtenay Bay,2019,Benzo[e]pyrene,0.12,3.587443946
+Digby Ferry Terminal,2019,Benzo[e]pyrene,0.01,4.347826087
+Digby Ferry Terminal,2019,Benzo[e]pyrene,0.09,3.474903475
+Digby Ferry Terminal,2019,Benzo[e]pyrene,0.04,4.819277108
+Hazen Creek Mouth,2019,Benzo[e]pyrene,0.01,5.882352941
+Hazen Creek Mouth,2019,Benzo[e]pyrene,0.02,8
+Hazen Creek Mouth,2019,Benzo[e]pyrene,0.005,5.882352941
+Hazen Creek Nearshore,2019,Benzo[e]pyrene,0.01,5.882352941
+Hazen Creek Nearshore,2019,Benzo[e]pyrene,0.01,5
+Hazen Creek Nearshore,2019,Benzo[e]pyrene,0.005,5.882352941
+Inner Harbour,2019,Benzo[e]pyrene,0.02,5
+Inner Harbour,2019,Benzo[e]pyrene,0.02,5.263157895
+Inner Harbour,2019,Benzo[e]pyrene,0.04,7.920792079
+Little River,2019,Benzo[e]pyrene,0.16,12.21374046
+Little River,2019,Benzo[e]pyrene,0.14,12.61261261
+Little River,2019,Benzo[e]pyrene,0.81,13.38842975
+Marsh Creek WS DS,2019,Benzo[e]pyrene,0.84,5.982905983
+Marsh Creek WS DS,2019,Benzo[e]pyrene,5.6,3.34688023
+Marsh Creek WS DS,2019,Benzo[e]pyrene,1.6,4.660646665
+Mispec,2019,Benzo[e]pyrene,0.01,5.882352941
+Mispec,2019,Benzo[e]pyrene,0.01,5.882352941
+Mispec,2019,Benzo[e]pyrene,0.005,5.882352941
+Saints Rest Beach,2019,Benzo[e]pyrene,0.01,5.882352941
+Saints Rest Beach,2019,Benzo[e]pyrene,0.01,5.882352941
+Saints Rest Beach,2019,Benzo[e]pyrene,0.005,5.882352941
+Spar Cove,2019,Benzo[e]pyrene,0.21,5.833333333
+Spar Cove,2019,Benzo[e]pyrene,1,6.12745098
+Tin Can Beach,2019,Benzo[e]pyrene,0.11,5.238095238
+Tin Can Beach,2019,Benzo[e]pyrene,0.08,5.442176871
+Tin Can Beach,2019,Benzo[e]pyrene,0.15,7.125890736
+Bayshore,2019,Benzo[k]fluoranthene,0.01,5.882352941
+Bayshore,2019,Benzo[k]fluoranthene,0.01,5.882352941
+Bayshore,2019,Benzo[k]fluoranthene,0.005,5.882352941
+Black Beach,2019,Benzo[k]fluoranthene,0.01,5.882352941
+Black Beach,2019,Benzo[k]fluoranthene,0.01,5.882352941
+Black Beach,2019,Benzo[k]fluoranthene,0.005,5
+Courtenay Bay,2019,Benzo[k]fluoranthene,0.05,2.923976608
+Courtenay Bay,2019,Benzo[k]fluoranthene,0.04,2.597402597
+Courtenay Bay,2019,Benzo[k]fluoranthene,0.08,2.391629297
+Digby Ferry Terminal,2019,Benzo[k]fluoranthene,0.01,4.347826087
+Digby Ferry Terminal,2019,Benzo[k]fluoranthene,0.06,2.316602317
+Digby Ferry Terminal,2019,Benzo[k]fluoranthene,0.03,3.614457831
+Hazen Creek Mouth,2019,Benzo[k]fluoranthene,0.01,5.882352941
+Hazen Creek Mouth,2019,Benzo[k]fluoranthene,0.01,4
+Hazen Creek Mouth,2019,Benzo[k]fluoranthene,0.005,5.882352941
+Hazen Creek Nearshore,2019,Benzo[k]fluoranthene,0.01,5.882352941
+Hazen Creek Nearshore,2019,Benzo[k]fluoranthene,0.01,5
+Hazen Creek Nearshore,2019,Benzo[k]fluoranthene,0.005,5.882352941
+Inner Harbour,2019,Benzo[k]fluoranthene,0.02,5
+Inner Harbour,2019,Benzo[k]fluoranthene,0.01,2.631578947
+Inner Harbour,2019,Benzo[k]fluoranthene,0.02,3.96039604
+Little River,2019,Benzo[k]fluoranthene,0.05,3.816793893
+Little River,2019,Benzo[k]fluoranthene,0.02,1.801801802
+Little River,2019,Benzo[k]fluoranthene,0.15,2.479338843
+Marsh Creek WS DS,2019,Benzo[k]fluoranthene,0.55,3.917378917
+Marsh Creek WS DS,2019,Benzo[k]fluoranthene,4.3,2.569925891
+Marsh Creek WS DS,2019,Benzo[k]fluoranthene,1.2,3.495484999
+Mispec,2019,Benzo[k]fluoranthene,0.01,5.882352941
+Mispec,2019,Benzo[k]fluoranthene,0.01,5.882352941
+Mispec,2019,Benzo[k]fluoranthene,0.005,5.882352941
+Saints Rest Beach,2019,Benzo[k]fluoranthene,0.01,5.882352941
+Saints Rest Beach,2019,Benzo[k]fluoranthene,0.01,5.882352941
+Saints Rest Beach,2019,Benzo[k]fluoranthene,0.005,5.882352941
+Spar Cove,2019,Benzo[k]fluoranthene,0.13,3.611111111
+Spar Cove,2019,Benzo[k]fluoranthene,0.73,4.473039216
+Tin Can Beach,2019,Benzo[k]fluoranthene,0.07,3.333333333
+Tin Can Beach,2019,Benzo[k]fluoranthene,0.05,3.401360544
+Tin Can Beach,2019,Benzo[k]fluoranthene,0.09,4.275534442
+Bayshore,2019,Chrysene + Triphenylene,0.01,5.882352941
+Bayshore,2019,Chrysene + Triphenylene,0.01,5.882352941
+Bayshore,2019,Chrysene + Triphenylene,0.005,5.882352941
+Black Beach,2019,Chrysene + Triphenylene,0.01,5.882352941
+Black Beach,2019,Chrysene + Triphenylene,0.01,5.882352941
+Black Beach,2019,Chrysene + Triphenylene,0.005,5
+Courtenay Bay,2019,Chrysene + Triphenylene,0.12,7.01754386
+Courtenay Bay,2019,Chrysene + Triphenylene,0.12,7.792207792
+Courtenay Bay,2019,Chrysene + Triphenylene,0.18,5.381165919
+Digby Ferry Terminal,2019,Chrysene + Triphenylene,0.01,4.347826087
+Digby Ferry Terminal,2019,Chrysene + Triphenylene,0.16,6.177606178
+Digby Ferry Terminal,2019,Chrysene + Triphenylene,0.06,7.228915663
+Hazen Creek Mouth,2019,Chrysene + Triphenylene,0.01,5.882352941
+Hazen Creek Mouth,2019,Chrysene + Triphenylene,0.03,12
+Hazen Creek Mouth,2019,Chrysene + Triphenylene,0.005,5.882352941
+Hazen Creek Nearshore,2019,Chrysene + Triphenylene,0.01,5.882352941
+Hazen Creek Nearshore,2019,Chrysene + Triphenylene,0.01,5
+Hazen Creek Nearshore,2019,Chrysene + Triphenylene,0.005,5.882352941
+Inner Harbour,2019,Chrysene + Triphenylene,0.03,7.5
+Inner Harbour,2019,Chrysene + Triphenylene,0.02,5.263157895
+Inner Harbour,2019,Chrysene + Triphenylene,0.04,7.920792079
+Little River,2019,Chrysene + Triphenylene,0.05,3.816793893
+Little River,2019,Chrysene + Triphenylene,0.16,14.41441441
+Little River,2019,Chrysene + Triphenylene,0.74,12.23140496
+Marsh Creek WS DS,2019,Chrysene + Triphenylene,1.1,7.834757835
+Marsh Creek WS DS,2019,Chrysene + Triphenylene,13,7.76954339
+Marsh Creek WS DS,2019,Chrysene + Triphenylene,2.1,6.117098747
+Mispec,2019,Chrysene + Triphenylene,0.01,5.882352941
+Mispec,2019,Chrysene + Triphenylene,0.01,5.882352941
+Mispec,2019,Chrysene + Triphenylene,0.005,5.882352941
+Saints Rest Beach,2019,Chrysene + Triphenylene,0.01,5.882352941
+Saints Rest Beach,2019,Chrysene + Triphenylene,0.01,5.882352941
+Saints Rest Beach,2019,Chrysene + Triphenylene,0.005,5.882352941
+Spar Cove,2019,Chrysene + Triphenylene,0.26,7.222222222
+Spar Cove,2019,Chrysene + Triphenylene,1.1,6.740196078
+Tin Can Beach,2019,Chrysene + Triphenylene,0.16,7.619047619
+Tin Can Beach,2019,Chrysene + Triphenylene,0.11,7.482993197
+Tin Can Beach,2019,Chrysene + Triphenylene,0.16,7.600950119
+Bayshore,2019,"Dibenz[a,h]anthracene",0.01,5.882352941
+Bayshore,2019,"Dibenz[a,h]anthracene",0.01,5.882352941
+Bayshore,2019,"Dibenz[a,h]anthracene",0.005,5.882352941
+Black Beach,2019,"Dibenz[a,h]anthracene",0.01,5.882352941
+Black Beach,2019,"Dibenz[a,h]anthracene",0.01,5.882352941
+Black Beach,2019,"Dibenz[a,h]anthracene",0.005,5
+Courtenay Bay,2019,"Dibenz[a,h]anthracene",0.01,0.584795322
+Courtenay Bay,2019,"Dibenz[a,h]anthracene",0.01,0.649350649
+Courtenay Bay,2019,"Dibenz[a,h]anthracene",0.02,0.597907324
+Digby Ferry Terminal,2019,"Dibenz[a,h]anthracene",0.01,4.347826087
+Digby Ferry Terminal,2019,"Dibenz[a,h]anthracene",0.02,0.772200772
+Digby Ferry Terminal,2019,"Dibenz[a,h]anthracene",0.005,0.602409639
+Hazen Creek Mouth,2019,"Dibenz[a,h]anthracene",0.01,5.882352941
+Hazen Creek Mouth,2019,"Dibenz[a,h]anthracene",0.01,4
+Hazen Creek Mouth,2019,"Dibenz[a,h]anthracene",0.005,5.882352941
+Hazen Creek Nearshore,2019,"Dibenz[a,h]anthracene",0.01,5.882352941
+Hazen Creek Nearshore,2019,"Dibenz[a,h]anthracene",0.01,5
+Hazen Creek Nearshore,2019,"Dibenz[a,h]anthracene",0.005,5.882352941
+Inner Harbour,2019,"Dibenz[a,h]anthracene",0.01,2.5
+Inner Harbour,2019,"Dibenz[a,h]anthracene",0.01,2.631578947
+Inner Harbour,2019,"Dibenz[a,h]anthracene",0.005,0.99009901
+Little River,2019,"Dibenz[a,h]anthracene",0.05,3.816793893
+Little River,2019,"Dibenz[a,h]anthracene",0.02,1.801801802
+Little River,2019,"Dibenz[a,h]anthracene",0.14,2.314049587
+Marsh Creek WS DS,2019,"Dibenz[a,h]anthracene",0.17,1.210826211
+Marsh Creek WS DS,2019,"Dibenz[a,h]anthracene",0.76,0.45421946
+Marsh Creek WS DS,2019,"Dibenz[a,h]anthracene",0.25,0.728226041
+Mispec,2019,"Dibenz[a,h]anthracene",0.01,5.882352941
+Mispec,2019,"Dibenz[a,h]anthracene",0.01,5.882352941
+Mispec,2019,"Dibenz[a,h]anthracene",0.005,5.882352941
+Saints Rest Beach,2019,"Dibenz[a,h]anthracene",0.01,5.882352941
+Saints Rest Beach,2019,"Dibenz[a,h]anthracene",0.01,5.882352941
+Saints Rest Beach,2019,"Dibenz[a,h]anthracene",0.005,5.882352941
+Spar Cove,2019,"Dibenz[a,h]anthracene",0.04,1.111111111
+Spar Cove,2019,"Dibenz[a,h]anthracene",0.17,1.041666667
+Tin Can Beach,2019,"Dibenz[a,h]anthracene",0.02,0.952380952
+Tin Can Beach,2019,"Dibenz[a,h]anthracene",0.02,1.360544218
+Tin Can Beach,2019,"Dibenz[a,h]anthracene",0.02,0.950118765
+Bayshore,2019,Fluoranthene,0.01,5.882352941
+Bayshore,2019,Fluoranthene,0.01,5.882352941
+Bayshore,2019,Fluoranthene,0.005,5.882352941
+Black Beach,2019,Fluoranthene,0.01,5.882352941
+Black Beach,2019,Fluoranthene,0.01,5.882352941
+Black Beach,2019,Fluoranthene,0.01,10
+Courtenay Bay,2019,Fluoranthene,0.41,23.97660819
+Courtenay Bay,2019,Fluoranthene,0.34,22.07792208
+Courtenay Bay,2019,Fluoranthene,0.32,9.56651719
+Digby Ferry Terminal,2019,Fluoranthene,0.03,13.04347826
+Digby Ferry Terminal,2019,Fluoranthene,0.42,16.21621622
+Digby Ferry Terminal,2019,Fluoranthene,0.13,15.6626506
+Hazen Creek Mouth,2019,Fluoranthene,0.01,5.882352941
+Hazen Creek Mouth,2019,Fluoranthene,0.01,4
+Hazen Creek Mouth,2019,Fluoranthene,0.005,5.882352941
+Hazen Creek Nearshore,2019,Fluoranthene,0.01,5.882352941
+Hazen Creek Nearshore,2019,Fluoranthene,0.02,10
+Hazen Creek Nearshore,2019,Fluoranthene,0.005,5.882352941
+Inner Harbour,2019,Fluoranthene,0.06,15
+Inner Harbour,2019,Fluoranthene,0.05,13.15789474
+Inner Harbour,2019,Fluoranthene,0.08,15.84158416
+Little River,2019,Fluoranthene,0.05,3.816793893
+Little River,2019,Fluoranthene,0.04,3.603603604
+Little River,2019,Fluoranthene,0.21,3.47107438
+Marsh Creek WS DS,2019,Fluoranthene,2.1,14.95726496
+Marsh Creek WS DS,2019,Fluoranthene,58,34.66411666
+Marsh Creek WS DS,2019,Fluoranthene,4.3,12.52548791
+Mispec,2019,Fluoranthene,0.01,5.882352941
+Mispec,2019,Fluoranthene,0.01,5.882352941
+Mispec,2019,Fluoranthene,0.005,5.882352941
+Saints Rest Beach,2019,Fluoranthene,0.01,5.882352941
+Saints Rest Beach,2019,Fluoranthene,0.01,5.882352941
+Saints Rest Beach,2019,Fluoranthene,0.005,5.882352941
+Spar Cove,2019,Fluoranthene,0.65,18.05555556
+Spar Cove,2019,Fluoranthene,2.6,15.93137255
+Tin Can Beach,2019,Fluoranthene,0.33,15.71428571
+Tin Can Beach,2019,Fluoranthene,0.24,16.32653061
+Tin Can Beach,2019,Fluoranthene,0.3,14.25178147
+Bayshore,2019,Fluorene,0.01,5.882352941
+Bayshore,2019,Fluorene,0.01,5.882352941
+Bayshore,2019,Fluorene,0.005,5.882352941
+Black Beach,2019,Fluorene,0.01,5.882352941
+Black Beach,2019,Fluorene,0.01,5.882352941
+Black Beach,2019,Fluorene,0.005,5
+Courtenay Bay,2019,Fluorene,0.03,1.754385965
+Courtenay Bay,2019,Fluorene,0.03,1.948051948
+Courtenay Bay,2019,Fluorene,0.29,8.669656203
+Digby Ferry Terminal,2019,Fluorene,0.01,4.347826087
+Digby Ferry Terminal,2019,Fluorene,0.09,3.474903475
+Digby Ferry Terminal,2019,Fluorene,0.02,2.409638554
+Hazen Creek Mouth,2019,Fluorene,0.01,5.882352941
+Hazen Creek Mouth,2019,Fluorene,0.01,4
+Hazen Creek Mouth,2019,Fluorene,0.005,5.882352941
+Hazen Creek Nearshore,2019,Fluorene,0.01,5.882352941
+Hazen Creek Nearshore,2019,Fluorene,0.01,5
+Hazen Creek Nearshore,2019,Fluorene,0.005,5.882352941
+Inner Harbour,2019,Fluorene,0.01,2.5
+Inner Harbour,2019,Fluorene,0.01,2.631578947
+Inner Harbour,2019,Fluorene,0.005,0.99009901
+Little River,2019,Fluorene,0.05,3.816793893
+Little River,2019,Fluorene,0.02,1.801801802
+Little River,2019,Fluorene,0.02,0.330578512
+Marsh Creek WS DS,2019,Fluorene,0.18,1.282051282
+Marsh Creek WS DS,2019,Fluorene,1,0.597657184
+Marsh Creek WS DS,2019,Fluorene,1.9,5.534517914
+Mispec,2019,Fluorene,0.01,5.882352941
+Mispec,2019,Fluorene,0.01,5.882352941
+Mispec,2019,Fluorene,0.005,5.882352941
+Saints Rest Beach,2019,Fluorene,0.01,5.882352941
+Saints Rest Beach,2019,Fluorene,0.01,5.882352941
+Saints Rest Beach,2019,Fluorene,0.005,5.882352941
+Spar Cove,2019,Fluorene,0.02,0.555555556
+Spar Cove,2019,Fluorene,0.13,0.796568627
+Tin Can Beach,2019,Fluorene,0.04,1.904761905
+Tin Can Beach,2019,Fluorene,0.02,1.360544218
+Tin Can Beach,2019,Fluorene,0.01,0.475059382
+Bayshore,2019,"Indeno[1,2,3-cd]pyrene",0.01,5.882352941
+Bayshore,2019,"Indeno[1,2,3-cd]pyrene",0.01,5.882352941
+Bayshore,2019,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Black Beach,2019,"Indeno[1,2,3-cd]pyrene",0.01,5.882352941
+Black Beach,2019,"Indeno[1,2,3-cd]pyrene",0.01,5.882352941
+Black Beach,2019,"Indeno[1,2,3-cd]pyrene",0.005,5
+Courtenay Bay,2019,"Indeno[1,2,3-cd]pyrene",0.05,2.923976608
+Courtenay Bay,2019,"Indeno[1,2,3-cd]pyrene",0.04,2.597402597
+Courtenay Bay,2019,"Indeno[1,2,3-cd]pyrene",0.09,2.69058296
+Digby Ferry Terminal,2019,"Indeno[1,2,3-cd]pyrene",0.01,4.347826087
+Digby Ferry Terminal,2019,"Indeno[1,2,3-cd]pyrene",0.07,2.702702703
+Digby Ferry Terminal,2019,"Indeno[1,2,3-cd]pyrene",0.03,3.614457831
+Hazen Creek Mouth,2019,"Indeno[1,2,3-cd]pyrene",0.01,5.882352941
+Hazen Creek Mouth,2019,"Indeno[1,2,3-cd]pyrene",0.01,4
+Hazen Creek Mouth,2019,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Hazen Creek Nearshore,2019,"Indeno[1,2,3-cd]pyrene",0.01,5.882352941
+Hazen Creek Nearshore,2019,"Indeno[1,2,3-cd]pyrene",0.01,5
+Hazen Creek Nearshore,2019,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Inner Harbour,2019,"Indeno[1,2,3-cd]pyrene",0.01,2.5
+Inner Harbour,2019,"Indeno[1,2,3-cd]pyrene",0.02,5.263157895
+Inner Harbour,2019,"Indeno[1,2,3-cd]pyrene",0.02,3.96039604
+Little River,2019,"Indeno[1,2,3-cd]pyrene",0.05,3.816793893
+Little River,2019,"Indeno[1,2,3-cd]pyrene",0.02,1.801801802
+Little River,2019,"Indeno[1,2,3-cd]pyrene",0.19,3.140495868
+Marsh Creek WS DS,2019,"Indeno[1,2,3-cd]pyrene",0.66,4.700854701
+Marsh Creek WS DS,2019,"Indeno[1,2,3-cd]pyrene",2.7,1.613674396
+Marsh Creek WS DS,2019,"Indeno[1,2,3-cd]pyrene",1.1,3.204194582
+Mispec,2019,"Indeno[1,2,3-cd]pyrene",0.01,5.882352941
+Mispec,2019,"Indeno[1,2,3-cd]pyrene",0.01,5.882352941
+Mispec,2019,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Saints Rest Beach,2019,"Indeno[1,2,3-cd]pyrene",0.01,5.882352941
+Saints Rest Beach,2019,"Indeno[1,2,3-cd]pyrene",0.01,5.882352941
+Saints Rest Beach,2019,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Spar Cove,2019,"Indeno[1,2,3-cd]pyrene",0.14,3.888888889
+Spar Cove,2019,"Indeno[1,2,3-cd]pyrene",0.87,5.330882353
+Tin Can Beach,2019,"Indeno[1,2,3-cd]pyrene",0.08,3.80952381
+Tin Can Beach,2019,"Indeno[1,2,3-cd]pyrene",0.06,4.081632653
+Tin Can Beach,2019,"Indeno[1,2,3-cd]pyrene",0.12,5.700712589
+Bayshore,2019,Naphthalene,0.01,5.882352941
+Bayshore,2019,Naphthalene,0.01,5.882352941
+Bayshore,2019,Naphthalene,0.005,5.882352941
+Black Beach,2019,Naphthalene,0.01,5.882352941
+Black Beach,2019,Naphthalene,0.01,5.882352941
+Black Beach,2019,Naphthalene,0.005,5
+Courtenay Bay,2019,Naphthalene,0.01,0.584795322
+Courtenay Bay,2019,Naphthalene,0.02,1.298701299
+Courtenay Bay,2019,Naphthalene,0.02,0.597907324
+Digby Ferry Terminal,2019,Naphthalene,0.01,4.347826087
+Digby Ferry Terminal,2019,Naphthalene,0.07,2.702702703
+Digby Ferry Terminal,2019,Naphthalene,0.03,3.614457831
+Hazen Creek Mouth,2019,Naphthalene,0.01,5.882352941
+Hazen Creek Mouth,2019,Naphthalene,0.01,4
+Hazen Creek Mouth,2019,Naphthalene,0.005,5.882352941
+Hazen Creek Nearshore,2019,Naphthalene,0.01,5.882352941
+Hazen Creek Nearshore,2019,Naphthalene,0.01,5
+Hazen Creek Nearshore,2019,Naphthalene,0.005,5.882352941
+Inner Harbour,2019,Naphthalene,0.01,2.5
+Inner Harbour,2019,Naphthalene,0.01,2.631578947
+Inner Harbour,2019,Naphthalene,0.005,0.99009901
+Little River,2019,Naphthalene,0.05,3.816793893
+Little River,2019,Naphthalene,0.02,1.801801802
+Little River,2019,Naphthalene,0.02,0.330578512
+Marsh Creek WS DS,2019,Naphthalene,0.11,0.783475783
+Marsh Creek WS DS,2019,Naphthalene,0.33,0.197226871
+Marsh Creek WS DS,2019,Naphthalene,0.2,0.582580833
+Mispec,2019,Naphthalene,0.01,5.882352941
+Mispec,2019,Naphthalene,0.01,5.882352941
+Mispec,2019,Naphthalene,0.005,5.882352941
+Saints Rest Beach,2019,Naphthalene,0.01,5.882352941
+Saints Rest Beach,2019,Naphthalene,0.01,5.882352941
+Saints Rest Beach,2019,Naphthalene,0.005,5.882352941
+Spar Cove,2019,Naphthalene,0.02,0.555555556
+Spar Cove,2019,Naphthalene,0.06,0.367647059
+Tin Can Beach,2019,Naphthalene,0.03,1.428571429
+Tin Can Beach,2019,Naphthalene,0.05,3.401360544
+Tin Can Beach,2019,Naphthalene,0.02,0.950118765
+Bayshore,2019,Phenanthrene,0.01,5.882352941
+Bayshore,2019,Phenanthrene,0.01,5.882352941
+Bayshore,2019,Phenanthrene,0.005,5.882352941
+Black Beach,2019,Phenanthrene,0.01,5.882352941
+Black Beach,2019,Phenanthrene,0.01,5.882352941
+Black Beach,2019,Phenanthrene,0.01,10
+Courtenay Bay,2019,Phenanthrene,0.17,9.941520468
+Courtenay Bay,2019,Phenanthrene,0.17,11.03896104
+Courtenay Bay,2019,Phenanthrene,0.83,24.81315396
+Digby Ferry Terminal,2019,Phenanthrene,0.02,8.695652174
+Digby Ferry Terminal,2019,Phenanthrene,0.49,18.91891892
+Digby Ferry Terminal,2019,Phenanthrene,0.11,13.25301205
+Hazen Creek Mouth,2019,Phenanthrene,0.01,5.882352941
+Hazen Creek Mouth,2019,Phenanthrene,0.01,4
+Hazen Creek Mouth,2019,Phenanthrene,0.005,5.882352941
+Hazen Creek Nearshore,2019,Phenanthrene,0.01,5.882352941
+Hazen Creek Nearshore,2019,Phenanthrene,0.02,10
+Hazen Creek Nearshore,2019,Phenanthrene,0.005,5.882352941
+Inner Harbour,2019,Phenanthrene,0.04,10
+Inner Harbour,2019,Phenanthrene,0.04,10.52631579
+Inner Harbour,2019,Phenanthrene,0.04,7.920792079
+Little River,2019,Phenanthrene,0.05,3.816793893
+Little River,2019,Phenanthrene,0.04,3.603603604
+Little River,2019,Phenanthrene,0.06,0.991735537
+Marsh Creek WS DS,2019,Phenanthrene,1.7,12.10826211
+Marsh Creek WS DS,2019,Phenanthrene,5,2.988285919
+Marsh Creek WS DS,2019,Phenanthrene,5.8,16.89484416
+Mispec,2019,Phenanthrene,0.01,5.882352941
+Mispec,2019,Phenanthrene,0.01,5.882352941
+Mispec,2019,Phenanthrene,0.005,5.882352941
+Saints Rest Beach,2019,Phenanthrene,0.01,5.882352941
+Saints Rest Beach,2019,Phenanthrene,0.01,5.882352941
+Saints Rest Beach,2019,Phenanthrene,0.005,5.882352941
+Spar Cove,2019,Phenanthrene,0.34,9.444444444
+Spar Cove,2019,Phenanthrene,1.3,7.965686275
+Tin Can Beach,2019,Phenanthrene,0.26,12.38095238
+Tin Can Beach,2019,Phenanthrene,0.13,8.843537415
+Tin Can Beach,2019,Phenanthrene,0.14,6.650831354
+Bayshore,2019,Pyrene,0.01,5.882352941
+Bayshore,2019,Pyrene,0.01,5.882352941
+Bayshore,2019,Pyrene,0.005,5.882352941
+Black Beach,2019,Pyrene,0.01,5.882352941
+Black Beach,2019,Pyrene,0.01,5.882352941
+Black Beach,2019,Pyrene,0.01,10
+Courtenay Bay,2019,Pyrene,0.27,15.78947368
+Courtenay Bay,2019,Pyrene,0.23,14.93506494
+Courtenay Bay,2019,Pyrene,0.25,7.473841555
+Digby Ferry Terminal,2019,Pyrene,0.02,8.695652174
+Digby Ferry Terminal,2019,Pyrene,0.34,13.12741313
+Digby Ferry Terminal,2019,Pyrene,0.11,13.25301205
+Hazen Creek Mouth,2019,Pyrene,0.01,5.882352941
+Hazen Creek Mouth,2019,Pyrene,0.02,8
+Hazen Creek Mouth,2019,Pyrene,0.005,5.882352941
+Hazen Creek Nearshore,2019,Pyrene,0.01,5.882352941
+Hazen Creek Nearshore,2019,Pyrene,0.02,10
+Hazen Creek Nearshore,2019,Pyrene,0.005,5.882352941
+Inner Harbour,2019,Pyrene,0.05,12.5
+Inner Harbour,2019,Pyrene,0.05,13.15789474
+Inner Harbour,2019,Pyrene,0.07,13.86138614
+Little River,2019,Pyrene,0.3,22.90076336
+Little River,2019,Pyrene,0.27,24.32432432
+Little River,2019,Pyrene,1.2,19.83471074
+Marsh Creek WS DS,2019,Pyrene,1.7,12.10826211
+Marsh Creek WS DS,2019,Pyrene,36,21.51565862
+Marsh Creek WS DS,2019,Pyrene,3,8.738712496
+Mispec,2019,Pyrene,0.01,5.882352941
+Mispec,2019,Pyrene,0.01,5.882352941
+Mispec,2019,Pyrene,0.005,5.882352941
+Saints Rest Beach,2019,Pyrene,0.01,5.882352941
+Saints Rest Beach,2019,Pyrene,0.01,5.882352941
+Saints Rest Beach,2019,Pyrene,0.005,5.882352941
+Spar Cove,2019,Pyrene,0.57,15.83333333
+Spar Cove,2019,Pyrene,2.4,14.70588235
+Tin Can Beach,2019,Pyrene,0.29,13.80952381
+Tin Can Beach,2019,Pyrene,0.23,15.6462585
+Tin Can Beach,2019,Pyrene,0.28,13.30166271
+Bayshore,2019,Total PAH,0.17,100
+Bayshore,2019,Total PAH,0.17,100
+Bayshore,2019,Total PAH,0.085,100
+Black Beach,2019,Total PAH,0.17,100
+Black Beach,2019,Total PAH,0.17,100
+Black Beach,2019,Total PAH,0.1,100
+Courtenay Bay,2019,Total PAH,1.71,100
+Courtenay Bay,2019,Total PAH,1.54,100
+Courtenay Bay,2019,Total PAH,3.345,100
+Digby Ferry Terminal,2019,Total PAH,0.23,100
+Digby Ferry Terminal,2019,Total PAH,2.59,100
+Digby Ferry Terminal,2019,Total PAH,0.83,100
+Hazen Creek Mouth,2019,Total PAH,0.17,100
+Hazen Creek Mouth,2019,Total PAH,0.25,100
+Hazen Creek Mouth,2019,Total PAH,0.085,100
+Hazen Creek Nearshore,2019,Total PAH,0.17,100
+Hazen Creek Nearshore,2019,Total PAH,0.2,100
+Hazen Creek Nearshore,2019,Total PAH,0.085,100
+Inner Harbour,2019,Total PAH,0.4,100
+Inner Harbour,2019,Total PAH,0.38,100
+Inner Harbour,2019,Total PAH,0.505,100
+Little River,2019,Total PAH,1.31,100
+Little River,2019,Total PAH,1.11,100
+Little River,2019,Total PAH,6.05,100
+Marsh Creek WS DS,2019,Total PAH,14.04,100
+Marsh Creek WS DS,2019,Total PAH,167.32,100
+Marsh Creek WS DS,2019,Total PAH,34.33,100
+Mispec,2019,Total PAH,0.17,100
+Mispec,2019,Total PAH,0.17,100
+Mispec,2019,Total PAH,0.085,100
+Saints Rest Beach,2019,Total PAH,0.17,100
+Saints Rest Beach,2019,Total PAH,0.17,100
+Saints Rest Beach,2019,Total PAH,0.085,100
+Spar Cove,2019,Total PAH,3.6,100
+Spar Cove,2019,Total PAH,16.32,100
+Tin Can Beach,2019,Total PAH,2.1,100
+Tin Can Beach,2019,Total PAH,1.47,100
+Tin Can Beach,2019,Total PAH,2.105,100
+Bayshore,2020,Acenaphthene,0.005,5.882352941
+Bayshore,2020,Acenaphthene,0.005,5.882352941
+Bayshore,2020,Acenaphthene,0.005,5.882352941
+Black Beach,2020,Acenaphthene,0.005,5.882352941
+Black Beach,2020,Acenaphthene,0.005,5.882352941
+Black Beach,2020,Acenaphthene,0.005,5.882352941
+Courtenay Bay,2020,Acenaphthene,0.005,0.36101083
+Courtenay Bay,2020,Acenaphthene,0.02,0.894854586
+Courtenay Bay,2020,Acenaphthene,0.06,1.2
+Digby Ferry Terminal,2020,Acenaphthene,0.01,0.757575758
+Digby Ferry Terminal,2020,Acenaphthene,0.005,1.01010101
+Digby Ferry Terminal,2020,Acenaphthene,0.11,2.240325866
+Hazen Creek Mouth,2020,Acenaphthene,0.005,5.882352941
+Hazen Creek Mouth,2020,Acenaphthene,0.005,5.882352941
+Hazen Creek Mouth,2020,Acenaphthene,0.005,5.882352941
+Hazen Creek Nearshore,2020,Acenaphthene,0.005,2.5
+Hazen Creek Nearshore,2020,Acenaphthene,0.005,5.882352941
+Hazen Creek Nearshore,2020,Acenaphthene,0.005,2.380952381
+Inner Harbour,2020,Acenaphthene,0.005,1.075268817
+Inner Harbour,2020,Acenaphthene,0.005,1.298701299
+Inner Harbour,2020,Acenaphthene,0.005,0.775193798
+Little River,2020,Acenaphthene,0.03,0.727272727
+Little River,2020,Acenaphthene,0.005,0.347222222
+Little River,2020,Acenaphthene,0.01,0.514138817
+Marsh Creek WS DS,2020,Acenaphthene,0.09,0.762711864
+Marsh Creek WS DS,2020,Acenaphthene,0.75,1.829268293
+Marsh Creek WS DS,2020,Acenaphthene,2.5,1.748985588
+Mispec,2020,Acenaphthene,0.005,5.882352941
+Mispec,2020,Acenaphthene,0.005,5.882352941
+Mispec,2020,Acenaphthene,0.005,5.882352941
+Saints Rest Beach,2020,Acenaphthene,0.005,5.882352941
+Saints Rest Beach,2020,Acenaphthene,0.005,5.882352941
+Saints Rest Beach,2020,Acenaphthene,0.005,5.882352941
+Spar Cove,2020,Acenaphthene,0.06,0.902255639
+Spar Cove,2020,Acenaphthene,0.03,0.561797753
+Spar Cove,2020,Acenaphthene,0.06,0.071208165
+Tin Can Beach,2020,Acenaphthene,0.01,0.317460317
+Tin Can Beach,2020,Acenaphthene,0.01,0.264550265
+Tin Can Beach,2020,Acenaphthene,0.09,1.272984441
+Bayshore,2020,Acenaphthylene,0.005,5.882352941
+Bayshore,2020,Acenaphthylene,0.005,5.882352941
+Bayshore,2020,Acenaphthylene,0.005,5.882352941
+Black Beach,2020,Acenaphthylene,0.005,5.882352941
+Black Beach,2020,Acenaphthylene,0.005,5.882352941
+Black Beach,2020,Acenaphthylene,0.005,5.882352941
+Courtenay Bay,2020,Acenaphthylene,0.005,0.36101083
+Courtenay Bay,2020,Acenaphthylene,0.005,0.223713647
+Courtenay Bay,2020,Acenaphthylene,0.01,0.2
+Digby Ferry Terminal,2020,Acenaphthylene,0.01,0.757575758
+Digby Ferry Terminal,2020,Acenaphthylene,0.005,1.01010101
+Digby Ferry Terminal,2020,Acenaphthylene,0.01,0.203665988
+Hazen Creek Mouth,2020,Acenaphthylene,0.005,5.882352941
+Hazen Creek Mouth,2020,Acenaphthylene,0.005,5.882352941
+Hazen Creek Mouth,2020,Acenaphthylene,0.005,5.882352941
+Hazen Creek Nearshore,2020,Acenaphthylene,0.005,2.5
+Hazen Creek Nearshore,2020,Acenaphthylene,0.005,5.882352941
+Hazen Creek Nearshore,2020,Acenaphthylene,0.005,2.380952381
+Inner Harbour,2020,Acenaphthylene,0.005,1.075268817
+Inner Harbour,2020,Acenaphthylene,0.005,1.298701299
+Inner Harbour,2020,Acenaphthylene,0.005,0.775193798
+Little River,2020,Acenaphthylene,0.005,0.121212121
+Little River,2020,Acenaphthylene,0.005,0.347222222
+Little River,2020,Acenaphthylene,0.005,0.257069409
+Marsh Creek WS DS,2020,Acenaphthylene,0.06,0.508474576
+Marsh Creek WS DS,2020,Acenaphthylene,0.15,0.365853659
+Marsh Creek WS DS,2020,Acenaphthylene,0.44,0.307821464
+Mispec,2020,Acenaphthylene,0.005,5.882352941
+Mispec,2020,Acenaphthylene,0.005,5.882352941
+Mispec,2020,Acenaphthylene,0.005,5.882352941
+Saints Rest Beach,2020,Acenaphthylene,0.005,5.882352941
+Saints Rest Beach,2020,Acenaphthylene,0.005,5.882352941
+Saints Rest Beach,2020,Acenaphthylene,0.005,5.882352941
+Spar Cove,2020,Acenaphthylene,0.03,0.45112782
+Spar Cove,2020,Acenaphthylene,0.04,0.74906367
+Spar Cove,2020,Acenaphthylene,0.04,0.04747211
+Tin Can Beach,2020,Acenaphthylene,0.04,1.26984127
+Tin Can Beach,2020,Acenaphthylene,0.04,1.058201058
+Tin Can Beach,2020,Acenaphthylene,0.04,0.565770863
+Bayshore,2020,Anthracene,0.005,5.882352941
+Bayshore,2020,Anthracene,0.005,5.882352941
+Bayshore,2020,Anthracene,0.005,5.882352941
+Black Beach,2020,Anthracene,0.005,5.882352941
+Black Beach,2020,Anthracene,0.005,5.882352941
+Black Beach,2020,Anthracene,0.005,5.882352941
+Courtenay Bay,2020,Anthracene,0.06,4.332129964
+Courtenay Bay,2020,Anthracene,0.12,5.369127517
+Courtenay Bay,2020,Anthracene,0.38,7.6
+Digby Ferry Terminal,2020,Anthracene,0.05,3.787878788
+Digby Ferry Terminal,2020,Anthracene,0.02,4.04040404
+Digby Ferry Terminal,2020,Anthracene,0.28,5.702647658
+Hazen Creek Mouth,2020,Anthracene,0.005,5.882352941
+Hazen Creek Mouth,2020,Anthracene,0.005,5.882352941
+Hazen Creek Mouth,2020,Anthracene,0.005,5.882352941
+Hazen Creek Nearshore,2020,Anthracene,0.005,2.5
+Hazen Creek Nearshore,2020,Anthracene,0.005,5.882352941
+Hazen Creek Nearshore,2020,Anthracene,0.005,2.380952381
+Inner Harbour,2020,Anthracene,0.01,2.150537634
+Inner Harbour,2020,Anthracene,0.01,2.597402597
+Inner Harbour,2020,Anthracene,0.02,3.100775194
+Little River,2020,Anthracene,0.17,4.121212121
+Little River,2020,Anthracene,0.04,2.777777778
+Little River,2020,Anthracene,0.06,3.084832905
+Marsh Creek WS DS,2020,Anthracene,0.39,3.305084746
+Marsh Creek WS DS,2020,Anthracene,1.9,4.634146341
+Marsh Creek WS DS,2020,Anthracene,8.5,5.946551
+Mispec,2020,Anthracene,0.005,5.882352941
+Mispec,2020,Anthracene,0.005,5.882352941
+Mispec,2020,Anthracene,0.005,5.882352941
+Saints Rest Beach,2020,Anthracene,0.005,5.882352941
+Saints Rest Beach,2020,Anthracene,0.005,5.882352941
+Saints Rest Beach,2020,Anthracene,0.005,5.882352941
+Spar Cove,2020,Anthracene,0.23,3.458646617
+Spar Cove,2020,Anthracene,0.13,2.434456929
+Spar Cove,2020,Anthracene,2,2.373605507
+Tin Can Beach,2020,Anthracene,0.07,2.222222222
+Tin Can Beach,2020,Anthracene,0.08,2.116402116
+Tin Can Beach,2020,Anthracene,0.27,3.818953324
+Bayshore,2020,Benz[a]anthracene,0.005,5.882352941
+Bayshore,2020,Benz[a]anthracene,0.005,5.882352941
+Bayshore,2020,Benz[a]anthracene,0.005,5.882352941
+Black Beach,2020,Benz[a]anthracene,0.005,5.882352941
+Black Beach,2020,Benz[a]anthracene,0.005,5.882352941
+Black Beach,2020,Benz[a]anthracene,0.005,5.882352941
+Courtenay Bay,2020,Benz[a]anthracene,0.11,7.942238267
+Courtenay Bay,2020,Benz[a]anthracene,0.23,10.29082774
+Courtenay Bay,2020,Benz[a]anthracene,0.36,7.2
+Digby Ferry Terminal,2020,Benz[a]anthracene,0.11,8.333333333
+Digby Ferry Terminal,2020,Benz[a]anthracene,0.04,8.080808081
+Digby Ferry Terminal,2020,Benz[a]anthracene,0.38,7.739307536
+Hazen Creek Mouth,2020,Benz[a]anthracene,0.005,5.882352941
+Hazen Creek Mouth,2020,Benz[a]anthracene,0.005,5.882352941
+Hazen Creek Mouth,2020,Benz[a]anthracene,0.005,5.882352941
+Hazen Creek Nearshore,2020,Benz[a]anthracene,0.01,5
+Hazen Creek Nearshore,2020,Benz[a]anthracene,0.005,5.882352941
+Hazen Creek Nearshore,2020,Benz[a]anthracene,0.02,9.523809524
+Inner Harbour,2020,Benz[a]anthracene,0.04,8.602150538
+Inner Harbour,2020,Benz[a]anthracene,0.03,7.792207792
+Inner Harbour,2020,Benz[a]anthracene,0.05,7.751937984
+Little River,2020,Benz[a]anthracene,0.23,5.575757576
+Little River,2020,Benz[a]anthracene,0.1,6.944444444
+Little River,2020,Benz[a]anthracene,0.17,8.740359897
+Marsh Creek WS DS,2020,Benz[a]anthracene,0.96,8.13559322
+Marsh Creek WS DS,2020,Benz[a]anthracene,3.1,7.56097561
+Marsh Creek WS DS,2020,Benz[a]anthracene,10,6.995942353
+Mispec,2020,Benz[a]anthracene,0.005,5.882352941
+Mispec,2020,Benz[a]anthracene,0.005,5.882352941
+Mispec,2020,Benz[a]anthracene,0.005,5.882352941
+Saints Rest Beach,2020,Benz[a]anthracene,0.005,5.882352941
+Saints Rest Beach,2020,Benz[a]anthracene,0.005,5.882352941
+Saints Rest Beach,2020,Benz[a]anthracene,0.005,5.882352941
+Spar Cove,2020,Benz[a]anthracene,0.58,8.721804511
+Spar Cove,2020,Benz[a]anthracene,0.45,8.426966292
+Spar Cove,2020,Benz[a]anthracene,5.2,6.171374318
+Tin Can Beach,2020,Benz[a]anthracene,0.25,7.936507937
+Tin Can Beach,2020,Benz[a]anthracene,0.32,8.465608466
+Tin Can Beach,2020,Benz[a]anthracene,0.56,7.920792079
+Bayshore,2020,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Bayshore,2020,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Bayshore,2020,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Black Beach,2020,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Black Beach,2020,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Black Beach,2020,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Courtenay Bay,2020,"Benzo(g,h,i)perylene-D12",0.05,3.610108303
+Courtenay Bay,2020,"Benzo(g,h,i)perylene-D12",0.07,3.131991051
+Courtenay Bay,2020,"Benzo(g,h,i)perylene-D12",0.17,3.4
+Digby Ferry Terminal,2020,"Benzo(g,h,i)perylene-D12",0.04,3.03030303
+Digby Ferry Terminal,2020,"Benzo(g,h,i)perylene-D12",0.02,4.04040404
+Digby Ferry Terminal,2020,"Benzo(g,h,i)perylene-D12",0.12,2.443991853
+Hazen Creek Mouth,2020,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Hazen Creek Mouth,2020,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Hazen Creek Mouth,2020,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Hazen Creek Nearshore,2020,"Benzo(g,h,i)perylene-D12",0.005,2.5
+Hazen Creek Nearshore,2020,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Hazen Creek Nearshore,2020,"Benzo(g,h,i)perylene-D12",0.005,2.380952381
+Inner Harbour,2020,"Benzo(g,h,i)perylene-D12",0.02,4.301075269
+Inner Harbour,2020,"Benzo(g,h,i)perylene-D12",0.02,5.194805195
+Inner Harbour,2020,"Benzo(g,h,i)perylene-D12",0.04,6.201550388
+Little River,2020,"Benzo(g,h,i)perylene-D12",0.11,2.666666667
+Little River,2020,"Benzo(g,h,i)perylene-D12",0.12,8.333333333
+Little River,2020,"Benzo(g,h,i)perylene-D12",0.09,4.627249357
+Marsh Creek WS DS,2020,"Benzo(g,h,i)perylene-D12",0.53,4.491525424
+Marsh Creek WS DS,2020,"Benzo(g,h,i)perylene-D12",1.2,2.926829268
+Marsh Creek WS DS,2020,"Benzo(g,h,i)perylene-D12",3.8,2.658458094
+Mispec,2020,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Mispec,2020,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Mispec,2020,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Saints Rest Beach,2020,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Saints Rest Beach,2020,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Saints Rest Beach,2020,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Spar Cove,2020,"Benzo(g,h,i)perylene-D12",0.21,3.157894737
+Spar Cove,2020,"Benzo(g,h,i)perylene-D12",0.22,4.119850187
+Spar Cove,2020,"Benzo(g,h,i)perylene-D12",0.38,0.450985046
+Tin Can Beach,2020,"Benzo(g,h,i)perylene-D12",0.14,4.444444444
+Tin Can Beach,2020,"Benzo(g,h,i)perylene-D12",0.2,5.291005291
+Tin Can Beach,2020,"Benzo(g,h,i)perylene-D12",0.31,4.384724187
+Bayshore,2020,Benzo[a]pyrene,0.005,5.882352941
+Bayshore,2020,Benzo[a]pyrene,0.005,5.882352941
+Bayshore,2020,Benzo[a]pyrene,0.005,5.882352941
+Black Beach,2020,Benzo[a]pyrene,0.005,5.882352941
+Black Beach,2020,Benzo[a]pyrene,0.005,5.882352941
+Black Beach,2020,Benzo[a]pyrene,0.005,5.882352941
+Courtenay Bay,2020,Benzo[a]pyrene,0.09,6.498194946
+Courtenay Bay,2020,Benzo[a]pyrene,0.13,5.81655481
+Courtenay Bay,2020,Benzo[a]pyrene,0.34,6.8
+Digby Ferry Terminal,2020,Benzo[a]pyrene,0.08,6.060606061
+Digby Ferry Terminal,2020,Benzo[a]pyrene,0.04,8.080808081
+Digby Ferry Terminal,2020,Benzo[a]pyrene,0.3,6.109979633
+Hazen Creek Mouth,2020,Benzo[a]pyrene,0.005,5.882352941
+Hazen Creek Mouth,2020,Benzo[a]pyrene,0.005,5.882352941
+Hazen Creek Mouth,2020,Benzo[a]pyrene,0.005,5.882352941
+Hazen Creek Nearshore,2020,Benzo[a]pyrene,0.01,5
+Hazen Creek Nearshore,2020,Benzo[a]pyrene,0.005,5.882352941
+Hazen Creek Nearshore,2020,Benzo[a]pyrene,0.01,4.761904762
+Inner Harbour,2020,Benzo[a]pyrene,0.03,6.451612903
+Inner Harbour,2020,Benzo[a]pyrene,0.03,7.792207792
+Inner Harbour,2020,Benzo[a]pyrene,0.05,7.751937984
+Little River,2020,Benzo[a]pyrene,0.18,4.363636364
+Little River,2020,Benzo[a]pyrene,0.09,6.25
+Little River,2020,Benzo[a]pyrene,0.16,8.22622108
+Marsh Creek WS DS,2020,Benzo[a]pyrene,0.83,7.033898305
+Marsh Creek WS DS,2020,Benzo[a]pyrene,2.5,6.097560976
+Marsh Creek WS DS,2020,Benzo[a]pyrene,8.7,6.086469847
+Mispec,2020,Benzo[a]pyrene,0.005,5.882352941
+Mispec,2020,Benzo[a]pyrene,0.005,5.882352941
+Mispec,2020,Benzo[a]pyrene,0.005,5.882352941
+Saints Rest Beach,2020,Benzo[a]pyrene,0.005,5.882352941
+Saints Rest Beach,2020,Benzo[a]pyrene,0.005,5.882352941
+Saints Rest Beach,2020,Benzo[a]pyrene,0.005,5.882352941
+Spar Cove,2020,Benzo[a]pyrene,0.42,6.315789474
+Spar Cove,2020,Benzo[a]pyrene,0.43,8.052434457
+Spar Cove,2020,Benzo[a]pyrene,1.5,1.78020413
+Tin Can Beach,2020,Benzo[a]pyrene,0.27,8.571428571
+Tin Can Beach,2020,Benzo[a]pyrene,0.37,9.788359788
+Tin Can Beach,2020,Benzo[a]pyrene,0.6,8.486562942
+Bayshore,2020,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Bayshore,2020,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Bayshore,2020,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Black Beach,2020,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Black Beach,2020,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Black Beach,2020,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Courtenay Bay,2020,"Benzo[b,j]fluoranthene",0.16,11.55234657
+Courtenay Bay,2020,"Benzo[b,j]fluoranthene",0.2,8.948545861
+Courtenay Bay,2020,"Benzo[b,j]fluoranthene",0.41,8.2
+Digby Ferry Terminal,2020,"Benzo[b,j]fluoranthene",0.13,9.848484848
+Digby Ferry Terminal,2020,"Benzo[b,j]fluoranthene",0.05,10.1010101
+Digby Ferry Terminal,2020,"Benzo[b,j]fluoranthene",0.36,7.33197556
+Hazen Creek Mouth,2020,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Hazen Creek Mouth,2020,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Hazen Creek Mouth,2020,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Hazen Creek Nearshore,2020,"Benzo[b,j]fluoranthene",0.02,10
+Hazen Creek Nearshore,2020,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Hazen Creek Nearshore,2020,"Benzo[b,j]fluoranthene",0.02,9.523809524
+Inner Harbour,2020,"Benzo[b,j]fluoranthene",0.06,12.90322581
+Inner Harbour,2020,"Benzo[b,j]fluoranthene",0.04,10.38961039
+Inner Harbour,2020,"Benzo[b,j]fluoranthene",0.07,10.85271318
+Little River,2020,"Benzo[b,j]fluoranthene",0.28,6.787878788
+Little River,2020,"Benzo[b,j]fluoranthene",0.1,6.944444444
+Little River,2020,"Benzo[b,j]fluoranthene",0.18,9.254498715
+Marsh Creek WS DS,2020,"Benzo[b,j]fluoranthene",1.3,11.01694915
+Marsh Creek WS DS,2020,"Benzo[b,j]fluoranthene",3.3,8.048780488
+Marsh Creek WS DS,2020,"Benzo[b,j]fluoranthene",7.7,5.386875612
+Mispec,2020,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Mispec,2020,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Mispec,2020,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Saints Rest Beach,2020,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Saints Rest Beach,2020,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Saints Rest Beach,2020,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Spar Cove,2020,"Benzo[b,j]fluoranthene",0.63,9.473684211
+Spar Cove,2020,"Benzo[b,j]fluoranthene",0.54,10.11235955
+Spar Cove,2020,"Benzo[b,j]fluoranthene",2.6,3.085687159
+Tin Can Beach,2020,"Benzo[b,j]fluoranthene",0.4,12.6984127
+Tin Can Beach,2020,"Benzo[b,j]fluoranthene",0.44,11.64021164
+Tin Can Beach,2020,"Benzo[b,j]fluoranthene",0.67,9.476661952
+Bayshore,2020,Benzo[e]pyrene,0.005,5.882352941
+Bayshore,2020,Benzo[e]pyrene,0.005,5.882352941
+Bayshore,2020,Benzo[e]pyrene,0.005,5.882352941
+Black Beach,2020,Benzo[e]pyrene,0.005,5.882352941
+Black Beach,2020,Benzo[e]pyrene,0.005,5.882352941
+Black Beach,2020,Benzo[e]pyrene,0.005,5.882352941
+Courtenay Bay,2020,Benzo[e]pyrene,0.08,5.776173285
+Courtenay Bay,2020,Benzo[e]pyrene,0.1,4.474272931
+Courtenay Bay,2020,Benzo[e]pyrene,0.2,4
+Digby Ferry Terminal,2020,Benzo[e]pyrene,0.06,4.545454545
+Digby Ferry Terminal,2020,Benzo[e]pyrene,0.03,6.060606061
+Digby Ferry Terminal,2020,Benzo[e]pyrene,0.16,3.258655804
+Hazen Creek Mouth,2020,Benzo[e]pyrene,0.005,5.882352941
+Hazen Creek Mouth,2020,Benzo[e]pyrene,0.005,5.882352941
+Hazen Creek Mouth,2020,Benzo[e]pyrene,0.005,5.882352941
+Hazen Creek Nearshore,2020,Benzo[e]pyrene,0.005,2.5
+Hazen Creek Nearshore,2020,Benzo[e]pyrene,0.005,5.882352941
+Hazen Creek Nearshore,2020,Benzo[e]pyrene,0.005,2.380952381
+Inner Harbour,2020,Benzo[e]pyrene,0.03,6.451612903
+Inner Harbour,2020,Benzo[e]pyrene,0.02,5.194805195
+Inner Harbour,2020,Benzo[e]pyrene,0.04,6.201550388
+Little River,2020,Benzo[e]pyrene,0.17,4.121212121
+Little River,2020,Benzo[e]pyrene,0.18,12.5
+Little River,2020,Benzo[e]pyrene,0.12,6.16966581
+Marsh Creek WS DS,2020,Benzo[e]pyrene,0.69,5.847457627
+Marsh Creek WS DS,2020,Benzo[e]pyrene,1.4,3.414634146
+Marsh Creek WS DS,2020,Benzo[e]pyrene,4.4,3.078214636
+Mispec,2020,Benzo[e]pyrene,0.005,5.882352941
+Mispec,2020,Benzo[e]pyrene,0.005,5.882352941
+Mispec,2020,Benzo[e]pyrene,0.005,5.882352941
+Saints Rest Beach,2020,Benzo[e]pyrene,0.005,5.882352941
+Saints Rest Beach,2020,Benzo[e]pyrene,0.005,5.882352941
+Saints Rest Beach,2020,Benzo[e]pyrene,0.005,5.882352941
+Spar Cove,2020,Benzo[e]pyrene,0.29,4.360902256
+Spar Cove,2020,Benzo[e]pyrene,0.26,4.868913858
+Spar Cove,2020,Benzo[e]pyrene,1.1,1.305483029
+Tin Can Beach,2020,Benzo[e]pyrene,0.2,6.349206349
+Tin Can Beach,2020,Benzo[e]pyrene,0.21,5.555555556
+Tin Can Beach,2020,Benzo[e]pyrene,0.32,4.526166902
+Bayshore,2020,Benzo[k]fluoranthene,0.005,5.882352941
+Bayshore,2020,Benzo[k]fluoranthene,0.005,5.882352941
+Bayshore,2020,Benzo[k]fluoranthene,0.005,5.882352941
+Black Beach,2020,Benzo[k]fluoranthene,0.005,5.882352941
+Black Beach,2020,Benzo[k]fluoranthene,0.005,5.882352941
+Black Beach,2020,Benzo[k]fluoranthene,0.005,5.882352941
+Courtenay Bay,2020,Benzo[k]fluoranthene,0.05,3.610108303
+Courtenay Bay,2020,Benzo[k]fluoranthene,0.08,3.579418345
+Courtenay Bay,2020,Benzo[k]fluoranthene,0.16,3.2
+Digby Ferry Terminal,2020,Benzo[k]fluoranthene,0.04,3.03030303
+Digby Ferry Terminal,2020,Benzo[k]fluoranthene,0.02,4.04040404
+Digby Ferry Terminal,2020,Benzo[k]fluoranthene,0.14,2.851323829
+Hazen Creek Mouth,2020,Benzo[k]fluoranthene,0.005,5.882352941
+Hazen Creek Mouth,2020,Benzo[k]fluoranthene,0.005,5.882352941
+Hazen Creek Mouth,2020,Benzo[k]fluoranthene,0.005,5.882352941
+Hazen Creek Nearshore,2020,Benzo[k]fluoranthene,0.005,2.5
+Hazen Creek Nearshore,2020,Benzo[k]fluoranthene,0.005,5.882352941
+Hazen Creek Nearshore,2020,Benzo[k]fluoranthene,0.005,2.380952381
+Inner Harbour,2020,Benzo[k]fluoranthene,0.02,4.301075269
+Inner Harbour,2020,Benzo[k]fluoranthene,0.01,2.597402597
+Inner Harbour,2020,Benzo[k]fluoranthene,0.03,4.651162791
+Little River,2020,Benzo[k]fluoranthene,0.09,2.181818182
+Little River,2020,Benzo[k]fluoranthene,0.05,3.472222222
+Little River,2020,Benzo[k]fluoranthene,0.07,3.598971722
+Marsh Creek WS DS,2020,Benzo[k]fluoranthene,0.4,3.389830508
+Marsh Creek WS DS,2020,Benzo[k]fluoranthene,1,2.43902439
+Marsh Creek WS DS,2020,Benzo[k]fluoranthene,3.7,2.588498671
+Mispec,2020,Benzo[k]fluoranthene,0.005,5.882352941
+Mispec,2020,Benzo[k]fluoranthene,0.005,5.882352941
+Mispec,2020,Benzo[k]fluoranthene,0.005,5.882352941
+Saints Rest Beach,2020,Benzo[k]fluoranthene,0.005,5.882352941
+Saints Rest Beach,2020,Benzo[k]fluoranthene,0.005,5.882352941
+Saints Rest Beach,2020,Benzo[k]fluoranthene,0.005,5.882352941
+Spar Cove,2020,Benzo[k]fluoranthene,0.22,3.308270677
+Spar Cove,2020,Benzo[k]fluoranthene,0.2,3.745318352
+Spar Cove,2020,Benzo[k]fluoranthene,1.2,1.424163304
+Tin Can Beach,2020,Benzo[k]fluoranthene,0.12,3.80952381
+Tin Can Beach,2020,Benzo[k]fluoranthene,0.16,4.232804233
+Tin Can Beach,2020,Benzo[k]fluoranthene,0.26,3.677510608
+Bayshore,2020,Chrysene + Triphenylene,0.005,5.882352941
+Bayshore,2020,Chrysene + Triphenylene,0.005,5.882352941
+Bayshore,2020,Chrysene + Triphenylene,0.005,5.882352941
+Black Beach,2020,Chrysene + Triphenylene,0.005,5.882352941
+Black Beach,2020,Chrysene + Triphenylene,0.005,5.882352941
+Black Beach,2020,Chrysene + Triphenylene,0.005,5.882352941
+Courtenay Bay,2020,Chrysene + Triphenylene,0.17,12.27436823
+Courtenay Bay,2020,Chrysene + Triphenylene,0.28,12.52796421
+Courtenay Bay,2020,Chrysene + Triphenylene,0.32,6.4
+Digby Ferry Terminal,2020,Chrysene + Triphenylene,0.1,7.575757576
+Digby Ferry Terminal,2020,Chrysene + Triphenylene,0.03,6.060606061
+Digby Ferry Terminal,2020,Chrysene + Triphenylene,0.29,5.906313646
+Hazen Creek Mouth,2020,Chrysene + Triphenylene,0.005,5.882352941
+Hazen Creek Mouth,2020,Chrysene + Triphenylene,0.005,5.882352941
+Hazen Creek Mouth,2020,Chrysene + Triphenylene,0.005,5.882352941
+Hazen Creek Nearshore,2020,Chrysene + Triphenylene,0.02,10
+Hazen Creek Nearshore,2020,Chrysene + Triphenylene,0.005,5.882352941
+Hazen Creek Nearshore,2020,Chrysene + Triphenylene,0.01,4.761904762
+Inner Harbour,2020,Chrysene + Triphenylene,0.04,8.602150538
+Inner Harbour,2020,Chrysene + Triphenylene,0.03,7.792207792
+Inner Harbour,2020,Chrysene + Triphenylene,0.05,7.751937984
+Little River,2020,Chrysene + Triphenylene,0.24,5.818181818
+Little River,2020,Chrysene + Triphenylene,0.18,12.5
+Little River,2020,Chrysene + Triphenylene,0.14,7.197943445
+Marsh Creek WS DS,2020,Chrysene + Triphenylene,1.1,9.322033898
+Marsh Creek WS DS,2020,Chrysene + Triphenylene,2.3,5.609756098
+Marsh Creek WS DS,2020,Chrysene + Triphenylene,8.4,5.876591577
+Mispec,2020,Chrysene + Triphenylene,0.005,5.882352941
+Mispec,2020,Chrysene + Triphenylene,0.005,5.882352941
+Mispec,2020,Chrysene + Triphenylene,0.005,5.882352941
+Saints Rest Beach,2020,Chrysene + Triphenylene,0.005,5.882352941
+Saints Rest Beach,2020,Chrysene + Triphenylene,0.005,5.882352941
+Saints Rest Beach,2020,Chrysene + Triphenylene,0.005,5.882352941
+Spar Cove,2020,Chrysene + Triphenylene,0.52,7.819548872
+Spar Cove,2020,Chrysene + Triphenylene,0.33,6.179775281
+Spar Cove,2020,Chrysene + Triphenylene,4.6,5.459292666
+Tin Can Beach,2020,Chrysene + Triphenylene,0.24,7.619047619
+Tin Can Beach,2020,Chrysene + Triphenylene,0.25,6.613756614
+Tin Can Beach,2020,Chrysene + Triphenylene,0.5,7.072135785
+Bayshore,2020,"Dibenz[a,h]anthracene",0.005,5.882352941
+Bayshore,2020,"Dibenz[a,h]anthracene",0.005,5.882352941
+Bayshore,2020,"Dibenz[a,h]anthracene",0.005,5.882352941
+Black Beach,2020,"Dibenz[a,h]anthracene",0.005,5.882352941
+Black Beach,2020,"Dibenz[a,h]anthracene",0.005,5.882352941
+Black Beach,2020,"Dibenz[a,h]anthracene",0.005,5.882352941
+Courtenay Bay,2020,"Dibenz[a,h]anthracene",0.01,0.722021661
+Courtenay Bay,2020,"Dibenz[a,h]anthracene",0.02,0.894854586
+Courtenay Bay,2020,"Dibenz[a,h]anthracene",0.05,1
+Digby Ferry Terminal,2020,"Dibenz[a,h]anthracene",0.01,0.757575758
+Digby Ferry Terminal,2020,"Dibenz[a,h]anthracene",0.005,1.01010101
+Digby Ferry Terminal,2020,"Dibenz[a,h]anthracene",0.04,0.814663951
+Hazen Creek Mouth,2020,"Dibenz[a,h]anthracene",0.005,5.882352941
+Hazen Creek Mouth,2020,"Dibenz[a,h]anthracene",0.005,5.882352941
+Hazen Creek Mouth,2020,"Dibenz[a,h]anthracene",0.005,5.882352941
+Hazen Creek Nearshore,2020,"Dibenz[a,h]anthracene",0.005,2.5
+Hazen Creek Nearshore,2020,"Dibenz[a,h]anthracene",0.005,5.882352941
+Hazen Creek Nearshore,2020,"Dibenz[a,h]anthracene",0.005,2.380952381
+Inner Harbour,2020,"Dibenz[a,h]anthracene",0.005,1.075268817
+Inner Harbour,2020,"Dibenz[a,h]anthracene",0.005,1.298701299
+Inner Harbour,2020,"Dibenz[a,h]anthracene",0.005,0.775193798
+Little River,2020,"Dibenz[a,h]anthracene",0.03,0.727272727
+Little River,2020,"Dibenz[a,h]anthracene",0.03,2.083333333
+Little River,2020,"Dibenz[a,h]anthracene",0.03,1.542416452
+Marsh Creek WS DS,2020,"Dibenz[a,h]anthracene",0.15,1.271186441
+Marsh Creek WS DS,2020,"Dibenz[a,h]anthracene",0.38,0.926829268
+Marsh Creek WS DS,2020,"Dibenz[a,h]anthracene",1.3,0.909472506
+Mispec,2020,"Dibenz[a,h]anthracene",0.005,5.882352941
+Mispec,2020,"Dibenz[a,h]anthracene",0.005,5.882352941
+Mispec,2020,"Dibenz[a,h]anthracene",0.005,5.882352941
+Saints Rest Beach,2020,"Dibenz[a,h]anthracene",0.005,5.882352941
+Saints Rest Beach,2020,"Dibenz[a,h]anthracene",0.005,5.882352941
+Saints Rest Beach,2020,"Dibenz[a,h]anthracene",0.005,5.882352941
+Spar Cove,2020,"Dibenz[a,h]anthracene",0.06,0.902255639
+Spar Cove,2020,"Dibenz[a,h]anthracene",0.06,1.123595506
+Spar Cove,2020,"Dibenz[a,h]anthracene",0.13,0.154284358
+Tin Can Beach,2020,"Dibenz[a,h]anthracene",0.04,1.26984127
+Tin Can Beach,2020,"Dibenz[a,h]anthracene",0.06,1.587301587
+Tin Can Beach,2020,"Dibenz[a,h]anthracene",0.1,1.414427157
+Bayshore,2020,Fluoranthene,0.005,5.882352941
+Bayshore,2020,Fluoranthene,0.005,5.882352941
+Bayshore,2020,Fluoranthene,0.005,5.882352941
+Black Beach,2020,Fluoranthene,0.005,5.882352941
+Black Beach,2020,Fluoranthene,0.005,5.882352941
+Black Beach,2020,Fluoranthene,0.005,5.882352941
+Courtenay Bay,2020,Fluoranthene,0.25,18.05054152
+Courtenay Bay,2020,Fluoranthene,0.38,17.00223714
+Courtenay Bay,2020,Fluoranthene,0.75,15
+Digby Ferry Terminal,2020,Fluoranthene,0.22,16.66666667
+Digby Ferry Terminal,2020,Fluoranthene,0.08,16.16161616
+Digby Ferry Terminal,2020,Fluoranthene,0.82,16.700611
+Hazen Creek Mouth,2020,Fluoranthene,0.005,5.882352941
+Hazen Creek Mouth,2020,Fluoranthene,0.005,5.882352941
+Hazen Creek Mouth,2020,Fluoranthene,0.005,5.882352941
+Hazen Creek Nearshore,2020,Fluoranthene,0.03,15
+Hazen Creek Nearshore,2020,Fluoranthene,0.005,5.882352941
+Hazen Creek Nearshore,2020,Fluoranthene,0.04,19.04761905
+Inner Harbour,2020,Fluoranthene,0.07,15.05376344
+Inner Harbour,2020,Fluoranthene,0.06,15.58441558
+Inner Harbour,2020,Fluoranthene,0.09,13.95348837
+Little River,2020,Fluoranthene,0.98,23.75757576
+Little River,2020,Fluoranthene,0.16,11.11111111
+Little River,2020,Fluoranthene,0.3,15.42416452
+Marsh Creek WS DS,2020,Fluoranthene,2.1,17.79661017
+Marsh Creek WS DS,2020,Fluoranthene,7.3,17.80487805
+Marsh Creek WS DS,2020,Fluoranthene,24,16.79026165
+Mispec,2020,Fluoranthene,0.005,5.882352941
+Mispec,2020,Fluoranthene,0.005,5.882352941
+Mispec,2020,Fluoranthene,0.005,5.882352941
+Saints Rest Beach,2020,Fluoranthene,0.005,5.882352941
+Saints Rest Beach,2020,Fluoranthene,0.005,5.882352941
+Saints Rest Beach,2020,Fluoranthene,0.005,5.882352941
+Spar Cove,2020,Fluoranthene,1.2,18.04511278
+Spar Cove,2020,Fluoranthene,0.97,18.16479401
+Spar Cove,2020,Fluoranthene,31,36.79088535
+Tin Can Beach,2020,Fluoranthene,0.46,14.6031746
+Tin Can Beach,2020,Fluoranthene,0.56,14.81481481
+Tin Can Beach,2020,Fluoranthene,1,14.14427157
+Bayshore,2020,Fluorene,0.005,5.882352941
+Bayshore,2020,Fluorene,0.005,5.882352941
+Bayshore,2020,Fluorene,0.005,5.882352941
+Black Beach,2020,Fluorene,0.005,5.882352941
+Black Beach,2020,Fluorene,0.005,5.882352941
+Black Beach,2020,Fluorene,0.005,5.882352941
+Courtenay Bay,2020,Fluorene,0.02,1.444043321
+Courtenay Bay,2020,Fluorene,0.04,1.789709172
+Courtenay Bay,2020,Fluorene,0.19,3.8
+Digby Ferry Terminal,2020,Fluorene,0.03,2.272727273
+Digby Ferry Terminal,2020,Fluorene,0.005,1.01010101
+Digby Ferry Terminal,2020,Fluorene,0.16,3.258655804
+Hazen Creek Mouth,2020,Fluorene,0.005,5.882352941
+Hazen Creek Mouth,2020,Fluorene,0.005,5.882352941
+Hazen Creek Mouth,2020,Fluorene,0.005,5.882352941
+Hazen Creek Nearshore,2020,Fluorene,0.005,2.5
+Hazen Creek Nearshore,2020,Fluorene,0.005,5.882352941
+Hazen Creek Nearshore,2020,Fluorene,0.005,2.380952381
+Inner Harbour,2020,Fluorene,0.005,1.075268817
+Inner Harbour,2020,Fluorene,0.005,1.298701299
+Inner Harbour,2020,Fluorene,0.005,0.775193798
+Little River,2020,Fluorene,0.05,1.212121212
+Little River,2020,Fluorene,0.005,0.347222222
+Little River,2020,Fluorene,0.02,1.028277635
+Marsh Creek WS DS,2020,Fluorene,0.16,1.355932203
+Marsh Creek WS DS,2020,Fluorene,0.81,1.975609756
+Marsh Creek WS DS,2020,Fluorene,3.7,2.588498671
+Mispec,2020,Fluorene,0.005,5.882352941
+Mispec,2020,Fluorene,0.005,5.882352941
+Mispec,2020,Fluorene,0.005,5.882352941
+Saints Rest Beach,2020,Fluorene,0.005,5.882352941
+Saints Rest Beach,2020,Fluorene,0.005,5.882352941
+Saints Rest Beach,2020,Fluorene,0.005,5.882352941
+Spar Cove,2020,Fluorene,0.1,1.503759398
+Spar Cove,2020,Fluorene,0.05,0.936329588
+Spar Cove,2020,Fluorene,0.94,1.115594588
+Tin Can Beach,2020,Fluorene,0.03,0.952380952
+Tin Can Beach,2020,Fluorene,0.02,0.529100529
+Tin Can Beach,2020,Fluorene,0.13,1.838755304
+Bayshore,2020,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Bayshore,2020,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Bayshore,2020,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Black Beach,2020,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Black Beach,2020,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Black Beach,2020,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Courtenay Bay,2020,"Indeno[1,2,3-cd]pyrene",0.06,4.332129964
+Courtenay Bay,2020,"Indeno[1,2,3-cd]pyrene",0.07,3.131991051
+Courtenay Bay,2020,"Indeno[1,2,3-cd]pyrene",0.21,4.2
+Digby Ferry Terminal,2020,"Indeno[1,2,3-cd]pyrene",0.05,3.787878788
+Digby Ferry Terminal,2020,"Indeno[1,2,3-cd]pyrene",0.02,4.04040404
+Digby Ferry Terminal,2020,"Indeno[1,2,3-cd]pyrene",0.17,3.462321792
+Hazen Creek Mouth,2020,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Hazen Creek Mouth,2020,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Hazen Creek Mouth,2020,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Hazen Creek Nearshore,2020,"Indeno[1,2,3-cd]pyrene",0.005,2.5
+Hazen Creek Nearshore,2020,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Hazen Creek Nearshore,2020,"Indeno[1,2,3-cd]pyrene",0.005,2.380952381
+Inner Harbour,2020,"Indeno[1,2,3-cd]pyrene",0.02,4.301075269
+Inner Harbour,2020,"Indeno[1,2,3-cd]pyrene",0.02,5.194805195
+Inner Harbour,2020,"Indeno[1,2,3-cd]pyrene",0.04,6.201550388
+Little River,2020,"Indeno[1,2,3-cd]pyrene",0.11,2.666666667
+Little River,2020,"Indeno[1,2,3-cd]pyrene",0.08,5.555555556
+Little River,2020,"Indeno[1,2,3-cd]pyrene",0.11,5.655526992
+Marsh Creek WS DS,2020,"Indeno[1,2,3-cd]pyrene",0.6,5.084745763
+Marsh Creek WS DS,2020,"Indeno[1,2,3-cd]pyrene",1.5,3.658536585
+Marsh Creek WS DS,2020,"Indeno[1,2,3-cd]pyrene",5.1,3.5679306
+Mispec,2020,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Mispec,2020,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Mispec,2020,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Saints Rest Beach,2020,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Saints Rest Beach,2020,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Saints Rest Beach,2020,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Spar Cove,2020,"Indeno[1,2,3-cd]pyrene",0.26,3.909774436
+Spar Cove,2020,"Indeno[1,2,3-cd]pyrene",0.25,4.68164794
+Spar Cove,2020,"Indeno[1,2,3-cd]pyrene",0.58,0.688345597
+Tin Can Beach,2020,"Indeno[1,2,3-cd]pyrene",0.17,5.396825397
+Tin Can Beach,2020,"Indeno[1,2,3-cd]pyrene",0.25,6.613756614
+Tin Can Beach,2020,"Indeno[1,2,3-cd]pyrene",0.4,5.657708628
+Bayshore,2020,Naphthalene,0.005,5.882352941
+Bayshore,2020,Naphthalene,0.005,5.882352941
+Bayshore,2020,Naphthalene,0.005,5.882352941
+Black Beach,2020,Naphthalene,0.005,5.882352941
+Black Beach,2020,Naphthalene,0.005,5.882352941
+Black Beach,2020,Naphthalene,0.005,5.882352941
+Courtenay Bay,2020,Naphthalene,0.005,0.36101083
+Courtenay Bay,2020,Naphthalene,0.02,0.894854586
+Courtenay Bay,2020,Naphthalene,0.04,0.8
+Digby Ferry Terminal,2020,Naphthalene,0.02,1.515151515
+Digby Ferry Terminal,2020,Naphthalene,0.005,1.01010101
+Digby Ferry Terminal,2020,Naphthalene,0.08,1.629327902
+Hazen Creek Mouth,2020,Naphthalene,0.005,5.882352941
+Hazen Creek Mouth,2020,Naphthalene,0.005,5.882352941
+Hazen Creek Mouth,2020,Naphthalene,0.005,5.882352941
+Hazen Creek Nearshore,2020,Naphthalene,0.005,2.5
+Hazen Creek Nearshore,2020,Naphthalene,0.005,5.882352941
+Hazen Creek Nearshore,2020,Naphthalene,0.005,2.380952381
+Inner Harbour,2020,Naphthalene,0.005,1.075268817
+Inner Harbour,2020,Naphthalene,0.005,1.298701299
+Inner Harbour,2020,Naphthalene,0.005,0.775193798
+Little River,2020,Naphthalene,0.01,0.242424242
+Little River,2020,Naphthalene,0.005,0.347222222
+Little River,2020,Naphthalene,0.01,0.514138817
+Marsh Creek WS DS,2020,Naphthalene,0.04,0.338983051
+Marsh Creek WS DS,2020,Naphthalene,0.41,1
+Marsh Creek WS DS,2020,Naphthalene,3.7,2.588498671
+Mispec,2020,Naphthalene,0.005,5.882352941
+Mispec,2020,Naphthalene,0.005,5.882352941
+Mispec,2020,Naphthalene,0.005,5.882352941
+Saints Rest Beach,2020,Naphthalene,0.005,5.882352941
+Saints Rest Beach,2020,Naphthalene,0.005,5.882352941
+Saints Rest Beach,2020,Naphthalene,0.005,5.882352941
+Spar Cove,2020,Naphthalene,0.03,0.45112782
+Spar Cove,2020,Naphthalene,0.02,0.374531835
+Spar Cove,2020,Naphthalene,0.03,0.035604083
+Tin Can Beach,2020,Naphthalene,0.03,0.952380952
+Tin Can Beach,2020,Naphthalene,0.02,0.529100529
+Tin Can Beach,2020,Naphthalene,0.09,1.272984441
+Bayshore,2020,Phenanthrene,0.005,5.882352941
+Bayshore,2020,Phenanthrene,0.005,5.882352941
+Bayshore,2020,Phenanthrene,0.005,5.882352941
+Black Beach,2020,Phenanthrene,0.005,5.882352941
+Black Beach,2020,Phenanthrene,0.005,5.882352941
+Black Beach,2020,Phenanthrene,0.005,5.882352941
+Courtenay Bay,2020,Phenanthrene,0.1,7.220216606
+Courtenay Bay,2020,Phenanthrene,0.22,9.843400447
+Courtenay Bay,2020,Phenanthrene,0.76,15.2
+Digby Ferry Terminal,2020,Phenanthrene,0.18,13.63636364
+Digby Ferry Terminal,2020,Phenanthrene,0.05,10.1010101
+Digby Ferry Terminal,2020,Phenanthrene,0.85,17.31160896
+Hazen Creek Mouth,2020,Phenanthrene,0.005,5.882352941
+Hazen Creek Mouth,2020,Phenanthrene,0.005,5.882352941
+Hazen Creek Mouth,2020,Phenanthrene,0.005,5.882352941
+Hazen Creek Nearshore,2020,Phenanthrene,0.03,15
+Hazen Creek Nearshore,2020,Phenanthrene,0.005,5.882352941
+Hazen Creek Nearshore,2020,Phenanthrene,0.03,14.28571429
+Inner Harbour,2020,Phenanthrene,0.04,8.602150538
+Inner Harbour,2020,Phenanthrene,0.04,10.38961039
+Inner Harbour,2020,Phenanthrene,0.06,9.302325581
+Little River,2020,Phenanthrene,0.74,17.93939394
+Little River,2020,Phenanthrene,0.1,6.944444444
+Little River,2020,Phenanthrene,0.2,10.28277635
+Marsh Creek WS DS,2020,Phenanthrene,1,8.474576271
+Marsh Creek WS DS,2020,Phenanthrene,7,17.07317073
+Marsh Creek WS DS,2020,Phenanthrene,27,18.88904435
+Mispec,2020,Phenanthrene,0.005,5.882352941
+Mispec,2020,Phenanthrene,0.005,5.882352941
+Mispec,2020,Phenanthrene,0.005,5.882352941
+Saints Rest Beach,2020,Phenanthrene,0.005,5.882352941
+Saints Rest Beach,2020,Phenanthrene,0.005,5.882352941
+Saints Rest Beach,2020,Phenanthrene,0.005,5.882352941
+Spar Cove,2020,Phenanthrene,0.84,12.63157895
+Spar Cove,2020,Phenanthrene,0.51,9.550561798
+Spar Cove,2020,Phenanthrene,9.9,11.74934726
+Tin Can Beach,2020,Phenanthrene,0.28,8.888888889
+Tin Can Beach,2020,Phenanthrene,0.27,7.142857143
+Tin Can Beach,2020,Phenanthrene,0.86,12.16407355
+Bayshore,2020,Pyrene,0.005,5.882352941
+Bayshore,2020,Pyrene,0.005,5.882352941
+Bayshore,2020,Pyrene,0.005,5.882352941
+Black Beach,2020,Pyrene,0.005,5.882352941
+Black Beach,2020,Pyrene,0.005,5.882352941
+Black Beach,2020,Pyrene,0.005,5.882352941
+Courtenay Bay,2020,Pyrene,0.16,11.55234657
+Courtenay Bay,2020,Pyrene,0.25,11.18568233
+Courtenay Bay,2020,Pyrene,0.59,11.8
+Digby Ferry Terminal,2020,Pyrene,0.18,13.63636364
+Digby Ferry Terminal,2020,Pyrene,0.07,14.14141414
+Digby Ferry Terminal,2020,Pyrene,0.64,13.03462322
+Hazen Creek Mouth,2020,Pyrene,0.005,5.882352941
+Hazen Creek Mouth,2020,Pyrene,0.005,5.882352941
+Hazen Creek Mouth,2020,Pyrene,0.005,5.882352941
+Hazen Creek Nearshore,2020,Pyrene,0.03,15
+Hazen Creek Nearshore,2020,Pyrene,0.005,5.882352941
+Hazen Creek Nearshore,2020,Pyrene,0.03,14.28571429
+Inner Harbour,2020,Pyrene,0.06,12.90322581
+Inner Harbour,2020,Pyrene,0.05,12.98701299
+Inner Harbour,2020,Pyrene,0.08,12.40310078
+Little River,2020,Pyrene,0.7,16.96969697
+Little River,2020,Pyrene,0.19,13.19444444
+Little River,2020,Pyrene,0.27,13.88174807
+Marsh Creek WS DS,2020,Pyrene,1.4,11.86440678
+Marsh Creek WS DS,2020,Pyrene,6,14.63414634
+Marsh Creek WS DS,2020,Pyrene,20,13.99188471
+Mispec,2020,Pyrene,0.005,5.882352941
+Mispec,2020,Pyrene,0.005,5.882352941
+Mispec,2020,Pyrene,0.005,5.882352941
+Saints Rest Beach,2020,Pyrene,0.005,5.882352941
+Saints Rest Beach,2020,Pyrene,0.005,5.882352941
+Saints Rest Beach,2020,Pyrene,0.005,5.882352941
+Spar Cove,2020,Pyrene,0.97,14.58646617
+Spar Cove,2020,Pyrene,0.85,15.917603
+Spar Cove,2020,Pyrene,23,27.29646333
+Tin Can Beach,2020,Pyrene,0.4,12.6984127
+Tin Can Beach,2020,Pyrene,0.52,13.75661376
+Tin Can Beach,2020,Pyrene,0.87,12.30551627
+Bayshore,2020,Total PAH,0.085,100
+Bayshore,2020,Total PAH,0.085,100
+Bayshore,2020,Total PAH,0.085,100
+Black Beach,2020,Total PAH,0.085,100
+Black Beach,2020,Total PAH,0.085,100
+Black Beach,2020,Total PAH,0.085,100
+Courtenay Bay,2020,Total PAH,1.385,100
+Courtenay Bay,2020,Total PAH,2.235,100
+Courtenay Bay,2020,Total PAH,5,100
+Digby Ferry Terminal,2020,Total PAH,1.32,100
+Digby Ferry Terminal,2020,Total PAH,0.495,100
+Digby Ferry Terminal,2020,Total PAH,4.91,100
+Hazen Creek Mouth,2020,Total PAH,0.085,100
+Hazen Creek Mouth,2020,Total PAH,0.085,100
+Hazen Creek Mouth,2020,Total PAH,0.085,100
+Hazen Creek Nearshore,2020,Total PAH,0.2,100
+Hazen Creek Nearshore,2020,Total PAH,0.085,100
+Hazen Creek Nearshore,2020,Total PAH,0.21,100
+Inner Harbour,2020,Total PAH,0.465,100
+Inner Harbour,2020,Total PAH,0.385,100
+Inner Harbour,2020,Total PAH,0.645,100
+Little River,2020,Total PAH,4.125,100
+Little River,2020,Total PAH,1.44,100
+Little River,2020,Total PAH,1.945,100
+Marsh Creek WS DS,2020,Total PAH,11.8,100
+Marsh Creek WS DS,2020,Total PAH,41,100
+Marsh Creek WS DS,2020,Total PAH,142.94,100
+Mispec,2020,Total PAH,0.085,100
+Mispec,2020,Total PAH,0.085,100
+Mispec,2020,Total PAH,0.085,100
+Saints Rest Beach,2020,Total PAH,0.085,100
+Saints Rest Beach,2020,Total PAH,0.085,100
+Saints Rest Beach,2020,Total PAH,0.085,100
+Spar Cove,2020,Total PAH,6.65,100
+Spar Cove,2020,Total PAH,5.34,100
+Spar Cove,2020,Total PAH,84.26,100
+Tin Can Beach,2020,Total PAH,3.15,100
+Tin Can Beach,2020,Total PAH,3.78,100
+Tin Can Beach,2020,Total PAH,7.07,100
+Bayshore,2021,Acenaphthene,0.005,5.882352941
+Bayshore,2021,Acenaphthene,0.005,5.882352941
+Bayshore,2021,Acenaphthene,0.005,5.882352941
+Bayshore,2021,Acenaphthene,0.005,3.846153846
+Black Beach,2021,Acenaphthene,0.005,5.882352941
+Black Beach,2021,Acenaphthene,0.005,5.882352941
+Black Beach,2021,Acenaphthene,0.005,5.882352941
+Black Beach,2021,Acenaphthene,0.005,5.882352941
+Courtenay Bay,2021,Acenaphthene,0.12,1.208459215
+Courtenay Bay,2021,Acenaphthene,0.005,3.125
+Courtenay Bay,2021,Acenaphthene,0.02,0.879120879
+Courtenay Bay,2021,Acenaphthene,0.02,1.104972376
+Digby Ferry Terminal,2021,Acenaphthene,0.03,1.339285714
+Digby Ferry Terminal,2021,Acenaphthene,0.07,1.452282158
+Digby Ferry Terminal,2021,Acenaphthene,0.09,1.747572816
+Digby Ferry Terminal,2021,Acenaphthene,0.005,1.149425287
+Hazen Creek Mouth,2021,Acenaphthene,0.005,5.882352941
+Hazen Creek Mouth,2021,Acenaphthene,0.005,2.222222222
+Hazen Creek Mouth,2021,Acenaphthene,0.005,4.347826087
+Hazen Creek Mouth,2021,Acenaphthene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Acenaphthene,0.005,2.040816327
+Hazen Creek Nearshore,2021,Acenaphthene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Acenaphthene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Acenaphthene,0.01,2.272727273
+Hazen Creek Nearshore,2021,Acenaphthene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Acenaphthene,0.005,5.882352941
+Inner Harbour,2021,Acenaphthene,0.005,0.636942675
+Inner Harbour,2021,Acenaphthene,0.005,2.941176471
+Inner Harbour,2021,Acenaphthene,0.03,1.284796574
+Inner Harbour,2021,Acenaphthene,0.005,0.854700855
+Inner Harbour,2021,Acenaphthene,0.04,1.111111111
+Inner Harbour,2021,Acenaphthene,0.005,1.086956522
+Little River,2021,Acenaphthene,0.41,3.85519511
+Little River,2021,Acenaphthene,0.04,0.257234727
+Little River,2021,Acenaphthene,0.025,1.366120219
+Little River,2021,Acenaphthene,0.005,0.078186083
+Marsh Creek WS DS,2021,Acenaphthene,0.11,0.864779874
+Marsh Creek WS DS,2021,Acenaphthene,0.11,0.793078587
+Marsh Creek WS DS,2021,Acenaphthene,0.22,0.928661883
+Marsh Creek WS DS,2021,Acenaphthene,0.42,1.084710744
+Mispec,2021,Acenaphthene,0.005,5.882352941
+Mispec,2021,Acenaphthene,0.005,5.882352941
+Mispec,2021,Acenaphthene,0.005,5.882352941
+Mispec,2021,Acenaphthene,0.005,5.882352941
+Saints Rest Beach,2021,Acenaphthene,0.005,5.882352941
+Saints Rest Beach,2021,Acenaphthene,0.005,5.882352941
+Saints Rest Beach,2021,Acenaphthene,0.005,5.882352941
+Saints Rest Beach,2021,Acenaphthene,0.005,5.882352941
+Spar Cove,2021,Acenaphthene,0.04,0.793650794
+Spar Cove,2021,Acenaphthene,0.05,0.88028169
+Spar Cove,2021,Acenaphthene,0.07,1.105845182
+Spar Cove,2021,Acenaphthene,0.1,1.049317943
+Spar Cove,2021,Acenaphthene,0.01,0.632911392
+Spar Cove,2021,Acenaphthene,0.005,0.892857143
+Tin Can Beach,2021,Acenaphthene,1.2,2.434077079
+Tin Can Beach,2021,Acenaphthene,0.12,1.585204756
+Tin Can Beach,2021,Acenaphthene,0.01,0.230946882
+Tin Can Beach,2021,Acenaphthene,0.05,0.538793103
+Tin Can Beach,2021,Acenaphthene,0.005,0.217864924
+Tin Can Beach,2021,Acenaphthene,0.005,0.155520995
+Bayshore,2021,Acenaphthylene,0.005,5.882352941
+Bayshore,2021,Acenaphthylene,0.005,5.882352941
+Bayshore,2021,Acenaphthylene,0.005,5.882352941
+Bayshore,2021,Acenaphthylene,0.005,3.846153846
+Black Beach,2021,Acenaphthylene,0.005,5.882352941
+Black Beach,2021,Acenaphthylene,0.005,5.882352941
+Black Beach,2021,Acenaphthylene,0.005,5.882352941
+Black Beach,2021,Acenaphthylene,0.005,5.882352941
+Courtenay Bay,2021,Acenaphthylene,0.02,0.201409869
+Courtenay Bay,2021,Acenaphthylene,0.005,3.125
+Courtenay Bay,2021,Acenaphthylene,0.005,0.21978022
+Courtenay Bay,2021,Acenaphthylene,0.005,0.276243094
+Digby Ferry Terminal,2021,Acenaphthylene,0.02,0.892857143
+Digby Ferry Terminal,2021,Acenaphthylene,0.02,0.414937759
+Digby Ferry Terminal,2021,Acenaphthylene,0.03,0.582524272
+Digby Ferry Terminal,2021,Acenaphthylene,0.005,1.149425287
+Hazen Creek Mouth,2021,Acenaphthylene,0.005,5.882352941
+Hazen Creek Mouth,2021,Acenaphthylene,0.005,2.222222222
+Hazen Creek Mouth,2021,Acenaphthylene,0.005,4.347826087
+Hazen Creek Mouth,2021,Acenaphthylene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Acenaphthylene,0.005,2.040816327
+Hazen Creek Nearshore,2021,Acenaphthylene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Acenaphthylene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Acenaphthylene,0.005,1.136363636
+Hazen Creek Nearshore,2021,Acenaphthylene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Acenaphthylene,0.005,5.882352941
+Inner Harbour,2021,Acenaphthylene,0.005,0.636942675
+Inner Harbour,2021,Acenaphthylene,0.005,2.941176471
+Inner Harbour,2021,Acenaphthylene,0.005,0.214132762
+Inner Harbour,2021,Acenaphthylene,0.005,0.854700855
+Inner Harbour,2021,Acenaphthylene,0.03,0.833333333
+Inner Harbour,2021,Acenaphthylene,0.005,1.086956522
+Little River,2021,Acenaphthylene,0.005,0.047014575
+Little River,2021,Acenaphthylene,0.19,1.221864952
+Little River,2021,Acenaphthylene,0.025,1.366120219
+Little River,2021,Acenaphthylene,0.005,0.078186083
+Marsh Creek WS DS,2021,Acenaphthylene,0.09,0.70754717
+Marsh Creek WS DS,2021,Acenaphthylene,0.11,0.793078587
+Marsh Creek WS DS,2021,Acenaphthylene,0.15,0.633178556
+Marsh Creek WS DS,2021,Acenaphthylene,0.26,0.671487603
+Mispec,2021,Acenaphthylene,0.005,5.882352941
+Mispec,2021,Acenaphthylene,0.005,5.882352941
+Mispec,2021,Acenaphthylene,0.005,5.882352941
+Mispec,2021,Acenaphthylene,0.005,5.882352941
+Saints Rest Beach,2021,Acenaphthylene,0.005,5.882352941
+Saints Rest Beach,2021,Acenaphthylene,0.005,5.882352941
+Saints Rest Beach,2021,Acenaphthylene,0.005,5.882352941
+Saints Rest Beach,2021,Acenaphthylene,0.005,5.882352941
+Spar Cove,2021,Acenaphthylene,0.03,0.595238095
+Spar Cove,2021,Acenaphthylene,0.02,0.352112676
+Spar Cove,2021,Acenaphthylene,0.02,0.315955766
+Spar Cove,2021,Acenaphthylene,0.08,0.839454355
+Spar Cove,2021,Acenaphthylene,0.01,0.632911392
+Spar Cove,2021,Acenaphthylene,0.005,0.892857143
+Tin Can Beach,2021,Acenaphthylene,0.22,0.446247465
+Tin Can Beach,2021,Acenaphthylene,0.08,1.05680317
+Tin Can Beach,2021,Acenaphthylene,0.06,1.385681293
+Tin Can Beach,2021,Acenaphthylene,0.16,1.724137931
+Tin Can Beach,2021,Acenaphthylene,0.03,1.307189542
+Tin Can Beach,2021,Acenaphthylene,0.04,1.244167963
+Bayshore,2021,Anthracene,0.005,5.882352941
+Bayshore,2021,Anthracene,0.005,5.882352941
+Bayshore,2021,Anthracene,0.005,5.882352941
+Bayshore,2021,Anthracene,0.005,3.846153846
+Black Beach,2021,Anthracene,0.005,5.882352941
+Black Beach,2021,Anthracene,0.005,5.882352941
+Black Beach,2021,Anthracene,0.005,5.882352941
+Black Beach,2021,Anthracene,0.005,5.882352941
+Courtenay Bay,2021,Anthracene,1.1,11.0775428
+Courtenay Bay,2021,Anthracene,0.005,3.125
+Courtenay Bay,2021,Anthracene,0.16,7.032967033
+Courtenay Bay,2021,Anthracene,0.06,3.314917127
+Digby Ferry Terminal,2021,Anthracene,0.09,4.017857143
+Digby Ferry Terminal,2021,Anthracene,0.25,5.186721992
+Digby Ferry Terminal,2021,Anthracene,0.24,4.660194175
+Digby Ferry Terminal,2021,Anthracene,0.005,1.149425287
+Hazen Creek Mouth,2021,Anthracene,0.005,5.882352941
+Hazen Creek Mouth,2021,Anthracene,0.005,2.222222222
+Hazen Creek Mouth,2021,Anthracene,0.005,4.347826087
+Hazen Creek Mouth,2021,Anthracene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Anthracene,0.005,2.040816327
+Hazen Creek Nearshore,2021,Anthracene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Anthracene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Anthracene,0.02,4.545454545
+Hazen Creek Nearshore,2021,Anthracene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Anthracene,0.005,5.882352941
+Inner Harbour,2021,Anthracene,0.02,2.547770701
+Inner Harbour,2021,Anthracene,0.005,2.941176471
+Inner Harbour,2021,Anthracene,0.08,3.426124197
+Inner Harbour,2021,Anthracene,0.02,3.418803419
+Inner Harbour,2021,Anthracene,0.14,3.888888889
+Inner Harbour,2021,Anthracene,0.005,1.086956522
+Little River,2021,Anthracene,0.63,5.923836389
+Little River,2021,Anthracene,0.49,3.151125402
+Little River,2021,Anthracene,0.08,4.371584699
+Little River,2021,Anthracene,0.3,4.691164973
+Marsh Creek WS DS,2021,Anthracene,0.48,3.773584906
+Marsh Creek WS DS,2021,Anthracene,0.46,3.316510454
+Marsh Creek WS DS,2021,Anthracene,1.6,6.753904601
+Marsh Creek WS DS,2021,Anthracene,2.3,5.940082645
+Mispec,2021,Anthracene,0.005,5.882352941
+Mispec,2021,Anthracene,0.005,5.882352941
+Mispec,2021,Anthracene,0.005,5.882352941
+Mispec,2021,Anthracene,0.005,5.882352941
+Saints Rest Beach,2021,Anthracene,0.005,5.882352941
+Saints Rest Beach,2021,Anthracene,0.005,5.882352941
+Saints Rest Beach,2021,Anthracene,0.005,5.882352941
+Saints Rest Beach,2021,Anthracene,0.005,5.882352941
+Spar Cove,2021,Anthracene,0.17,3.373015873
+Spar Cove,2021,Anthracene,0.23,4.049295775
+Spar Cove,2021,Anthracene,0.21,3.317535545
+Spar Cove,2021,Anthracene,0.36,3.777544596
+Spar Cove,2021,Anthracene,0.04,2.53164557
+Spar Cove,2021,Anthracene,0.005,0.892857143
+Tin Can Beach,2021,Anthracene,2.3,4.665314402
+Tin Can Beach,2021,Anthracene,0.24,3.170409511
+Tin Can Beach,2021,Anthracene,0.1,2.309468822
+Tin Can Beach,2021,Anthracene,0.23,2.478448276
+Tin Can Beach,2021,Anthracene,0.05,2.178649237
+Tin Can Beach,2021,Anthracene,0.06,1.866251944
+Bayshore,2021,Benz[a]anthracene,0.005,5.882352941
+Bayshore,2021,Benz[a]anthracene,0.005,5.882352941
+Bayshore,2021,Benz[a]anthracene,0.005,5.882352941
+Bayshore,2021,Benz[a]anthracene,0.01,7.692307692
+Black Beach,2021,Benz[a]anthracene,0.005,5.882352941
+Black Beach,2021,Benz[a]anthracene,0.005,5.882352941
+Black Beach,2021,Benz[a]anthracene,0.005,5.882352941
+Black Beach,2021,Benz[a]anthracene,0.005,5.882352941
+Courtenay Bay,2021,Benz[a]anthracene,0.7,7.049345418
+Courtenay Bay,2021,Benz[a]anthracene,0.01,6.25
+Courtenay Bay,2021,Benz[a]anthracene,0.18,7.912087912
+Courtenay Bay,2021,Benz[a]anthracene,0.13,7.182320442
+Digby Ferry Terminal,2021,Benz[a]anthracene,0.17,7.589285714
+Digby Ferry Terminal,2021,Benz[a]anthracene,0.38,7.883817427
+Digby Ferry Terminal,2021,Benz[a]anthracene,0.37,7.184466019
+Digby Ferry Terminal,2021,Benz[a]anthracene,0.03,6.896551724
+Hazen Creek Mouth,2021,Benz[a]anthracene,0.005,5.882352941
+Hazen Creek Mouth,2021,Benz[a]anthracene,0.02,8.888888889
+Hazen Creek Mouth,2021,Benz[a]anthracene,0.005,4.347826087
+Hazen Creek Mouth,2021,Benz[a]anthracene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Benz[a]anthracene,0.02,8.163265306
+Hazen Creek Nearshore,2021,Benz[a]anthracene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Benz[a]anthracene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Benz[a]anthracene,0.02,4.545454545
+Hazen Creek Nearshore,2021,Benz[a]anthracene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Benz[a]anthracene,0.005,5.882352941
+Inner Harbour,2021,Benz[a]anthracene,0.07,8.917197452
+Inner Harbour,2021,Benz[a]anthracene,0.02,11.76470588
+Inner Harbour,2021,Benz[a]anthracene,0.19,8.137044968
+Inner Harbour,2021,Benz[a]anthracene,0.05,8.547008547
+Inner Harbour,2021,Benz[a]anthracene,0.28,7.777777778
+Inner Harbour,2021,Benz[a]anthracene,0.04,8.695652174
+Little River,2021,Benz[a]anthracene,0.67,6.299952985
+Little River,2021,Benz[a]anthracene,1.3,8.360128617
+Little River,2021,Benz[a]anthracene,0.025,1.366120219
+Little River,2021,Benz[a]anthracene,0.46,7.193119625
+Marsh Creek WS DS,2021,Benz[a]anthracene,1,7.86163522
+Marsh Creek WS DS,2021,Benz[a]anthracene,1.1,7.930785869
+Marsh Creek WS DS,2021,Benz[a]anthracene,1.8,7.598142676
+Marsh Creek WS DS,2021,Benz[a]anthracene,3.1,8.006198347
+Mispec,2021,Benz[a]anthracene,0.005,5.882352941
+Mispec,2021,Benz[a]anthracene,0.005,5.882352941
+Mispec,2021,Benz[a]anthracene,0.005,5.882352941
+Mispec,2021,Benz[a]anthracene,0.005,5.882352941
+Saints Rest Beach,2021,Benz[a]anthracene,0.005,5.882352941
+Saints Rest Beach,2021,Benz[a]anthracene,0.005,5.882352941
+Saints Rest Beach,2021,Benz[a]anthracene,0.005,5.882352941
+Saints Rest Beach,2021,Benz[a]anthracene,0.005,5.882352941
+Spar Cove,2021,Benz[a]anthracene,0.39,7.738095238
+Spar Cove,2021,Benz[a]anthracene,0.45,7.922535211
+Spar Cove,2021,Benz[a]anthracene,0.45,7.109004739
+Spar Cove,2021,Benz[a]anthracene,0.72,7.555089192
+Spar Cove,2021,Benz[a]anthracene,0.12,7.594936709
+Spar Cove,2021,Benz[a]anthracene,0.05,8.928571429
+Tin Can Beach,2021,Benz[a]anthracene,3.4,6.896551724
+Tin Can Beach,2021,Benz[a]anthracene,0.55,7.265521797
+Tin Can Beach,2021,Benz[a]anthracene,0.35,8.083140878
+Tin Can Beach,2021,Benz[a]anthracene,0.66,7.112068966
+Tin Can Beach,2021,Benz[a]anthracene,0.18,7.843137255
+Tin Can Beach,2021,Benz[a]anthracene,0.26,8.087091757
+Bayshore,2021,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Bayshore,2021,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Bayshore,2021,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Bayshore,2021,"Benzo(g,h,i)perylene-D12",0.005,3.846153846
+Black Beach,2021,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Black Beach,2021,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Black Beach,2021,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Black Beach,2021,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Courtenay Bay,2021,"Benzo(g,h,i)perylene-D12",0.24,2.416918429
+Courtenay Bay,2021,"Benzo(g,h,i)perylene-D12",0.01,6.25
+Courtenay Bay,2021,"Benzo(g,h,i)perylene-D12",0.09,3.956043956
+Courtenay Bay,2021,"Benzo(g,h,i)perylene-D12",0.07,3.867403315
+Digby Ferry Terminal,2021,"Benzo(g,h,i)perylene-D12",0.09,4.017857143
+Digby Ferry Terminal,2021,"Benzo(g,h,i)perylene-D12",0.15,3.112033195
+Digby Ferry Terminal,2021,"Benzo(g,h,i)perylene-D12",0.19,3.689320388
+Digby Ferry Terminal,2021,"Benzo(g,h,i)perylene-D12",0.02,4.597701149
+Hazen Creek Mouth,2021,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Hazen Creek Mouth,2021,"Benzo(g,h,i)perylene-D12",0.005,2.222222222
+Hazen Creek Mouth,2021,"Benzo(g,h,i)perylene-D12",0.005,4.347826087
+Hazen Creek Mouth,2021,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Hazen Creek Nearshore,2021,"Benzo(g,h,i)perylene-D12",0.01,4.081632653
+Hazen Creek Nearshore,2021,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Hazen Creek Nearshore,2021,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Hazen Creek Nearshore,2021,"Benzo(g,h,i)perylene-D12",0.01,2.272727273
+Hazen Creek Nearshore,2021,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Hazen Creek Nearshore,2021,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Inner Harbour,2021,"Benzo(g,h,i)perylene-D12",0.04,5.095541401
+Inner Harbour,2021,"Benzo(g,h,i)perylene-D12",0.01,5.882352941
+Inner Harbour,2021,"Benzo(g,h,i)perylene-D12",0.1,4.282655246
+Inner Harbour,2021,"Benzo(g,h,i)perylene-D12",0.03,5.128205128
+Inner Harbour,2021,"Benzo(g,h,i)perylene-D12",0.18,5
+Inner Harbour,2021,"Benzo(g,h,i)perylene-D12",0.03,6.52173913
+Little River,2021,"Benzo(g,h,i)perylene-D12",0.27,2.538787024
+Little River,2021,"Benzo(g,h,i)perylene-D12",0.6,3.8585209
+Little River,2021,"Benzo(g,h,i)perylene-D12",0.26,14.20765027
+Little River,2021,"Benzo(g,h,i)perylene-D12",0.27,4.222048475
+Marsh Creek WS DS,2021,"Benzo(g,h,i)perylene-D12",0.63,4.952830189
+Marsh Creek WS DS,2021,"Benzo(g,h,i)perylene-D12",0.58,4.181687094
+Marsh Creek WS DS,2021,"Benzo(g,h,i)perylene-D12",0.82,3.461376108
+Marsh Creek WS DS,2021,"Benzo(g,h,i)perylene-D12",1.3,3.357438017
+Mispec,2021,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Mispec,2021,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Mispec,2021,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Mispec,2021,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Saints Rest Beach,2021,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Saints Rest Beach,2021,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Saints Rest Beach,2021,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Saints Rest Beach,2021,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Spar Cove,2021,"Benzo(g,h,i)perylene-D12",0.21,4.166666667
+Spar Cove,2021,"Benzo(g,h,i)perylene-D12",0.21,3.697183099
+Spar Cove,2021,"Benzo(g,h,i)perylene-D12",0.26,4.107424961
+Spar Cove,2021,"Benzo(g,h,i)perylene-D12",0.42,4.407135362
+Spar Cove,2021,"Benzo(g,h,i)perylene-D12",0.09,5.696202532
+Spar Cove,2021,"Benzo(g,h,i)perylene-D12",0.03,5.357142857
+Tin Can Beach,2021,"Benzo(g,h,i)perylene-D12",1.8,3.651115619
+Tin Can Beach,2021,"Benzo(g,h,i)perylene-D12",0.28,3.698811096
+Tin Can Beach,2021,"Benzo(g,h,i)perylene-D12",0.25,5.773672055
+Tin Can Beach,2021,"Benzo(g,h,i)perylene-D12",0.4,4.310344828
+Tin Can Beach,2021,"Benzo(g,h,i)perylene-D12",0.14,6.100217865
+Tin Can Beach,2021,"Benzo(g,h,i)perylene-D12",0.19,5.909797823
+Bayshore,2021,Benzo[a]pyrene,0.005,5.882352941
+Bayshore,2021,Benzo[a]pyrene,0.005,5.882352941
+Bayshore,2021,Benzo[a]pyrene,0.005,5.882352941
+Bayshore,2021,Benzo[a]pyrene,0.01,7.692307692
+Black Beach,2021,Benzo[a]pyrene,0.005,5.882352941
+Black Beach,2021,Benzo[a]pyrene,0.005,5.882352941
+Black Beach,2021,Benzo[a]pyrene,0.005,5.882352941
+Black Beach,2021,Benzo[a]pyrene,0.005,5.882352941
+Courtenay Bay,2021,Benzo[a]pyrene,0.46,4.632426989
+Courtenay Bay,2021,Benzo[a]pyrene,0.01,6.25
+Courtenay Bay,2021,Benzo[a]pyrene,0.17,7.472527473
+Courtenay Bay,2021,Benzo[a]pyrene,0.12,6.629834254
+Digby Ferry Terminal,2021,Benzo[a]pyrene,0.16,7.142857143
+Digby Ferry Terminal,2021,Benzo[a]pyrene,0.32,6.639004149
+Digby Ferry Terminal,2021,Benzo[a]pyrene,0.38,7.378640777
+Digby Ferry Terminal,2021,Benzo[a]pyrene,0.03,6.896551724
+Hazen Creek Mouth,2021,Benzo[a]pyrene,0.005,5.882352941
+Hazen Creek Mouth,2021,Benzo[a]pyrene,0.02,8.888888889
+Hazen Creek Mouth,2021,Benzo[a]pyrene,0.005,4.347826087
+Hazen Creek Mouth,2021,Benzo[a]pyrene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Benzo[a]pyrene,0.02,8.163265306
+Hazen Creek Nearshore,2021,Benzo[a]pyrene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Benzo[a]pyrene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Benzo[a]pyrene,0.02,4.545454545
+Hazen Creek Nearshore,2021,Benzo[a]pyrene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Benzo[a]pyrene,0.005,5.882352941
+Inner Harbour,2021,Benzo[a]pyrene,0.06,7.643312102
+Inner Harbour,2021,Benzo[a]pyrene,0.01,5.882352941
+Inner Harbour,2021,Benzo[a]pyrene,0.19,8.137044968
+Inner Harbour,2021,Benzo[a]pyrene,0.05,8.547008547
+Inner Harbour,2021,Benzo[a]pyrene,0.37,10.27777778
+Inner Harbour,2021,Benzo[a]pyrene,0.05,10.86956522
+Little River,2021,Benzo[a]pyrene,0.53,4.983544899
+Little River,2021,Benzo[a]pyrene,1.2,7.717041801
+Little River,2021,Benzo[a]pyrene,0.18,9.836065574
+Little River,2021,Benzo[a]pyrene,0.44,6.880375293
+Marsh Creek WS DS,2021,Benzo[a]pyrene,0.98,7.704402516
+Marsh Creek WS DS,2021,Benzo[a]pyrene,1.1,7.930785869
+Marsh Creek WS DS,2021,Benzo[a]pyrene,1.8,7.598142676
+Marsh Creek WS DS,2021,Benzo[a]pyrene,2.8,7.231404959
+Mispec,2021,Benzo[a]pyrene,0.005,5.882352941
+Mispec,2021,Benzo[a]pyrene,0.005,5.882352941
+Mispec,2021,Benzo[a]pyrene,0.005,5.882352941
+Mispec,2021,Benzo[a]pyrene,0.005,5.882352941
+Saints Rest Beach,2021,Benzo[a]pyrene,0.005,5.882352941
+Saints Rest Beach,2021,Benzo[a]pyrene,0.005,5.882352941
+Saints Rest Beach,2021,Benzo[a]pyrene,0.005,5.882352941
+Saints Rest Beach,2021,Benzo[a]pyrene,0.005,5.882352941
+Spar Cove,2021,Benzo[a]pyrene,0.35,6.944444444
+Spar Cove,2021,Benzo[a]pyrene,0.44,7.746478873
+Spar Cove,2021,Benzo[a]pyrene,0.46,7.266982622
+Spar Cove,2021,Benzo[a]pyrene,0.75,7.869884575
+Spar Cove,2021,Benzo[a]pyrene,0.15,9.493670886
+Spar Cove,2021,Benzo[a]pyrene,0.05,8.928571429
+Tin Can Beach,2021,Benzo[a]pyrene,3.1,6.288032454
+Tin Can Beach,2021,Benzo[a]pyrene,0.48,6.340819022
+Tin Can Beach,2021,Benzo[a]pyrene,0.47,10.85450346
+Tin Can Beach,2021,Benzo[a]pyrene,0.8,8.620689655
+Tin Can Beach,2021,Benzo[a]pyrene,0.24,10.45751634
+Tin Can Beach,2021,Benzo[a]pyrene,0.36,11.19751166
+Bayshore,2021,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Bayshore,2021,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Bayshore,2021,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Bayshore,2021,"Benzo[b,j]fluoranthene",0.01,7.692307692
+Black Beach,2021,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Black Beach,2021,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Black Beach,2021,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Black Beach,2021,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Courtenay Bay,2021,"Benzo[b,j]fluoranthene",0.7,7.049345418
+Courtenay Bay,2021,"Benzo[b,j]fluoranthene",0.02,12.5
+Courtenay Bay,2021,"Benzo[b,j]fluoranthene",0.24,10.54945055
+Courtenay Bay,2021,"Benzo[b,j]fluoranthene",0.17,9.392265193
+Digby Ferry Terminal,2021,"Benzo[b,j]fluoranthene",0.17,7.589285714
+Digby Ferry Terminal,2021,"Benzo[b,j]fluoranthene",0.37,7.676348548
+Digby Ferry Terminal,2021,"Benzo[b,j]fluoranthene",0.46,8.932038835
+Digby Ferry Terminal,2021,"Benzo[b,j]fluoranthene",0.04,9.195402299
+Hazen Creek Mouth,2021,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Hazen Creek Mouth,2021,"Benzo[b,j]fluoranthene",0.02,8.888888889
+Hazen Creek Mouth,2021,"Benzo[b,j]fluoranthene",0.005,4.347826087
+Hazen Creek Mouth,2021,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Hazen Creek Nearshore,2021,"Benzo[b,j]fluoranthene",0.03,12.24489796
+Hazen Creek Nearshore,2021,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Hazen Creek Nearshore,2021,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Hazen Creek Nearshore,2021,"Benzo[b,j]fluoranthene",0.03,6.818181818
+Hazen Creek Nearshore,2021,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Hazen Creek Nearshore,2021,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Inner Harbour,2021,"Benzo[b,j]fluoranthene",0.08,10.1910828
+Inner Harbour,2021,"Benzo[b,j]fluoranthene",0.02,11.76470588
+Inner Harbour,2021,"Benzo[b,j]fluoranthene",0.22,9.421841542
+Inner Harbour,2021,"Benzo[b,j]fluoranthene",0.07,11.96581197
+Inner Harbour,2021,"Benzo[b,j]fluoranthene",0.39,10.83333333
+Inner Harbour,2021,"Benzo[b,j]fluoranthene",0.06,13.04347826
+Little River,2021,"Benzo[b,j]fluoranthene",0.66,6.205923836
+Little River,2021,"Benzo[b,j]fluoranthene",1.5,9.646302251
+Little River,2021,"Benzo[b,j]fluoranthene",0.15,8.196721311
+Little River,2021,"Benzo[b,j]fluoranthene",0.39,6.098514464
+Marsh Creek WS DS,2021,"Benzo[b,j]fluoranthene",1.4,11.00628931
+Marsh Creek WS DS,2021,"Benzo[b,j]fluoranthene",1.3,9.372746936
+Marsh Creek WS DS,2021,"Benzo[b,j]fluoranthene",2.2,9.286618827
+Marsh Creek WS DS,2021,"Benzo[b,j]fluoranthene",4,10.33057851
+Mispec,2021,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Mispec,2021,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Mispec,2021,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Mispec,2021,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Saints Rest Beach,2021,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Saints Rest Beach,2021,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Saints Rest Beach,2021,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Saints Rest Beach,2021,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Spar Cove,2021,"Benzo[b,j]fluoranthene",0.49,9.722222222
+Spar Cove,2021,"Benzo[b,j]fluoranthene",0.54,9.507042254
+Spar Cove,2021,"Benzo[b,j]fluoranthene",0.62,9.794628752
+Spar Cove,2021,"Benzo[b,j]fluoranthene",0.96,10.07345226
+Spar Cove,2021,"Benzo[b,j]fluoranthene",0.18,11.39240506
+Spar Cove,2021,"Benzo[b,j]fluoranthene",0.07,12.5
+Tin Can Beach,2021,"Benzo[b,j]fluoranthene",3.6,7.302231237
+Tin Can Beach,2021,"Benzo[b,j]fluoranthene",0.64,8.454425363
+Tin Can Beach,2021,"Benzo[b,j]fluoranthene",0.52,12.00923788
+Tin Can Beach,2021,"Benzo[b,j]fluoranthene",0.93,10.02155172
+Tin Can Beach,2021,"Benzo[b,j]fluoranthene",0.28,12.20043573
+Tin Can Beach,2021,"Benzo[b,j]fluoranthene",0.4,12.44167963
+Bayshore,2021,Benzo[e]pyrene,0.005,5.882352941
+Bayshore,2021,Benzo[e]pyrene,0.005,5.882352941
+Bayshore,2021,Benzo[e]pyrene,0.005,5.882352941
+Bayshore,2021,Benzo[e]pyrene,0.005,3.846153846
+Black Beach,2021,Benzo[e]pyrene,0.005,5.882352941
+Black Beach,2021,Benzo[e]pyrene,0.005,5.882352941
+Black Beach,2021,Benzo[e]pyrene,0.005,5.882352941
+Black Beach,2021,Benzo[e]pyrene,0.005,5.882352941
+Courtenay Bay,2021,Benzo[e]pyrene,0.36,3.625377644
+Courtenay Bay,2021,Benzo[e]pyrene,0.01,6.25
+Courtenay Bay,2021,Benzo[e]pyrene,0.12,5.274725275
+Courtenay Bay,2021,Benzo[e]pyrene,0.09,4.972375691
+Digby Ferry Terminal,2021,Benzo[e]pyrene,0.1,4.464285714
+Digby Ferry Terminal,2021,Benzo[e]pyrene,0.17,3.526970954
+Digby Ferry Terminal,2021,Benzo[e]pyrene,0.21,4.077669903
+Digby Ferry Terminal,2021,Benzo[e]pyrene,0.02,4.597701149
+Hazen Creek Mouth,2021,Benzo[e]pyrene,0.005,5.882352941
+Hazen Creek Mouth,2021,Benzo[e]pyrene,0.01,4.444444444
+Hazen Creek Mouth,2021,Benzo[e]pyrene,0.005,4.347826087
+Hazen Creek Mouth,2021,Benzo[e]pyrene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Benzo[e]pyrene,0.01,4.081632653
+Hazen Creek Nearshore,2021,Benzo[e]pyrene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Benzo[e]pyrene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Benzo[e]pyrene,0.01,2.272727273
+Hazen Creek Nearshore,2021,Benzo[e]pyrene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Benzo[e]pyrene,0.005,5.882352941
+Inner Harbour,2021,Benzo[e]pyrene,0.04,5.095541401
+Inner Harbour,2021,Benzo[e]pyrene,0.01,5.882352941
+Inner Harbour,2021,Benzo[e]pyrene,0.1,4.282655246
+Inner Harbour,2021,Benzo[e]pyrene,0.03,5.128205128
+Inner Harbour,2021,Benzo[e]pyrene,0.19,5.277777778
+Inner Harbour,2021,Benzo[e]pyrene,0.03,6.52173913
+Little River,2021,Benzo[e]pyrene,0.35,3.291020216
+Little River,2021,Benzo[e]pyrene,0.65,4.180064309
+Little River,2021,Benzo[e]pyrene,0.43,23.49726776
+Little River,2021,Benzo[e]pyrene,0.34,5.316653636
+Marsh Creek WS DS,2021,Benzo[e]pyrene,0.65,5.110062893
+Marsh Creek WS DS,2021,Benzo[e]pyrene,0.58,4.181687094
+Marsh Creek WS DS,2021,Benzo[e]pyrene,0.93,3.925707049
+Marsh Creek WS DS,2021,Benzo[e]pyrene,1.6,4.132231405
+Mispec,2021,Benzo[e]pyrene,0.005,5.882352941
+Mispec,2021,Benzo[e]pyrene,0.005,5.882352941
+Mispec,2021,Benzo[e]pyrene,0.005,5.882352941
+Mispec,2021,Benzo[e]pyrene,0.005,5.882352941
+Saints Rest Beach,2021,Benzo[e]pyrene,0.005,5.882352941
+Saints Rest Beach,2021,Benzo[e]pyrene,0.005,5.882352941
+Saints Rest Beach,2021,Benzo[e]pyrene,0.005,5.882352941
+Saints Rest Beach,2021,Benzo[e]pyrene,0.005,5.882352941
+Spar Cove,2021,Benzo[e]pyrene,0.22,4.365079365
+Spar Cove,2021,Benzo[e]pyrene,0.24,4.225352113
+Spar Cove,2021,Benzo[e]pyrene,0.25,3.949447077
+Spar Cove,2021,Benzo[e]pyrene,0.42,4.407135362
+Spar Cove,2021,Benzo[e]pyrene,0.09,5.696202532
+Spar Cove,2021,Benzo[e]pyrene,0.04,7.142857143
+Tin Can Beach,2021,Benzo[e]pyrene,1.7,3.448275862
+Tin Can Beach,2021,Benzo[e]pyrene,0.33,4.359313078
+Tin Can Beach,2021,Benzo[e]pyrene,0.24,5.542725173
+Tin Can Beach,2021,Benzo[e]pyrene,0.4,4.310344828
+Tin Can Beach,2021,Benzo[e]pyrene,0.13,5.664488017
+Tin Can Beach,2021,Benzo[e]pyrene,0.19,5.909797823
+Bayshore,2021,Benzo[k]fluoranthene,0.005,5.882352941
+Bayshore,2021,Benzo[k]fluoranthene,0.005,5.882352941
+Bayshore,2021,Benzo[k]fluoranthene,0.005,5.882352941
+Bayshore,2021,Benzo[k]fluoranthene,0.005,3.846153846
+Black Beach,2021,Benzo[k]fluoranthene,0.005,5.882352941
+Black Beach,2021,Benzo[k]fluoranthene,0.005,5.882352941
+Black Beach,2021,Benzo[k]fluoranthene,0.005,5.882352941
+Black Beach,2021,Benzo[k]fluoranthene,0.005,5.882352941
+Courtenay Bay,2021,Benzo[k]fluoranthene,0.19,1.913393756
+Courtenay Bay,2021,Benzo[k]fluoranthene,0.005,3.125
+Courtenay Bay,2021,Benzo[k]fluoranthene,0.09,3.956043956
+Courtenay Bay,2021,Benzo[k]fluoranthene,0.06,3.314917127
+Digby Ferry Terminal,2021,Benzo[k]fluoranthene,0.07,3.125
+Digby Ferry Terminal,2021,Benzo[k]fluoranthene,0.16,3.319502075
+Digby Ferry Terminal,2021,Benzo[k]fluoranthene,0.16,3.106796117
+Digby Ferry Terminal,2021,Benzo[k]fluoranthene,0.01,2.298850575
+Hazen Creek Mouth,2021,Benzo[k]fluoranthene,0.005,5.882352941
+Hazen Creek Mouth,2021,Benzo[k]fluoranthene,0.005,2.222222222
+Hazen Creek Mouth,2021,Benzo[k]fluoranthene,0.005,4.347826087
+Hazen Creek Mouth,2021,Benzo[k]fluoranthene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Benzo[k]fluoranthene,0.005,2.040816327
+Hazen Creek Nearshore,2021,Benzo[k]fluoranthene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Benzo[k]fluoranthene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Benzo[k]fluoranthene,0.01,2.272727273
+Hazen Creek Nearshore,2021,Benzo[k]fluoranthene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Benzo[k]fluoranthene,0.005,5.882352941
+Inner Harbour,2021,Benzo[k]fluoranthene,0.03,3.821656051
+Inner Harbour,2021,Benzo[k]fluoranthene,0.005,2.941176471
+Inner Harbour,2021,Benzo[k]fluoranthene,0.08,3.426124197
+Inner Harbour,2021,Benzo[k]fluoranthene,0.02,3.418803419
+Inner Harbour,2021,Benzo[k]fluoranthene,0.15,4.166666667
+Inner Harbour,2021,Benzo[k]fluoranthene,0.02,4.347826087
+Little River,2021,Benzo[k]fluoranthene,0.2,1.880582981
+Little River,2021,Benzo[k]fluoranthene,0.56,3.601286174
+Little River,2021,Benzo[k]fluoranthene,0.025,1.366120219
+Little River,2021,Benzo[k]fluoranthene,0.16,2.501954652
+Marsh Creek WS DS,2021,Benzo[k]fluoranthene,0.45,3.537735849
+Marsh Creek WS DS,2021,Benzo[k]fluoranthene,0.48,3.460706561
+Marsh Creek WS DS,2021,Benzo[k]fluoranthene,0.75,3.165892782
+Marsh Creek WS DS,2021,Benzo[k]fluoranthene,1.3,3.357438017
+Mispec,2021,Benzo[k]fluoranthene,0.005,5.882352941
+Mispec,2021,Benzo[k]fluoranthene,0.005,5.882352941
+Mispec,2021,Benzo[k]fluoranthene,0.005,5.882352941
+Mispec,2021,Benzo[k]fluoranthene,0.005,5.882352941
+Saints Rest Beach,2021,Benzo[k]fluoranthene,0.005,5.882352941
+Saints Rest Beach,2021,Benzo[k]fluoranthene,0.005,5.882352941
+Saints Rest Beach,2021,Benzo[k]fluoranthene,0.005,5.882352941
+Saints Rest Beach,2021,Benzo[k]fluoranthene,0.005,5.882352941
+Spar Cove,2021,Benzo[k]fluoranthene,0.14,2.777777778
+Spar Cove,2021,Benzo[k]fluoranthene,0.2,3.521126761
+Spar Cove,2021,Benzo[k]fluoranthene,0.19,3.001579779
+Spar Cove,2021,Benzo[k]fluoranthene,0.29,3.043022036
+Spar Cove,2021,Benzo[k]fluoranthene,0.07,4.430379747
+Spar Cove,2021,Benzo[k]fluoranthene,0.02,3.571428571
+Tin Can Beach,2021,Benzo[k]fluoranthene,1.4,2.839756592
+Tin Can Beach,2021,Benzo[k]fluoranthene,0.26,3.434610304
+Tin Can Beach,2021,Benzo[k]fluoranthene,0.17,3.926096998
+Tin Can Beach,2021,Benzo[k]fluoranthene,0.3,3.232758621
+Tin Can Beach,2021,Benzo[k]fluoranthene,0.11,4.793028322
+Tin Can Beach,2021,Benzo[k]fluoranthene,0.16,4.976671851
+Bayshore,2021,Chrysene + Triphenylene,0.005,5.882352941
+Bayshore,2021,Chrysene + Triphenylene,0.005,5.882352941
+Bayshore,2021,Chrysene + Triphenylene,0.005,5.882352941
+Bayshore,2021,Chrysene + Triphenylene,0.005,3.846153846
+Black Beach,2021,Chrysene + Triphenylene,0.005,5.882352941
+Black Beach,2021,Chrysene + Triphenylene,0.005,5.882352941
+Black Beach,2021,Chrysene + Triphenylene,0.005,5.882352941
+Black Beach,2021,Chrysene + Triphenylene,0.005,5.882352941
+Courtenay Bay,2021,Chrysene + Triphenylene,0.57,5.740181269
+Courtenay Bay,2021,Chrysene + Triphenylene,0.01,6.25
+Courtenay Bay,2021,Chrysene + Triphenylene,0.17,7.472527473
+Courtenay Bay,2021,Chrysene + Triphenylene,0.11,6.077348066
+Digby Ferry Terminal,2021,Chrysene + Triphenylene,0.13,5.803571429
+Digby Ferry Terminal,2021,Chrysene + Triphenylene,0.3,6.22406639
+Digby Ferry Terminal,2021,Chrysene + Triphenylene,0.3,5.825242718
+Digby Ferry Terminal,2021,Chrysene + Triphenylene,0.03,6.896551724
+Hazen Creek Mouth,2021,Chrysene + Triphenylene,0.005,5.882352941
+Hazen Creek Mouth,2021,Chrysene + Triphenylene,0.02,8.888888889
+Hazen Creek Mouth,2021,Chrysene + Triphenylene,0.005,4.347826087
+Hazen Creek Mouth,2021,Chrysene + Triphenylene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Chrysene + Triphenylene,0.02,8.163265306
+Hazen Creek Nearshore,2021,Chrysene + Triphenylene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Chrysene + Triphenylene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Chrysene + Triphenylene,0.02,4.545454545
+Hazen Creek Nearshore,2021,Chrysene + Triphenylene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Chrysene + Triphenylene,0.005,5.882352941
+Inner Harbour,2021,Chrysene + Triphenylene,0.06,7.643312102
+Inner Harbour,2021,Chrysene + Triphenylene,0.01,5.882352941
+Inner Harbour,2021,Chrysene + Triphenylene,0.15,6.423982869
+Inner Harbour,2021,Chrysene + Triphenylene,0.04,6.837606838
+Inner Harbour,2021,Chrysene + Triphenylene,0.23,6.388888889
+Inner Harbour,2021,Chrysene + Triphenylene,0.03,6.52173913
+Little River,2021,Chrysene + Triphenylene,0.49,4.607428303
+Little River,2021,Chrysene + Triphenylene,0.95,6.109324759
+Little River,2021,Chrysene + Triphenylene,0.08,4.371584699
+Little River,2021,Chrysene + Triphenylene,0.27,4.222048475
+Marsh Creek WS DS,2021,Chrysene + Triphenylene,0.83,6.525157233
+Marsh Creek WS DS,2021,Chrysene + Triphenylene,0.9,6.488824802
+Marsh Creek WS DS,2021,Chrysene + Triphenylene,1.6,6.753904601
+Marsh Creek WS DS,2021,Chrysene + Triphenylene,3,7.747933884
+Mispec,2021,Chrysene + Triphenylene,0.005,5.882352941
+Mispec,2021,Chrysene + Triphenylene,0.005,5.882352941
+Mispec,2021,Chrysene + Triphenylene,0.005,5.882352941
+Mispec,2021,Chrysene + Triphenylene,0.005,5.882352941
+Saints Rest Beach,2021,Chrysene + Triphenylene,0.005,5.882352941
+Saints Rest Beach,2021,Chrysene + Triphenylene,0.005,5.882352941
+Saints Rest Beach,2021,Chrysene + Triphenylene,0.005,5.882352941
+Saints Rest Beach,2021,Chrysene + Triphenylene,0.005,5.882352941
+Spar Cove,2021,Chrysene + Triphenylene,0.33,6.547619048
+Spar Cove,2021,Chrysene + Triphenylene,0.37,6.514084507
+Spar Cove,2021,Chrysene + Triphenylene,0.39,6.161137441
+Spar Cove,2021,Chrysene + Triphenylene,0.56,5.876180483
+Spar Cove,2021,Chrysene + Triphenylene,0.09,5.696202532
+Spar Cove,2021,Chrysene + Triphenylene,0.04,7.142857143
+Tin Can Beach,2021,Chrysene + Triphenylene,2.8,5.679513185
+Tin Can Beach,2021,Chrysene + Triphenylene,0.45,5.944517834
+Tin Can Beach,2021,Chrysene + Triphenylene,0.3,6.928406467
+Tin Can Beach,2021,Chrysene + Triphenylene,0.55,5.926724138
+Tin Can Beach,2021,Chrysene + Triphenylene,0.16,6.97167756
+Tin Can Beach,2021,Chrysene + Triphenylene,0.22,6.842923795
+Bayshore,2021,"Dibenz[a,h]anthracene",0.005,5.882352941
+Bayshore,2021,"Dibenz[a,h]anthracene",0.005,5.882352941
+Bayshore,2021,"Dibenz[a,h]anthracene",0.005,5.882352941
+Bayshore,2021,"Dibenz[a,h]anthracene",0.005,3.846153846
+Black Beach,2021,"Dibenz[a,h]anthracene",0.005,5.882352941
+Black Beach,2021,"Dibenz[a,h]anthracene",0.005,5.882352941
+Black Beach,2021,"Dibenz[a,h]anthracene",0.005,5.882352941
+Black Beach,2021,"Dibenz[a,h]anthracene",0.005,5.882352941
+Courtenay Bay,2021,"Dibenz[a,h]anthracene",0.07,0.704934542
+Courtenay Bay,2021,"Dibenz[a,h]anthracene",0.005,3.125
+Courtenay Bay,2021,"Dibenz[a,h]anthracene",0.03,1.318681319
+Courtenay Bay,2021,"Dibenz[a,h]anthracene",0.02,1.104972376
+Digby Ferry Terminal,2021,"Dibenz[a,h]anthracene",0.02,0.892857143
+Digby Ferry Terminal,2021,"Dibenz[a,h]anthracene",0.05,1.037344398
+Digby Ferry Terminal,2021,"Dibenz[a,h]anthracene",0.05,0.970873786
+Digby Ferry Terminal,2021,"Dibenz[a,h]anthracene",0.005,1.149425287
+Hazen Creek Mouth,2021,"Dibenz[a,h]anthracene",0.005,5.882352941
+Hazen Creek Mouth,2021,"Dibenz[a,h]anthracene",0.005,2.222222222
+Hazen Creek Mouth,2021,"Dibenz[a,h]anthracene",0.005,4.347826087
+Hazen Creek Mouth,2021,"Dibenz[a,h]anthracene",0.005,5.882352941
+Hazen Creek Nearshore,2021,"Dibenz[a,h]anthracene",0.005,2.040816327
+Hazen Creek Nearshore,2021,"Dibenz[a,h]anthracene",0.005,5.882352941
+Hazen Creek Nearshore,2021,"Dibenz[a,h]anthracene",0.005,5.882352941
+Hazen Creek Nearshore,2021,"Dibenz[a,h]anthracene",0.005,1.136363636
+Hazen Creek Nearshore,2021,"Dibenz[a,h]anthracene",0.005,5.882352941
+Hazen Creek Nearshore,2021,"Dibenz[a,h]anthracene",0.005,5.882352941
+Inner Harbour,2021,"Dibenz[a,h]anthracene",0.005,0.636942675
+Inner Harbour,2021,"Dibenz[a,h]anthracene",0.005,2.941176471
+Inner Harbour,2021,"Dibenz[a,h]anthracene",0.02,0.856531049
+Inner Harbour,2021,"Dibenz[a,h]anthracene",0.005,0.854700855
+Inner Harbour,2021,"Dibenz[a,h]anthracene",0.05,1.388888889
+Inner Harbour,2021,"Dibenz[a,h]anthracene",0.005,1.086956522
+Little River,2021,"Dibenz[a,h]anthracene",0.07,0.658204043
+Little River,2021,"Dibenz[a,h]anthracene",0.2,1.286173633
+Little River,2021,"Dibenz[a,h]anthracene",0.08,4.371584699
+Little River,2021,"Dibenz[a,h]anthracene",0.07,1.09460516
+Marsh Creek WS DS,2021,"Dibenz[a,h]anthracene",0.17,1.336477987
+Marsh Creek WS DS,2021,"Dibenz[a,h]anthracene",0.18,1.29776496
+Marsh Creek WS DS,2021,"Dibenz[a,h]anthracene",0.25,1.055297594
+Marsh Creek WS DS,2021,"Dibenz[a,h]anthracene",0.32,0.826446281
+Mispec,2021,"Dibenz[a,h]anthracene",0.005,5.882352941
+Mispec,2021,"Dibenz[a,h]anthracene",0.005,5.882352941
+Mispec,2021,"Dibenz[a,h]anthracene",0.005,5.882352941
+Mispec,2021,"Dibenz[a,h]anthracene",0.005,5.882352941
+Saints Rest Beach,2021,"Dibenz[a,h]anthracene",0.005,5.882352941
+Saints Rest Beach,2021,"Dibenz[a,h]anthracene",0.005,5.882352941
+Saints Rest Beach,2021,"Dibenz[a,h]anthracene",0.005,5.882352941
+Saints Rest Beach,2021,"Dibenz[a,h]anthracene",0.005,5.882352941
+Spar Cove,2021,"Dibenz[a,h]anthracene",0.06,1.19047619
+Spar Cove,2021,"Dibenz[a,h]anthracene",0.06,1.056338028
+Spar Cove,2021,"Dibenz[a,h]anthracene",0.06,0.947867299
+Spar Cove,2021,"Dibenz[a,h]anthracene",0.1,1.049317943
+Spar Cove,2021,"Dibenz[a,h]anthracene",0.02,1.265822785
+Spar Cove,2021,"Dibenz[a,h]anthracene",0.005,0.892857143
+Tin Can Beach,2021,"Dibenz[a,h]anthracene",0.49,0.993914807
+Tin Can Beach,2021,"Dibenz[a,h]anthracene",0.08,1.05680317
+Tin Can Beach,2021,"Dibenz[a,h]anthracene",0.07,1.616628176
+Tin Can Beach,2021,"Dibenz[a,h]anthracene",0.11,1.185344828
+Tin Can Beach,2021,"Dibenz[a,h]anthracene",0.03,1.307189542
+Tin Can Beach,2021,"Dibenz[a,h]anthracene",0.04,1.244167963
+Bayshore,2021,Fluoranthene,0.005,5.882352941
+Bayshore,2021,Fluoranthene,0.005,5.882352941
+Bayshore,2021,Fluoranthene,0.005,5.882352941
+Bayshore,2021,Fluoranthene,0.02,15.38461538
+Black Beach,2021,Fluoranthene,0.005,5.882352941
+Black Beach,2021,Fluoranthene,0.005,5.882352941
+Black Beach,2021,Fluoranthene,0.005,5.882352941
+Black Beach,2021,Fluoranthene,0.005,5.882352941
+Courtenay Bay,2021,Fluoranthene,2,20.14098691
+Courtenay Bay,2021,Fluoranthene,0.02,12.5
+Courtenay Bay,2021,Fluoranthene,0.39,17.14285714
+Courtenay Bay,2021,Fluoranthene,0.35,19.33701657
+Digby Ferry Terminal,2021,Fluoranthene,0.36,16.07142857
+Digby Ferry Terminal,2021,Fluoranthene,0.84,17.42738589
+Digby Ferry Terminal,2021,Fluoranthene,0.84,16.31067961
+Digby Ferry Terminal,2021,Fluoranthene,0.07,16.09195402
+Hazen Creek Mouth,2021,Fluoranthene,0.005,5.882352941
+Hazen Creek Mouth,2021,Fluoranthene,0.04,17.77777778
+Hazen Creek Mouth,2021,Fluoranthene,0.02,17.39130435
+Hazen Creek Mouth,2021,Fluoranthene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Fluoranthene,0.04,16.32653061
+Hazen Creek Nearshore,2021,Fluoranthene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Fluoranthene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Fluoranthene,0.08,18.18181818
+Hazen Creek Nearshore,2021,Fluoranthene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Fluoranthene,0.005,5.882352941
+Inner Harbour,2021,Fluoranthene,0.14,17.8343949
+Inner Harbour,2021,Fluoranthene,0.02,11.76470588
+Inner Harbour,2021,Fluoranthene,0.4,17.13062099
+Inner Harbour,2021,Fluoranthene,0.09,15.38461538
+Inner Harbour,2021,Fluoranthene,0.45,12.5
+Inner Harbour,2021,Fluoranthene,0.06,13.04347826
+Little River,2021,Fluoranthene,1.9,17.86553832
+Little River,2021,Fluoranthene,2.9,18.64951768
+Little River,2021,Fluoranthene,0.11,6.010928962
+Little River,2021,Fluoranthene,1.2,18.76465989
+Marsh Creek WS DS,2021,Fluoranthene,2.3,18.08176101
+Marsh Creek WS DS,2021,Fluoranthene,2.5,18.02451334
+Marsh Creek WS DS,2021,Fluoranthene,3.6,15.19628535
+Marsh Creek WS DS,2021,Fluoranthene,6.5,16.78719008
+Mispec,2021,Fluoranthene,0.005,5.882352941
+Mispec,2021,Fluoranthene,0.005,5.882352941
+Mispec,2021,Fluoranthene,0.005,5.882352941
+Mispec,2021,Fluoranthene,0.005,5.882352941
+Saints Rest Beach,2021,Fluoranthene,0.005,5.882352941
+Saints Rest Beach,2021,Fluoranthene,0.005,5.882352941
+Saints Rest Beach,2021,Fluoranthene,0.005,5.882352941
+Saints Rest Beach,2021,Fluoranthene,0.005,5.882352941
+Spar Cove,2021,Fluoranthene,0.91,18.05555556
+Spar Cove,2021,Fluoranthene,1,17.6056338
+Spar Cove,2021,Fluoranthene,1.2,18.95734597
+Spar Cove,2021,Fluoranthene,1.6,16.78908709
+Spar Cove,2021,Fluoranthene,0.25,15.82278481
+Spar Cove,2021,Fluoranthene,0.09,16.07142857
+Tin Can Beach,2021,Fluoranthene,8.2,16.63286004
+Tin Can Beach,2021,Fluoranthene,1.3,17.17305152
+Tin Can Beach,2021,Fluoranthene,0.6,13.85681293
+Tin Can Beach,2021,Fluoranthene,1.6,17.24137931
+Tin Can Beach,2021,Fluoranthene,0.32,13.94335512
+Tin Can Beach,2021,Fluoranthene,0.43,13.3748056
+Bayshore,2021,Fluorene,0.005,5.882352941
+Bayshore,2021,Fluorene,0.005,5.882352941
+Bayshore,2021,Fluorene,0.005,5.882352941
+Bayshore,2021,Fluorene,0.005,3.846153846
+Black Beach,2021,Fluorene,0.005,5.882352941
+Black Beach,2021,Fluorene,0.005,5.882352941
+Black Beach,2021,Fluorene,0.005,5.882352941
+Black Beach,2021,Fluorene,0.005,5.882352941
+Courtenay Bay,2021,Fluorene,0.4,4.028197382
+Courtenay Bay,2021,Fluorene,0.005,3.125
+Courtenay Bay,2021,Fluorene,0.04,1.758241758
+Courtenay Bay,2021,Fluorene,0.04,2.209944751
+Digby Ferry Terminal,2021,Fluorene,0.05,2.232142857
+Digby Ferry Terminal,2021,Fluorene,0.11,2.282157676
+Digby Ferry Terminal,2021,Fluorene,0.12,2.330097087
+Digby Ferry Terminal,2021,Fluorene,0.005,1.149425287
+Hazen Creek Mouth,2021,Fluorene,0.005,5.882352941
+Hazen Creek Mouth,2021,Fluorene,0.005,2.222222222
+Hazen Creek Mouth,2021,Fluorene,0.005,4.347826087
+Hazen Creek Mouth,2021,Fluorene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Fluorene,0.005,2.040816327
+Hazen Creek Nearshore,2021,Fluorene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Fluorene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Fluorene,0.02,4.545454545
+Hazen Creek Nearshore,2021,Fluorene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Fluorene,0.005,5.882352941
+Inner Harbour,2021,Fluorene,0.005,0.636942675
+Inner Harbour,2021,Fluorene,0.005,2.941176471
+Inner Harbour,2021,Fluorene,0.03,1.284796574
+Inner Harbour,2021,Fluorene,0.005,0.854700855
+Inner Harbour,2021,Fluorene,0.06,1.666666667
+Inner Harbour,2021,Fluorene,0.005,1.086956522
+Little River,2021,Fluorene,0.29,2.726845322
+Little River,2021,Fluorene,0.14,0.900321543
+Little River,2021,Fluorene,0.025,1.366120219
+Little River,2021,Fluorene,0.005,0.078186083
+Marsh Creek WS DS,2021,Fluorene,0.16,1.257861635
+Marsh Creek WS DS,2021,Fluorene,0.14,1.009372747
+Marsh Creek WS DS,2021,Fluorene,0.6,2.532714225
+Marsh Creek WS DS,2021,Fluorene,0.73,1.885330579
+Mispec,2021,Fluorene,0.005,5.882352941
+Mispec,2021,Fluorene,0.005,5.882352941
+Mispec,2021,Fluorene,0.005,5.882352941
+Mispec,2021,Fluorene,0.005,5.882352941
+Saints Rest Beach,2021,Fluorene,0.005,5.882352941
+Saints Rest Beach,2021,Fluorene,0.005,5.882352941
+Saints Rest Beach,2021,Fluorene,0.005,5.882352941
+Saints Rest Beach,2021,Fluorene,0.005,5.882352941
+Spar Cove,2021,Fluorene,0.07,1.388888889
+Spar Cove,2021,Fluorene,0.08,1.408450704
+Spar Cove,2021,Fluorene,0.07,1.105845182
+Spar Cove,2021,Fluorene,0.12,1.259181532
+Spar Cove,2021,Fluorene,0.01,0.632911392
+Spar Cove,2021,Fluorene,0.005,0.892857143
+Tin Can Beach,2021,Fluorene,1.2,2.434077079
+Tin Can Beach,2021,Fluorene,0.15,1.981505945
+Tin Can Beach,2021,Fluorene,0.03,0.692840647
+Tin Can Beach,2021,Fluorene,0.15,1.61637931
+Tin Can Beach,2021,Fluorene,0.01,0.435729847
+Tin Can Beach,2021,Fluorene,0.02,0.622083981
+Bayshore,2021,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Bayshore,2021,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Bayshore,2021,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Bayshore,2021,"Indeno[1,2,3-cd]pyrene",0.005,3.846153846
+Black Beach,2021,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Black Beach,2021,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Black Beach,2021,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Black Beach,2021,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Courtenay Bay,2021,"Indeno[1,2,3-cd]pyrene",0.23,2.316213494
+Courtenay Bay,2021,"Indeno[1,2,3-cd]pyrene",0.01,6.25
+Courtenay Bay,2021,"Indeno[1,2,3-cd]pyrene",0.09,3.956043956
+Courtenay Bay,2021,"Indeno[1,2,3-cd]pyrene",0.06,3.314917127
+Digby Ferry Terminal,2021,"Indeno[1,2,3-cd]pyrene",0.09,4.017857143
+Digby Ferry Terminal,2021,"Indeno[1,2,3-cd]pyrene",0.17,3.526970954
+Digby Ferry Terminal,2021,"Indeno[1,2,3-cd]pyrene",0.2,3.883495146
+Digby Ferry Terminal,2021,"Indeno[1,2,3-cd]pyrene",0.02,4.597701149
+Hazen Creek Mouth,2021,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Hazen Creek Mouth,2021,"Indeno[1,2,3-cd]pyrene",0.005,2.222222222
+Hazen Creek Mouth,2021,"Indeno[1,2,3-cd]pyrene",0.005,4.347826087
+Hazen Creek Mouth,2021,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Hazen Creek Nearshore,2021,"Indeno[1,2,3-cd]pyrene",0.01,4.081632653
+Hazen Creek Nearshore,2021,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Hazen Creek Nearshore,2021,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Hazen Creek Nearshore,2021,"Indeno[1,2,3-cd]pyrene",0.01,2.272727273
+Hazen Creek Nearshore,2021,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Hazen Creek Nearshore,2021,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Inner Harbour,2021,"Indeno[1,2,3-cd]pyrene",0.04,5.095541401
+Inner Harbour,2021,"Indeno[1,2,3-cd]pyrene",0.005,2.941176471
+Inner Harbour,2021,"Indeno[1,2,3-cd]pyrene",0.1,4.282655246
+Inner Harbour,2021,"Indeno[1,2,3-cd]pyrene",0.03,5.128205128
+Inner Harbour,2021,"Indeno[1,2,3-cd]pyrene",0.2,5.555555556
+Inner Harbour,2021,"Indeno[1,2,3-cd]pyrene",0.03,6.52173913
+Little River,2021,"Indeno[1,2,3-cd]pyrene",0.29,2.726845322
+Little River,2021,"Indeno[1,2,3-cd]pyrene",0.71,4.565916399
+Little River,2021,"Indeno[1,2,3-cd]pyrene",0.13,7.103825137
+Little River,2021,"Indeno[1,2,3-cd]pyrene",0.23,3.596559812
+Marsh Creek WS DS,2021,"Indeno[1,2,3-cd]pyrene",0.71,5.581761006
+Marsh Creek WS DS,2021,"Indeno[1,2,3-cd]pyrene",0.67,4.830569575
+Marsh Creek WS DS,2021,"Indeno[1,2,3-cd]pyrene",0.88,3.714647531
+Marsh Creek WS DS,2021,"Indeno[1,2,3-cd]pyrene",1.5,3.873966942
+Mispec,2021,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Mispec,2021,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Mispec,2021,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Mispec,2021,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Saints Rest Beach,2021,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Saints Rest Beach,2021,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Saints Rest Beach,2021,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Saints Rest Beach,2021,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Spar Cove,2021,"Indeno[1,2,3-cd]pyrene",0.24,4.761904762
+Spar Cove,2021,"Indeno[1,2,3-cd]pyrene",0.22,3.873239437
+Spar Cove,2021,"Indeno[1,2,3-cd]pyrene",0.26,4.107424961
+Spar Cove,2021,"Indeno[1,2,3-cd]pyrene",0.47,4.931794334
+Spar Cove,2021,"Indeno[1,2,3-cd]pyrene",0.09,5.696202532
+Spar Cove,2021,"Indeno[1,2,3-cd]pyrene",0.03,5.357142857
+Tin Can Beach,2021,"Indeno[1,2,3-cd]pyrene",2,4.056795132
+Tin Can Beach,2021,"Indeno[1,2,3-cd]pyrene",0.27,3.5667107
+Tin Can Beach,2021,"Indeno[1,2,3-cd]pyrene",0.28,6.466512702
+Tin Can Beach,2021,"Indeno[1,2,3-cd]pyrene",0.46,4.956896552
+Tin Can Beach,2021,"Indeno[1,2,3-cd]pyrene",0.15,6.535947712
+Tin Can Beach,2021,"Indeno[1,2,3-cd]pyrene",0.22,6.842923795
+Bayshore,2021,Naphthalene,0.005,5.882352941
+Bayshore,2021,Naphthalene,0.005,5.882352941
+Bayshore,2021,Naphthalene,0.005,5.882352941
+Bayshore,2021,Naphthalene,0.005,3.846153846
+Black Beach,2021,Naphthalene,0.005,5.882352941
+Black Beach,2021,Naphthalene,0.005,5.882352941
+Black Beach,2021,Naphthalene,0.005,5.882352941
+Black Beach,2021,Naphthalene,0.005,5.882352941
+Courtenay Bay,2021,Naphthalene,0.07,0.704934542
+Courtenay Bay,2021,Naphthalene,0.005,3.125
+Courtenay Bay,2021,Naphthalene,0.01,0.43956044
+Courtenay Bay,2021,Naphthalene,0.005,0.276243094
+Digby Ferry Terminal,2021,Naphthalene,0.06,2.678571429
+Digby Ferry Terminal,2021,Naphthalene,0.04,0.829875519
+Digby Ferry Terminal,2021,Naphthalene,0.03,0.582524272
+Digby Ferry Terminal,2021,Naphthalene,0.02,4.597701149
+Hazen Creek Mouth,2021,Naphthalene,0.005,5.882352941
+Hazen Creek Mouth,2021,Naphthalene,0.005,2.222222222
+Hazen Creek Mouth,2021,Naphthalene,0.005,4.347826087
+Hazen Creek Mouth,2021,Naphthalene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Naphthalene,0.005,2.040816327
+Hazen Creek Nearshore,2021,Naphthalene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Naphthalene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Naphthalene,0.02,4.545454545
+Hazen Creek Nearshore,2021,Naphthalene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Naphthalene,0.005,5.882352941
+Inner Harbour,2021,Naphthalene,0.005,0.636942675
+Inner Harbour,2021,Naphthalene,0.005,2.941176471
+Inner Harbour,2021,Naphthalene,0.01,0.428265525
+Inner Harbour,2021,Naphthalene,0.005,0.854700855
+Inner Harbour,2021,Naphthalene,0.04,1.111111111
+Inner Harbour,2021,Naphthalene,0.005,1.086956522
+Little River,2021,Naphthalene,0.07,0.658204043
+Little River,2021,Naphthalene,0.02,0.128617363
+Little River,2021,Naphthalene,0.025,1.366120219
+Little River,2021,Naphthalene,0.08,1.250977326
+Marsh Creek WS DS,2021,Naphthalene,0.06,0.471698113
+Marsh Creek WS DS,2021,Naphthalene,0.06,0.43258832
+Marsh Creek WS DS,2021,Naphthalene,0.09,0.379907134
+Marsh Creek WS DS,2021,Naphthalene,0.19,0.490702479
+Mispec,2021,Naphthalene,0.005,5.882352941
+Mispec,2021,Naphthalene,0.005,5.882352941
+Mispec,2021,Naphthalene,0.005,5.882352941
+Mispec,2021,Naphthalene,0.005,5.882352941
+Saints Rest Beach,2021,Naphthalene,0.005,5.882352941
+Saints Rest Beach,2021,Naphthalene,0.005,5.882352941
+Saints Rest Beach,2021,Naphthalene,0.005,5.882352941
+Saints Rest Beach,2021,Naphthalene,0.005,5.882352941
+Spar Cove,2021,Naphthalene,0.03,0.595238095
+Spar Cove,2021,Naphthalene,0.03,0.528169014
+Spar Cove,2021,Naphthalene,0.02,0.315955766
+Spar Cove,2021,Naphthalene,0.08,0.839454355
+Spar Cove,2021,Naphthalene,0.01,0.632911392
+Spar Cove,2021,Naphthalene,0.005,0.892857143
+Tin Can Beach,2021,Naphthalene,0.59,1.196754564
+Tin Can Beach,2021,Naphthalene,0.26,3.434610304
+Tin Can Beach,2021,Naphthalene,0.04,0.923787529
+Tin Can Beach,2021,Naphthalene,0.08,0.862068966
+Tin Can Beach,2021,Naphthalene,0.02,0.871459695
+Tin Can Beach,2021,Naphthalene,0.01,0.311041991
+Bayshore,2021,Phenanthrene,0.005,5.882352941
+Bayshore,2021,Phenanthrene,0.005,5.882352941
+Bayshore,2021,Phenanthrene,0.005,5.882352941
+Bayshore,2021,Phenanthrene,0.005,3.846153846
+Black Beach,2021,Phenanthrene,0.005,5.882352941
+Black Beach,2021,Phenanthrene,0.005,5.882352941
+Black Beach,2021,Phenanthrene,0.005,5.882352941
+Black Beach,2021,Phenanthrene,0.005,5.882352941
+Courtenay Bay,2021,Phenanthrene,1.3,13.09164149
+Courtenay Bay,2021,Phenanthrene,0.005,3.125
+Courtenay Bay,2021,Phenanthrene,0.19,8.351648352
+Courtenay Bay,2021,Phenanthrene,0.24,13.25966851
+Digby Ferry Terminal,2021,Phenanthrene,0.31,13.83928571
+Digby Ferry Terminal,2021,Phenanthrene,0.74,15.3526971
+Digby Ferry Terminal,2021,Phenanthrene,0.77,14.95145631
+Digby Ferry Terminal,2021,Phenanthrene,0.06,13.79310345
+Hazen Creek Mouth,2021,Phenanthrene,0.005,5.882352941
+Hazen Creek Mouth,2021,Phenanthrene,0.01,4.444444444
+Hazen Creek Mouth,2021,Phenanthrene,0.005,4.347826087
+Hazen Creek Mouth,2021,Phenanthrene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Phenanthrene,0.02,8.163265306
+Hazen Creek Nearshore,2021,Phenanthrene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Phenanthrene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Phenanthrene,0.09,20.45454545
+Hazen Creek Nearshore,2021,Phenanthrene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Phenanthrene,0.005,5.882352941
+Inner Harbour,2021,Phenanthrene,0.06,7.643312102
+Inner Harbour,2021,Phenanthrene,0.01,5.882352941
+Inner Harbour,2021,Phenanthrene,0.28,11.99143469
+Inner Harbour,2021,Phenanthrene,0.05,8.547008547
+Inner Harbour,2021,Phenanthrene,0.38,10.55555556
+Inner Harbour,2021,Phenanthrene,0.02,4.347826087
+Little River,2021,Phenanthrene,2.1,19.7461213
+Little River,2021,Phenanthrene,1.7,10.93247588
+Little River,2021,Phenanthrene,0.06,3.278688525
+Little River,2021,Phenanthrene,0.97,15.16810008
+Marsh Creek WS DS,2021,Phenanthrene,1.1,8.647798742
+Marsh Creek WS DS,2021,Phenanthrene,1.4,10.09372747
+Marsh Creek WS DS,2021,Phenanthrene,3.2,13.5078092
+Marsh Creek WS DS,2021,Phenanthrene,4.3,11.1053719
+Mispec,2021,Phenanthrene,0.005,5.882352941
+Mispec,2021,Phenanthrene,0.005,5.882352941
+Mispec,2021,Phenanthrene,0.005,5.882352941
+Mispec,2021,Phenanthrene,0.005,5.882352941
+Saints Rest Beach,2021,Phenanthrene,0.005,5.882352941
+Saints Rest Beach,2021,Phenanthrene,0.005,5.882352941
+Saints Rest Beach,2021,Phenanthrene,0.005,5.882352941
+Saints Rest Beach,2021,Phenanthrene,0.005,5.882352941
+Spar Cove,2021,Phenanthrene,0.6,11.9047619
+Spar Cove,2021,Phenanthrene,0.68,11.97183099
+Spar Cove,2021,Phenanthrene,0.84,13.27014218
+Spar Cove,2021,Phenanthrene,1.1,11.54249738
+Spar Cove,2021,Phenanthrene,0.12,7.594936709
+Spar Cove,2021,Phenanthrene,0.03,5.357142857
+Tin Can Beach,2021,Phenanthrene,8,16.22718053
+Tin Can Beach,2021,Phenanthrene,0.98,12.94583884
+Tin Can Beach,2021,Phenanthrene,0.31,7.159353349
+Tin Can Beach,2021,Phenanthrene,1.1,11.85344828
+Tin Can Beach,2021,Phenanthrene,0.15,6.535947712
+Tin Can Beach,2021,Phenanthrene,0.2,6.220839813
+Bayshore,2021,Pyrene,0.005,5.882352941
+Bayshore,2021,Pyrene,0.005,5.882352941
+Bayshore,2021,Pyrene,0.005,5.882352941
+Bayshore,2021,Pyrene,0.02,15.38461538
+Black Beach,2021,Pyrene,0.005,5.882352941
+Black Beach,2021,Pyrene,0.005,5.882352941
+Black Beach,2021,Pyrene,0.005,5.882352941
+Black Beach,2021,Pyrene,0.005,5.882352941
+Courtenay Bay,2021,Pyrene,1.4,14.09869084
+Courtenay Bay,2021,Pyrene,0.02,12.5
+Courtenay Bay,2021,Pyrene,0.28,12.30769231
+Courtenay Bay,2021,Pyrene,0.26,14.36464088
+Digby Ferry Terminal,2021,Pyrene,0.32,14.28571429
+Digby Ferry Terminal,2021,Pyrene,0.68,14.10788382
+Digby Ferry Terminal,2021,Pyrene,0.71,13.78640777
+Digby Ferry Terminal,2021,Pyrene,0.06,13.79310345
+Hazen Creek Mouth,2021,Pyrene,0.005,5.882352941
+Hazen Creek Mouth,2021,Pyrene,0.04,17.77777778
+Hazen Creek Mouth,2021,Pyrene,0.02,17.39130435
+Hazen Creek Mouth,2021,Pyrene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Pyrene,0.03,12.24489796
+Hazen Creek Nearshore,2021,Pyrene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Pyrene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Pyrene,0.06,13.63636364
+Hazen Creek Nearshore,2021,Pyrene,0.005,5.882352941
+Hazen Creek Nearshore,2021,Pyrene,0.005,5.882352941
+Inner Harbour,2021,Pyrene,0.12,15.2866242
+Inner Harbour,2021,Pyrene,0.02,11.76470588
+Inner Harbour,2021,Pyrene,0.35,14.98929336
+Inner Harbour,2021,Pyrene,0.08,13.67521368
+Inner Harbour,2021,Pyrene,0.42,11.66666667
+Inner Harbour,2021,Pyrene,0.06,13.04347826
+Little River,2021,Pyrene,1.7,15.98495534
+Little River,2021,Pyrene,2.4,15.4340836
+Little River,2021,Pyrene,0.12,6.557377049
+Little River,2021,Pyrene,1.2,18.76465989
+Marsh Creek WS DS,2021,Pyrene,1.6,12.57861635
+Marsh Creek WS DS,2021,Pyrene,2.2,15.86157174
+Marsh Creek WS DS,2021,Pyrene,3.2,13.5078092
+Marsh Creek WS DS,2021,Pyrene,5.1,13.1714876
+Mispec,2021,Pyrene,0.005,5.882352941
+Mispec,2021,Pyrene,0.005,5.882352941
+Mispec,2021,Pyrene,0.005,5.882352941
+Mispec,2021,Pyrene,0.005,5.882352941
+Saints Rest Beach,2021,Pyrene,0.005,5.882352941
+Saints Rest Beach,2021,Pyrene,0.005,5.882352941
+Saints Rest Beach,2021,Pyrene,0.005,5.882352941
+Saints Rest Beach,2021,Pyrene,0.005,5.882352941
+Spar Cove,2021,Pyrene,0.76,15.07936508
+Spar Cove,2021,Pyrene,0.86,15.14084507
+Spar Cove,2021,Pyrene,0.96,15.16587678
+Spar Cove,2021,Pyrene,1.4,14.69045121
+Spar Cove,2021,Pyrene,0.23,14.55696203
+Spar Cove,2021,Pyrene,0.08,14.28571429
+Tin Can Beach,2021,Pyrene,7.3,14.80730223
+Tin Can Beach,2021,Pyrene,1.1,14.53104359
+Tin Can Beach,2021,Pyrene,0.53,12.24018476
+Tin Can Beach,2021,Pyrene,1.3,14.00862069
+Tin Can Beach,2021,Pyrene,0.29,12.63616558
+Tin Can Beach,2021,Pyrene,0.41,12.75272162
+Bayshore,2021,Total PAH,0.085,100
+Bayshore,2021,Total PAH,0.085,100
+Bayshore,2021,Total PAH,0.085,100
+Bayshore,2021,Total PAH,0.13,100
+Black Beach,2021,Total PAH,0.085,100
+Black Beach,2021,Total PAH,0.085,100
+Black Beach,2021,Total PAH,0.085,100
+Black Beach,2021,Total PAH,0.085,100
+Courtenay Bay,2021,Total PAH,9.93,100
+Courtenay Bay,2021,Total PAH,0.16,100
+Courtenay Bay,2021,Total PAH,2.275,100
+Courtenay Bay,2021,Total PAH,1.81,100
+Digby Ferry Terminal,2021,Total PAH,2.24,100
+Digby Ferry Terminal,2021,Total PAH,4.82,100
+Digby Ferry Terminal,2021,Total PAH,5.15,100
+Digby Ferry Terminal,2021,Total PAH,0.435,100
+Hazen Creek Mouth,2021,Total PAH,0.085,100
+Hazen Creek Mouth,2021,Total PAH,0.225,100
+Hazen Creek Mouth,2021,Total PAH,0.115,100
+Hazen Creek Mouth,2021,Total PAH,0.085,100
+Hazen Creek Nearshore,2021,Total PAH,0.245,100
+Hazen Creek Nearshore,2021,Total PAH,0.085,100
+Hazen Creek Nearshore,2021,Total PAH,0.085,100
+Hazen Creek Nearshore,2021,Total PAH,0.44,100
+Hazen Creek Nearshore,2021,Total PAH,0.085,100
+Hazen Creek Nearshore,2021,Total PAH,0.085,100
+Inner Harbour,2021,Total PAH,0.785,100
+Inner Harbour,2021,Total PAH,0.17,100
+Inner Harbour,2021,Total PAH,2.335,100
+Inner Harbour,2021,Total PAH,0.585,100
+Inner Harbour,2021,Total PAH,3.6,100
+Inner Harbour,2021,Total PAH,0.46,100
+Little River,2021,Total PAH,10.635,100
+Little River,2021,Total PAH,15.55,100
+Little River,2021,Total PAH,1.83,100
+Little River,2021,Total PAH,6.395,100
+Marsh Creek WS DS,2021,Total PAH,12.72,100
+Marsh Creek WS DS,2021,Total PAH,13.87,100
+Marsh Creek WS DS,2021,Total PAH,23.69,100
+Marsh Creek WS DS,2021,Total PAH,38.72,100
+Mispec,2021,Total PAH,0.085,100
+Mispec,2021,Total PAH,0.085,100
+Mispec,2021,Total PAH,0.085,100
+Mispec,2021,Total PAH,0.085,100
+Saints Rest Beach,2021,Total PAH,0.085,100
+Saints Rest Beach,2021,Total PAH,0.085,100
+Saints Rest Beach,2021,Total PAH,0.085,100
+Saints Rest Beach,2021,Total PAH,0.085,100
+Spar Cove,2021,Total PAH,5.04,100
+Spar Cove,2021,Total PAH,5.68,100
+Spar Cove,2021,Total PAH,6.33,100
+Spar Cove,2021,Total PAH,9.53,100
+Spar Cove,2021,Total PAH,1.58,100
+Spar Cove,2021,Total PAH,0.56,100
+Tin Can Beach,2021,Total PAH,49.3,100
+Tin Can Beach,2021,Total PAH,7.57,100
+Tin Can Beach,2021,Total PAH,4.33,100
+Tin Can Beach,2021,Total PAH,9.28,100
+Tin Can Beach,2021,Total PAH,2.295,100
+Tin Can Beach,2021,Total PAH,3.215,100
+Bayshore,2022,Acenaphthene,0.005,5.882352941
+Bayshore,2022,Acenaphthene,0.005,5.882352941
+Black Beach,2022,Acenaphthene,0.005,5.882352941
+Black Beach,2022,Acenaphthene,0.005,5.882352941
+Courtenay Bay,2022,Acenaphthene,0.03,1.247401247
+Courtenay Bay,2022,Acenaphthene,0.12,2.332361516
+Digby Ferry Terminal,2022,Acenaphthene,0.005,3.703703704
+Digby Ferry Terminal,2022,Acenaphthene,0.08,2.352941176
+Hazen Creek Mouth,2022,Acenaphthene,0.05,2.93255132
+Hazen Creek Mouth,2022,Acenaphthene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Acenaphthene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Acenaphthene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Acenaphthene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Acenaphthene,0.005,4
+Inner Harbour,2022,Acenaphthene,0.06,1.119402985
+Inner Harbour,2022,Acenaphthene,0.005,0.900900901
+Inner Harbour,2022,Acenaphthene,0.005,0.374531835
+Inner Harbour,2022,Acenaphthene,0.005,2.564102564
+Little River,2022,Acenaphthene,0.005,0.735294118
+Little River,2022,Acenaphthene,0.005,0.512820513
+Marsh Creek WS DS,2022,Acenaphthene,0.29,1.559978483
+Marsh Creek WS DS,2022,Acenaphthene,0.04,1.515151515
+Mispec,2022,Acenaphthene,0.005,5.882352941
+Mispec,2022,Acenaphthene,0.005,5.882352941
+Saints Rest Beach,2022,Acenaphthene,0.005,5.882352941
+Saints Rest Beach,2022,Acenaphthene,0.005,5.882352941
+Spar Cove,2022,Acenaphthene,0.005,1.315789474
+Spar Cove,2022,Acenaphthene,0.19,0.934579439
+Spar Cove,2022,Acenaphthene,0.04,0.980392157
+Spar Cove,2022,Acenaphthene,0.14,1.084430674
+Tin Can Beach,2022,Acenaphthene,0.06,0.940438871
+Tin Can Beach,2022,Acenaphthene,0.03,0.500834725
+Tin Can Beach,2022,Acenaphthene,0.01,0.283286119
+Tin Can Beach,2022,Acenaphthene,0.05,0.793650794
+Bayshore,2022,Acenaphthylene,0.005,5.882352941
+Bayshore,2022,Acenaphthylene,0.005,5.882352941
+Black Beach,2022,Acenaphthylene,0.005,5.882352941
+Black Beach,2022,Acenaphthylene,0.005,5.882352941
+Courtenay Bay,2022,Acenaphthylene,0.005,0.207900208
+Courtenay Bay,2022,Acenaphthylene,0.005,0.09718173
+Digby Ferry Terminal,2022,Acenaphthylene,0.005,3.703703704
+Digby Ferry Terminal,2022,Acenaphthylene,0.01,0.294117647
+Hazen Creek Mouth,2022,Acenaphthylene,0.005,0.293255132
+Hazen Creek Mouth,2022,Acenaphthylene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Acenaphthylene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Acenaphthylene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Acenaphthylene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Acenaphthylene,0.005,4
+Inner Harbour,2022,Acenaphthylene,0.02,0.373134328
+Inner Harbour,2022,Acenaphthylene,0.005,0.900900901
+Inner Harbour,2022,Acenaphthylene,0.03,2.247191011
+Inner Harbour,2022,Acenaphthylene,0.005,2.564102564
+Little River,2022,Acenaphthylene,0.005,0.735294118
+Little River,2022,Acenaphthylene,0.01,1.025641026
+Marsh Creek WS DS,2022,Acenaphthylene,0.1,0.537923615
+Marsh Creek WS DS,2022,Acenaphthylene,0.01,0.378787879
+Mispec,2022,Acenaphthylene,0.005,5.882352941
+Mispec,2022,Acenaphthylene,0.005,5.882352941
+Saints Rest Beach,2022,Acenaphthylene,0.005,5.882352941
+Saints Rest Beach,2022,Acenaphthylene,0.005,5.882352941
+Spar Cove,2022,Acenaphthylene,0.005,1.315789474
+Spar Cove,2022,Acenaphthylene,0.21,1.032956222
+Spar Cove,2022,Acenaphthylene,0.03,0.735294118
+Spar Cove,2022,Acenaphthylene,0.12,0.929512006
+Tin Can Beach,2022,Acenaphthylene,0.08,1.253918495
+Tin Can Beach,2022,Acenaphthylene,0.1,1.669449082
+Tin Can Beach,2022,Acenaphthylene,0.06,1.699716714
+Tin Can Beach,2022,Acenaphthylene,0.06,0.952380952
+Bayshore,2022,Anthracene,0.005,5.882352941
+Bayshore,2022,Anthracene,0.005,5.882352941
+Black Beach,2022,Anthracene,0.005,5.882352941
+Black Beach,2022,Anthracene,0.005,5.882352941
+Courtenay Bay,2022,Anthracene,0.14,5.821205821
+Courtenay Bay,2022,Anthracene,0.25,4.859086492
+Digby Ferry Terminal,2022,Anthracene,0.005,3.703703704
+Digby Ferry Terminal,2022,Anthracene,0.17,5
+Hazen Creek Mouth,2022,Anthracene,0.12,7.038123167
+Hazen Creek Mouth,2022,Anthracene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Anthracene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Anthracene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Anthracene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Anthracene,0.005,4
+Inner Harbour,2022,Anthracene,0.21,3.917910448
+Inner Harbour,2022,Anthracene,0.01,1.801801802
+Inner Harbour,2022,Anthracene,0.05,3.745318352
+Inner Harbour,2022,Anthracene,0.005,2.564102564
+Little River,2022,Anthracene,0.03,4.411764706
+Little River,2022,Anthracene,0.03,3.076923077
+Marsh Creek WS DS,2022,Anthracene,1.3,6.993006993
+Marsh Creek WS DS,2022,Anthracene,0.1,3.787878788
+Mispec,2022,Anthracene,0.005,5.882352941
+Mispec,2022,Anthracene,0.005,5.882352941
+Saints Rest Beach,2022,Anthracene,0.005,5.882352941
+Saints Rest Beach,2022,Anthracene,0.005,5.882352941
+Spar Cove,2022,Anthracene,0.005,1.315789474
+Spar Cove,2022,Anthracene,0.71,3.492375799
+Spar Cove,2022,Anthracene,0.16,3.921568627
+Spar Cove,2022,Anthracene,0.46,3.563129357
+Tin Can Beach,2022,Anthracene,0.21,3.29153605
+Tin Can Beach,2022,Anthracene,0.18,3.005008347
+Tin Can Beach,2022,Anthracene,0.09,2.549575071
+Tin Can Beach,2022,Anthracene,0.2,3.174603175
+Bayshore,2022,Benz[a]anthracene,0.005,5.882352941
+Bayshore,2022,Benz[a]anthracene,0.005,5.882352941
+Black Beach,2022,Benz[a]anthracene,0.005,5.882352941
+Black Beach,2022,Benz[a]anthracene,0.005,5.882352941
+Courtenay Bay,2022,Benz[a]anthracene,0.22,9.147609148
+Courtenay Bay,2022,Benz[a]anthracene,0.39,7.580174927
+Digby Ferry Terminal,2022,Benz[a]anthracene,0.005,3.703703704
+Digby Ferry Terminal,2022,Benz[a]anthracene,0.25,7.352941176
+Hazen Creek Mouth,2022,Benz[a]anthracene,0.13,7.624633431
+Hazen Creek Mouth,2022,Benz[a]anthracene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Benz[a]anthracene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Benz[a]anthracene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Benz[a]anthracene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Benz[a]anthracene,0.01,8
+Inner Harbour,2022,Benz[a]anthracene,0.42,7.835820896
+Inner Harbour,2022,Benz[a]anthracene,0.04,7.207207207
+Inner Harbour,2022,Benz[a]anthracene,0.11,8.239700375
+Inner Harbour,2022,Benz[a]anthracene,0.02,10.25641026
+Little River,2022,Benz[a]anthracene,0.05,7.352941176
+Little River,2022,Benz[a]anthracene,0.09,9.230769231
+Marsh Creek WS DS,2022,Benz[a]anthracene,1.3,6.993006993
+Marsh Creek WS DS,2022,Benz[a]anthracene,0.19,7.196969697
+Mispec,2022,Benz[a]anthracene,0.005,5.882352941
+Mispec,2022,Benz[a]anthracene,0.005,5.882352941
+Saints Rest Beach,2022,Benz[a]anthracene,0.005,5.882352941
+Saints Rest Beach,2022,Benz[a]anthracene,0.005,5.882352941
+Spar Cove,2022,Benz[a]anthracene,0.03,7.894736842
+Spar Cove,2022,Benz[a]anthracene,1.7,8.362026562
+Spar Cove,2022,Benz[a]anthracene,0.34,8.333333333
+Spar Cove,2022,Benz[a]anthracene,1,7.745933385
+Tin Can Beach,2022,Benz[a]anthracene,0.52,8.150470219
+Tin Can Beach,2022,Benz[a]anthracene,0.46,7.679465776
+Tin Can Beach,2022,Benz[a]anthracene,0.28,7.932011331
+Tin Can Beach,2022,Benz[a]anthracene,0.52,8.253968254
+Bayshore,2022,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Bayshore,2022,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Black Beach,2022,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Black Beach,2022,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Courtenay Bay,2022,"Benzo(g,h,i)perylene-D12",0.09,3.742203742
+Courtenay Bay,2022,"Benzo(g,h,i)perylene-D12",0.13,2.526724976
+Digby Ferry Terminal,2022,"Benzo(g,h,i)perylene-D12",0.005,3.703703704
+Digby Ferry Terminal,2022,"Benzo(g,h,i)perylene-D12",0.08,2.352941176
+Hazen Creek Mouth,2022,"Benzo(g,h,i)perylene-D12",0.05,2.93255132
+Hazen Creek Mouth,2022,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Hazen Creek Nearshore,2022,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Hazen Creek Nearshore,2022,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Hazen Creek Nearshore,2022,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Hazen Creek Nearshore,2022,"Benzo(g,h,i)perylene-D12",0.005,4
+Inner Harbour,2022,"Benzo(g,h,i)perylene-D12",0.16,2.985074627
+Inner Harbour,2022,"Benzo(g,h,i)perylene-D12",0.02,3.603603604
+Inner Harbour,2022,"Benzo(g,h,i)perylene-D12",0.06,4.494382022
+Inner Harbour,2022,"Benzo(g,h,i)perylene-D12",0.01,5.128205128
+Little River,2022,"Benzo(g,h,i)perylene-D12",0.06,8.823529412
+Little River,2022,"Benzo(g,h,i)perylene-D12",0.04,4.102564103
+Marsh Creek WS DS,2022,"Benzo(g,h,i)perylene-D12",0.57,3.066164605
+Marsh Creek WS DS,2022,"Benzo(g,h,i)perylene-D12",0.08,3.03030303
+Mispec,2022,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Mispec,2022,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Saints Rest Beach,2022,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Saints Rest Beach,2022,"Benzo(g,h,i)perylene-D12",0.005,5.882352941
+Spar Cove,2022,"Benzo(g,h,i)perylene-D12",0.03,7.894736842
+Spar Cove,2022,"Benzo(g,h,i)perylene-D12",0.68,3.344810625
+Spar Cove,2022,"Benzo(g,h,i)perylene-D12",0.13,3.18627451
+Spar Cove,2022,"Benzo(g,h,i)perylene-D12",0.29,2.246320682
+Tin Can Beach,2022,"Benzo(g,h,i)perylene-D12",0.27,4.231974922
+Tin Can Beach,2022,"Benzo(g,h,i)perylene-D12",0.26,4.340567613
+Tin Can Beach,2022,"Benzo(g,h,i)perylene-D12",0.18,5.099150142
+Tin Can Beach,2022,"Benzo(g,h,i)perylene-D12",0.24,3.80952381
+Bayshore,2022,Benzo[a]pyrene,0.005,5.882352941
+Bayshore,2022,Benzo[a]pyrene,0.005,5.882352941
+Black Beach,2022,Benzo[a]pyrene,0.005,5.882352941
+Black Beach,2022,Benzo[a]pyrene,0.005,5.882352941
+Courtenay Bay,2022,Benzo[a]pyrene,0.18,7.484407484
+Courtenay Bay,2022,Benzo[a]pyrene,0.3,5.83090379
+Digby Ferry Terminal,2022,Benzo[a]pyrene,0.005,3.703703704
+Digby Ferry Terminal,2022,Benzo[a]pyrene,0.19,5.588235294
+Hazen Creek Mouth,2022,Benzo[a]pyrene,0.11,6.451612903
+Hazen Creek Mouth,2022,Benzo[a]pyrene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Benzo[a]pyrene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Benzo[a]pyrene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Benzo[a]pyrene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Benzo[a]pyrene,0.005,4
+Inner Harbour,2022,Benzo[a]pyrene,0.36,6.71641791
+Inner Harbour,2022,Benzo[a]pyrene,0.04,7.207207207
+Inner Harbour,2022,Benzo[a]pyrene,0.14,10.48689139
+Inner Harbour,2022,Benzo[a]pyrene,0.02,10.25641026
+Little River,2022,Benzo[a]pyrene,0.06,8.823529412
+Little River,2022,Benzo[a]pyrene,0.07,7.179487179
+Marsh Creek WS DS,2022,Benzo[a]pyrene,1.2,6.455083378
+Marsh Creek WS DS,2022,Benzo[a]pyrene,0.17,6.439393939
+Mispec,2022,Benzo[a]pyrene,0.005,5.882352941
+Mispec,2022,Benzo[a]pyrene,0.005,5.882352941
+Saints Rest Beach,2022,Benzo[a]pyrene,0.005,5.882352941
+Saints Rest Beach,2022,Benzo[a]pyrene,0.005,5.882352941
+Spar Cove,2022,Benzo[a]pyrene,0.04,10.52631579
+Spar Cove,2022,Benzo[a]pyrene,1.7,8.362026562
+Spar Cove,2022,Benzo[a]pyrene,0.31,7.598039216
+Spar Cove,2022,Benzo[a]pyrene,0.91,7.04879938
+Tin Can Beach,2022,Benzo[a]pyrene,0.54,8.463949843
+Tin Can Beach,2022,Benzo[a]pyrene,0.51,8.514190317
+Tin Can Beach,2022,Benzo[a]pyrene,0.35,9.915014164
+Tin Can Beach,2022,Benzo[a]pyrene,0.5,7.936507937
+Bayshore,2022,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Bayshore,2022,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Black Beach,2022,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Black Beach,2022,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Courtenay Bay,2022,"Benzo[b,j]fluoranthene",0.21,8.731808732
+Courtenay Bay,2022,"Benzo[b,j]fluoranthene",0.4,7.774538387
+Digby Ferry Terminal,2022,"Benzo[b,j]fluoranthene",0.005,3.703703704
+Digby Ferry Terminal,2022,"Benzo[b,j]fluoranthene",0.25,7.352941176
+Hazen Creek Mouth,2022,"Benzo[b,j]fluoranthene",0.12,7.038123167
+Hazen Creek Mouth,2022,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Hazen Creek Nearshore,2022,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Hazen Creek Nearshore,2022,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Hazen Creek Nearshore,2022,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Hazen Creek Nearshore,2022,"Benzo[b,j]fluoranthene",0.005,4
+Inner Harbour,2022,"Benzo[b,j]fluoranthene",0.47,8.768656716
+Inner Harbour,2022,"Benzo[b,j]fluoranthene",0.05,9.009009009
+Inner Harbour,2022,"Benzo[b,j]fluoranthene",0.15,11.23595506
+Inner Harbour,2022,"Benzo[b,j]fluoranthene",0.02,10.25641026
+Little River,2022,"Benzo[b,j]fluoranthene",0.07,10.29411765
+Little River,2022,"Benzo[b,j]fluoranthene",0.11,11.28205128
+Marsh Creek WS DS,2022,"Benzo[b,j]fluoranthene",1.4,7.530930608
+Marsh Creek WS DS,2022,"Benzo[b,j]fluoranthene",0.22,8.333333333
+Mispec,2022,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Mispec,2022,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Saints Rest Beach,2022,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Saints Rest Beach,2022,"Benzo[b,j]fluoranthene",0.005,5.882352941
+Spar Cove,2022,"Benzo[b,j]fluoranthene",0.04,10.52631579
+Spar Cove,2022,"Benzo[b,j]fluoranthene",0.83,4.082636498
+Spar Cove,2022,"Benzo[b,j]fluoranthene",0.43,10.53921569
+Spar Cove,2022,"Benzo[b,j]fluoranthene",1.2,9.295120062
+Tin Can Beach,2022,"Benzo[b,j]fluoranthene",0.62,9.717868339
+Tin Can Beach,2022,"Benzo[b,j]fluoranthene",0.58,9.682804674
+Tin Can Beach,2022,"Benzo[b,j]fluoranthene",0.4,11.33144476
+Tin Can Beach,2022,"Benzo[b,j]fluoranthene",0.61,9.682539683
+Bayshore,2022,Benzo[e]pyrene,0.005,5.882352941
+Bayshore,2022,Benzo[e]pyrene,0.005,5.882352941
+Black Beach,2022,Benzo[e]pyrene,0.005,5.882352941
+Black Beach,2022,Benzo[e]pyrene,0.005,5.882352941
+Courtenay Bay,2022,Benzo[e]pyrene,0.12,4.98960499
+Courtenay Bay,2022,Benzo[e]pyrene,0.18,3.498542274
+Digby Ferry Terminal,2022,Benzo[e]pyrene,0.005,3.703703704
+Digby Ferry Terminal,2022,Benzo[e]pyrene,0.12,3.529411765
+Hazen Creek Mouth,2022,Benzo[e]pyrene,0.06,3.519061584
+Hazen Creek Mouth,2022,Benzo[e]pyrene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Benzo[e]pyrene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Benzo[e]pyrene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Benzo[e]pyrene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Benzo[e]pyrene,0.005,4
+Inner Harbour,2022,Benzo[e]pyrene,0.22,4.104477612
+Inner Harbour,2022,Benzo[e]pyrene,0.03,5.405405405
+Inner Harbour,2022,Benzo[e]pyrene,0.08,5.992509363
+Inner Harbour,2022,Benzo[e]pyrene,0.01,5.128205128
+Little River,2022,Benzo[e]pyrene,0.08,11.76470588
+Little River,2022,Benzo[e]pyrene,0.06,6.153846154
+Marsh Creek WS DS,2022,Benzo[e]pyrene,0.64,3.442711135
+Marsh Creek WS DS,2022,Benzo[e]pyrene,0.11,4.166666667
+Mispec,2022,Benzo[e]pyrene,0.005,5.882352941
+Mispec,2022,Benzo[e]pyrene,0.005,5.882352941
+Saints Rest Beach,2022,Benzo[e]pyrene,0.005,5.882352941
+Saints Rest Beach,2022,Benzo[e]pyrene,0.005,5.882352941
+Spar Cove,2022,Benzo[e]pyrene,0.03,7.894736842
+Spar Cove,2022,Benzo[e]pyrene,0.98,4.820462371
+Spar Cove,2022,Benzo[e]pyrene,0.2,4.901960784
+Spar Cove,2022,Benzo[e]pyrene,0.5,3.872966692
+Tin Can Beach,2022,Benzo[e]pyrene,0.31,4.858934169
+Tin Can Beach,2022,Benzo[e]pyrene,0.27,4.507512521
+Tin Can Beach,2022,Benzo[e]pyrene,0.19,5.382436261
+Tin Can Beach,2022,Benzo[e]pyrene,0.29,4.603174603
+Bayshore,2022,Benzo[k]fluoranthene,0.005,5.882352941
+Bayshore,2022,Benzo[k]fluoranthene,0.005,5.882352941
+Black Beach,2022,Benzo[k]fluoranthene,0.005,5.882352941
+Black Beach,2022,Benzo[k]fluoranthene,0.005,5.882352941
+Courtenay Bay,2022,Benzo[k]fluoranthene,0.1,4.158004158
+Courtenay Bay,2022,Benzo[k]fluoranthene,0.14,2.721088435
+Digby Ferry Terminal,2022,Benzo[k]fluoranthene,0.005,3.703703704
+Digby Ferry Terminal,2022,Benzo[k]fluoranthene,0.08,2.352941176
+Hazen Creek Mouth,2022,Benzo[k]fluoranthene,0.05,2.93255132
+Hazen Creek Mouth,2022,Benzo[k]fluoranthene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Benzo[k]fluoranthene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Benzo[k]fluoranthene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Benzo[k]fluoranthene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Benzo[k]fluoranthene,0.005,4
+Inner Harbour,2022,Benzo[k]fluoranthene,0.16,2.985074627
+Inner Harbour,2022,Benzo[k]fluoranthene,0.02,3.603603604
+Inner Harbour,2022,Benzo[k]fluoranthene,0.05,3.745318352
+Inner Harbour,2022,Benzo[k]fluoranthene,0.005,2.564102564
+Little River,2022,Benzo[k]fluoranthene,0.02,2.941176471
+Little River,2022,Benzo[k]fluoranthene,0.03,3.076923077
+Marsh Creek WS DS,2022,Benzo[k]fluoranthene,0.51,2.743410436
+Marsh Creek WS DS,2022,Benzo[k]fluoranthene,0.07,2.651515152
+Mispec,2022,Benzo[k]fluoranthene,0.005,5.882352941
+Mispec,2022,Benzo[k]fluoranthene,0.005,5.882352941
+Saints Rest Beach,2022,Benzo[k]fluoranthene,0.005,5.882352941
+Saints Rest Beach,2022,Benzo[k]fluoranthene,0.005,5.882352941
+Spar Cove,2022,Benzo[k]fluoranthene,0.01,2.631578947
+Spar Cove,2022,Benzo[k]fluoranthene,0.77,3.787506149
+Spar Cove,2022,Benzo[k]fluoranthene,0.14,3.431372549
+Spar Cove,2022,Benzo[k]fluoranthene,0.41,3.175832688
+Tin Can Beach,2022,Benzo[k]fluoranthene,0.2,3.134796238
+Tin Can Beach,2022,Benzo[k]fluoranthene,0.18,3.005008347
+Tin Can Beach,2022,Benzo[k]fluoranthene,0.14,3.966005666
+Tin Can Beach,2022,Benzo[k]fluoranthene,0.22,3.492063492
+Bayshore,2022,Chrysene + Triphenylene,0.005,5.882352941
+Bayshore,2022,Chrysene + Triphenylene,0.005,5.882352941
+Black Beach,2022,Chrysene + Triphenylene,0.005,5.882352941
+Black Beach,2022,Chrysene + Triphenylene,0.005,5.882352941
+Courtenay Bay,2022,Chrysene + Triphenylene,0.19,7.9002079
+Courtenay Bay,2022,Chrysene + Triphenylene,0.37,7.191448008
+Digby Ferry Terminal,2022,Chrysene + Triphenylene,0.005,3.703703704
+Digby Ferry Terminal,2022,Chrysene + Triphenylene,0.22,6.470588235
+Hazen Creek Mouth,2022,Chrysene + Triphenylene,0.11,6.451612903
+Hazen Creek Mouth,2022,Chrysene + Triphenylene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Chrysene + Triphenylene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Chrysene + Triphenylene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Chrysene + Triphenylene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Chrysene + Triphenylene,0.005,4
+Inner Harbour,2022,Chrysene + Triphenylene,0.28,5.223880597
+Inner Harbour,2022,Chrysene + Triphenylene,0.03,5.405405405
+Inner Harbour,2022,Chrysene + Triphenylene,0.08,5.992509363
+Inner Harbour,2022,Chrysene + Triphenylene,0.01,5.128205128
+Little River,2022,Chrysene + Triphenylene,0.04,5.882352941
+Little River,2022,Chrysene + Triphenylene,0.07,7.179487179
+Marsh Creek WS DS,2022,Chrysene + Triphenylene,1,5.379236148
+Marsh Creek WS DS,2022,Chrysene + Triphenylene,0.16,6.060606061
+Mispec,2022,Chrysene + Triphenylene,0.005,5.882352941
+Mispec,2022,Chrysene + Triphenylene,0.005,5.882352941
+Saints Rest Beach,2022,Chrysene + Triphenylene,0.005,5.882352941
+Saints Rest Beach,2022,Chrysene + Triphenylene,0.005,5.882352941
+Spar Cove,2022,Chrysene + Triphenylene,0.02,5.263157895
+Spar Cove,2022,Chrysene + Triphenylene,1.4,6.886374816
+Spar Cove,2022,Chrysene + Triphenylene,0.25,6.12745098
+Spar Cove,2022,Chrysene + Triphenylene,0.73,5.654531371
+Tin Can Beach,2022,Chrysene + Triphenylene,0.36,5.642633229
+Tin Can Beach,2022,Chrysene + Triphenylene,0.34,5.676126878
+Tin Can Beach,2022,Chrysene + Triphenylene,0.22,6.232294618
+Tin Can Beach,2022,Chrysene + Triphenylene,0.47,7.46031746
+Bayshore,2022,"Dibenz[a,h]anthracene",0.005,5.882352941
+Bayshore,2022,"Dibenz[a,h]anthracene",0.005,5.882352941
+Black Beach,2022,"Dibenz[a,h]anthracene",0.005,5.882352941
+Black Beach,2022,"Dibenz[a,h]anthracene",0.005,5.882352941
+Courtenay Bay,2022,"Dibenz[a,h]anthracene",0.02,0.831600832
+Courtenay Bay,2022,"Dibenz[a,h]anthracene",0.03,0.583090379
+Digby Ferry Terminal,2022,"Dibenz[a,h]anthracene",0.005,3.703703704
+Digby Ferry Terminal,2022,"Dibenz[a,h]anthracene",0.02,0.588235294
+Hazen Creek Mouth,2022,"Dibenz[a,h]anthracene",0.01,0.586510264
+Hazen Creek Mouth,2022,"Dibenz[a,h]anthracene",0.005,5.882352941
+Hazen Creek Nearshore,2022,"Dibenz[a,h]anthracene",0.005,5.882352941
+Hazen Creek Nearshore,2022,"Dibenz[a,h]anthracene",0.005,5.882352941
+Hazen Creek Nearshore,2022,"Dibenz[a,h]anthracene",0.005,5.882352941
+Hazen Creek Nearshore,2022,"Dibenz[a,h]anthracene",0.005,4
+Inner Harbour,2022,"Dibenz[a,h]anthracene",0.04,0.746268657
+Inner Harbour,2022,"Dibenz[a,h]anthracene",0.005,0.900900901
+Inner Harbour,2022,"Dibenz[a,h]anthracene",0.02,1.498127341
+Inner Harbour,2022,"Dibenz[a,h]anthracene",0.005,2.564102564
+Little River,2022,"Dibenz[a,h]anthracene",0.01,1.470588235
+Little River,2022,"Dibenz[a,h]anthracene",0.01,1.025641026
+Marsh Creek WS DS,2022,"Dibenz[a,h]anthracene",0.13,0.699300699
+Marsh Creek WS DS,2022,"Dibenz[a,h]anthracene",0.02,0.757575758
+Mispec,2022,"Dibenz[a,h]anthracene",0.005,5.882352941
+Mispec,2022,"Dibenz[a,h]anthracene",0.005,5.882352941
+Saints Rest Beach,2022,"Dibenz[a,h]anthracene",0.005,5.882352941
+Saints Rest Beach,2022,"Dibenz[a,h]anthracene",0.005,5.882352941
+Spar Cove,2022,"Dibenz[a,h]anthracene",0.005,1.315789474
+Spar Cove,2022,"Dibenz[a,h]anthracene",0.19,0.934579439
+Spar Cove,2022,"Dibenz[a,h]anthracene",0.04,0.980392157
+Spar Cove,2022,"Dibenz[a,h]anthracene",0.09,0.697134005
+Tin Can Beach,2022,"Dibenz[a,h]anthracene",0.07,1.097178683
+Tin Can Beach,2022,"Dibenz[a,h]anthracene",0.06,1.001669449
+Tin Can Beach,2022,"Dibenz[a,h]anthracene",0.04,1.133144476
+Tin Can Beach,2022,"Dibenz[a,h]anthracene",0.06,0.952380952
+Bayshore,2022,Fluoranthene,0.005,5.882352941
+Bayshore,2022,Fluoranthene,0.005,5.882352941
+Black Beach,2022,Fluoranthene,0.005,5.882352941
+Black Beach,2022,Fluoranthene,0.005,5.882352941
+Courtenay Bay,2022,Fluoranthene,0.42,17.46361746
+Courtenay Bay,2022,Fluoranthene,0.9,17.49271137
+Digby Ferry Terminal,2022,Fluoranthene,0.02,14.81481481
+Digby Ferry Terminal,2022,Fluoranthene,0.54,15.88235294
+Hazen Creek Mouth,2022,Fluoranthene,0.25,14.6627566
+Hazen Creek Mouth,2022,Fluoranthene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Fluoranthene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Fluoranthene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Fluoranthene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Fluoranthene,0.02,16
+Inner Harbour,2022,Fluoranthene,1,18.65671642
+Inner Harbour,2022,Fluoranthene,0.11,19.81981982
+Inner Harbour,2022,Fluoranthene,0.19,14.23220974
+Inner Harbour,2022,Fluoranthene,0.02,10.25641026
+Little River,2022,Fluoranthene,0.08,11.76470588
+Little River,2022,Fluoranthene,0.16,16.41025641
+Marsh Creek WS DS,2022,Fluoranthene,3.2,17.21355568
+Marsh Creek WS DS,2022,Fluoranthene,0.46,17.42424242
+Mispec,2022,Fluoranthene,0.005,5.882352941
+Mispec,2022,Fluoranthene,0.005,5.882352941
+Saints Rest Beach,2022,Fluoranthene,0.005,5.882352941
+Saints Rest Beach,2022,Fluoranthene,0.005,5.882352941
+Spar Cove,2022,Fluoranthene,0.05,13.15789474
+Spar Cove,2022,Fluoranthene,3.8,18.69158879
+Spar Cove,2022,Fluoranthene,0.7,17.15686275
+Spar Cove,2022,Fluoranthene,2.4,18.59024012
+Tin Can Beach,2022,Fluoranthene,1,15.67398119
+Tin Can Beach,2022,Fluoranthene,0.97,16.19365609
+Tin Can Beach,2022,Fluoranthene,0.54,15.29745042
+Tin Can Beach,2022,Fluoranthene,1,15.87301587
+Bayshore,2022,Fluorene,0.005,5.882352941
+Bayshore,2022,Fluorene,0.005,5.882352941
+Black Beach,2022,Fluorene,0.005,5.882352941
+Black Beach,2022,Fluorene,0.005,5.882352941
+Courtenay Bay,2022,Fluorene,0.05,2.079002079
+Courtenay Bay,2022,Fluorene,0.14,2.721088435
+Digby Ferry Terminal,2022,Fluorene,0.005,3.703703704
+Digby Ferry Terminal,2022,Fluorene,0.09,2.647058824
+Hazen Creek Mouth,2022,Fluorene,0.06,3.519061584
+Hazen Creek Mouth,2022,Fluorene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Fluorene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Fluorene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Fluorene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Fluorene,0.005,4
+Inner Harbour,2022,Fluorene,0.08,1.492537313
+Inner Harbour,2022,Fluorene,0.005,0.900900901
+Inner Harbour,2022,Fluorene,0.01,0.74906367
+Inner Harbour,2022,Fluorene,0.005,2.564102564
+Little River,2022,Fluorene,0.005,0.735294118
+Little River,2022,Fluorene,0.005,0.512820513
+Marsh Creek WS DS,2022,Fluorene,0.52,2.797202797
+Marsh Creek WS DS,2022,Fluorene,0.04,1.515151515
+Mispec,2022,Fluorene,0.005,5.882352941
+Mispec,2022,Fluorene,0.005,5.882352941
+Saints Rest Beach,2022,Fluorene,0.005,5.882352941
+Saints Rest Beach,2022,Fluorene,0.005,5.882352941
+Spar Cove,2022,Fluorene,0.005,1.315789474
+Spar Cove,2022,Fluorene,0.27,1.328086572
+Spar Cove,2022,Fluorene,0.06,1.470588235
+Spar Cove,2022,Fluorene,0.25,1.936483346
+Tin Can Beach,2022,Fluorene,0.09,1.410658307
+Tin Can Beach,2022,Fluorene,0.08,1.335559265
+Tin Can Beach,2022,Fluorene,0.02,0.566572238
+Tin Can Beach,2022,Fluorene,0.07,1.111111111
+Bayshore,2022,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Bayshore,2022,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Black Beach,2022,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Black Beach,2022,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Courtenay Bay,2022,"Indeno[1,2,3-cd]pyrene",0.09,3.742203742
+Courtenay Bay,2022,"Indeno[1,2,3-cd]pyrene",0.13,2.526724976
+Digby Ferry Terminal,2022,"Indeno[1,2,3-cd]pyrene",0.005,3.703703704
+Digby Ferry Terminal,2022,"Indeno[1,2,3-cd]pyrene",0.08,2.352941176
+Hazen Creek Mouth,2022,"Indeno[1,2,3-cd]pyrene",0.05,2.93255132
+Hazen Creek Mouth,2022,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Hazen Creek Nearshore,2022,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Hazen Creek Nearshore,2022,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Hazen Creek Nearshore,2022,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Hazen Creek Nearshore,2022,"Indeno[1,2,3-cd]pyrene",0.005,4
+Inner Harbour,2022,"Indeno[1,2,3-cd]pyrene",0.19,3.544776119
+Inner Harbour,2022,"Indeno[1,2,3-cd]pyrene",0.02,3.603603604
+Inner Harbour,2022,"Indeno[1,2,3-cd]pyrene",0.07,5.243445693
+Inner Harbour,2022,"Indeno[1,2,3-cd]pyrene",0.01,5.128205128
+Little River,2022,"Indeno[1,2,3-cd]pyrene",0.04,5.882352941
+Little River,2022,"Indeno[1,2,3-cd]pyrene",0.04,4.102564103
+Marsh Creek WS DS,2022,"Indeno[1,2,3-cd]pyrene",0.6,3.227541689
+Marsh Creek WS DS,2022,"Indeno[1,2,3-cd]pyrene",0.09,3.409090909
+Mispec,2022,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Mispec,2022,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Saints Rest Beach,2022,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Saints Rest Beach,2022,"Indeno[1,2,3-cd]pyrene",0.005,5.882352941
+Spar Cove,2022,"Indeno[1,2,3-cd]pyrene",0.03,7.894736842
+Spar Cove,2022,"Indeno[1,2,3-cd]pyrene",0.89,4.377766847
+Spar Cove,2022,"Indeno[1,2,3-cd]pyrene",0.16,3.921568627
+Spar Cove,2022,"Indeno[1,2,3-cd]pyrene",0.39,3.02091402
+Tin Can Beach,2022,"Indeno[1,2,3-cd]pyrene",0.29,4.545454545
+Tin Can Beach,2022,"Indeno[1,2,3-cd]pyrene",0.3,5.008347245
+Tin Can Beach,2022,"Indeno[1,2,3-cd]pyrene",0.2,5.66572238
+Tin Can Beach,2022,"Indeno[1,2,3-cd]pyrene",0.27,4.285714286
+Bayshore,2022,Naphthalene,0.005,5.882352941
+Bayshore,2022,Naphthalene,0.005,5.882352941
+Black Beach,2022,Naphthalene,0.005,5.882352941
+Black Beach,2022,Naphthalene,0.005,5.882352941
+Courtenay Bay,2022,Naphthalene,0.01,0.415800416
+Courtenay Bay,2022,Naphthalene,0.09,1.749271137
+Digby Ferry Terminal,2022,Naphthalene,0.02,14.81481481
+Digby Ferry Terminal,2022,Naphthalene,0.16,4.705882353
+Hazen Creek Mouth,2022,Naphthalene,0.03,1.759530792
+Hazen Creek Mouth,2022,Naphthalene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Naphthalene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Naphthalene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Naphthalene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Naphthalene,0.005,4
+Inner Harbour,2022,Naphthalene,0.03,0.559701493
+Inner Harbour,2022,Naphthalene,0.005,0.900900901
+Inner Harbour,2022,Naphthalene,0.03,2.247191011
+Inner Harbour,2022,Naphthalene,0.005,2.564102564
+Little River,2022,Naphthalene,0.005,0.735294118
+Little River,2022,Naphthalene,0.005,0.512820513
+Marsh Creek WS DS,2022,Naphthalene,0.13,0.699300699
+Marsh Creek WS DS,2022,Naphthalene,0.08,3.03030303
+Mispec,2022,Naphthalene,0.005,5.882352941
+Mispec,2022,Naphthalene,0.005,5.882352941
+Saints Rest Beach,2022,Naphthalene,0.005,5.882352941
+Saints Rest Beach,2022,Naphthalene,0.005,5.882352941
+Spar Cove,2022,Naphthalene,0.005,1.315789474
+Spar Cove,2022,Naphthalene,0.11,0.541072307
+Spar Cove,2022,Naphthalene,0.02,0.490196078
+Spar Cove,2022,Naphthalene,0.12,0.929512006
+Tin Can Beach,2022,Naphthalene,0.13,2.037617555
+Tin Can Beach,2022,Naphthalene,0.08,1.335559265
+Tin Can Beach,2022,Naphthalene,0.05,1.416430595
+Tin Can Beach,2022,Naphthalene,0.12,1.904761905
+Bayshore,2022,Phenanthrene,0.005,5.882352941
+Bayshore,2022,Phenanthrene,0.005,5.882352941
+Black Beach,2022,Phenanthrene,0.005,5.882352941
+Black Beach,2022,Phenanthrene,0.005,5.882352941
+Courtenay Bay,2022,Phenanthrene,0.22,9.147609148
+Courtenay Bay,2022,Phenanthrene,0.87,16.90962099
+Digby Ferry Terminal,2022,Phenanthrene,0.02,14.81481481
+Digby Ferry Terminal,2022,Phenanthrene,0.57,16.76470588
+Hazen Creek Mouth,2022,Phenanthrene,0.27,15.83577713
+Hazen Creek Mouth,2022,Phenanthrene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Phenanthrene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Phenanthrene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Phenanthrene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Phenanthrene,0.01,8
+Inner Harbour,2022,Phenanthrene,0.85,15.85820896
+Inner Harbour,2022,Phenanthrene,0.07,12.61261261
+Inner Harbour,2022,Phenanthrene,0.08,5.992509363
+Inner Harbour,2022,Phenanthrene,0.02,10.25641026
+Little River,2022,Phenanthrene,0.05,7.352941176
+Little River,2022,Phenanthrene,0.08,8.205128205
+Marsh Creek WS DS,2022,Phenanthrene,3.1,16.67563206
+Marsh Creek WS DS,2022,Phenanthrene,0.41,15.53030303
+Mispec,2022,Phenanthrene,0.005,5.882352941
+Mispec,2022,Phenanthrene,0.005,5.882352941
+Saints Rest Beach,2022,Phenanthrene,0.005,5.882352941
+Saints Rest Beach,2022,Phenanthrene,0.005,5.882352941
+Spar Cove,2022,Phenanthrene,0.02,5.263157895
+Spar Cove,2022,Phenanthrene,2.5,12.29709788
+Spar Cove,2022,Phenanthrene,0.46,11.2745098
+Spar Cove,2022,Phenanthrene,1.9,14.71727343
+Tin Can Beach,2022,Phenanthrene,0.71,11.12852665
+Tin Can Beach,2022,Phenanthrene,0.68,11.35225376
+Tin Can Beach,2022,Phenanthrene,0.25,7.082152975
+Tin Can Beach,2022,Phenanthrene,0.68,10.79365079
+Bayshore,2022,Pyrene,0.005,5.882352941
+Bayshore,2022,Pyrene,0.005,5.882352941
+Black Beach,2022,Pyrene,0.005,5.882352941
+Black Beach,2022,Pyrene,0.005,5.882352941
+Courtenay Bay,2022,Pyrene,0.31,12.88981289
+Courtenay Bay,2022,Pyrene,0.7,13.60544218
+Digby Ferry Terminal,2022,Pyrene,0.01,7.407407407
+Digby Ferry Terminal,2022,Pyrene,0.49,14.41176471
+Hazen Creek Mouth,2022,Pyrene,0.23,13.48973607
+Hazen Creek Mouth,2022,Pyrene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Pyrene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Pyrene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Pyrene,0.005,5.882352941
+Hazen Creek Nearshore,2022,Pyrene,0.02,16
+Inner Harbour,2022,Pyrene,0.81,15.1119403
+Inner Harbour,2022,Pyrene,0.09,16.21621622
+Inner Harbour,2022,Pyrene,0.18,13.48314607
+Inner Harbour,2022,Pyrene,0.02,10.25641026
+Little River,2022,Pyrene,0.07,10.29411765
+Little River,2022,Pyrene,0.16,16.41025641
+Marsh Creek WS DS,2022,Pyrene,2.6,13.98601399
+Marsh Creek WS DS,2022,Pyrene,0.39,14.77272727
+Mispec,2022,Pyrene,0.005,5.882352941
+Mispec,2022,Pyrene,0.005,5.882352941
+Saints Rest Beach,2022,Pyrene,0.005,5.882352941
+Saints Rest Beach,2022,Pyrene,0.005,5.882352941
+Spar Cove,2022,Pyrene,0.05,13.15789474
+Spar Cove,2022,Pyrene,3.4,16.72405312
+Spar Cove,2022,Pyrene,0.61,14.95098039
+Spar Cove,2022,Pyrene,2,15.49186677
+Tin Can Beach,2022,Pyrene,0.92,14.4200627
+Tin Can Beach,2022,Pyrene,0.91,15.19198664
+Tin Can Beach,2022,Pyrene,0.51,14.44759207
+Tin Can Beach,2022,Pyrene,0.94,14.92063492
+Bayshore,2022,Total PAH,0.085,100
+Bayshore,2022,Total PAH,0.085,100
+Black Beach,2022,Total PAH,0.085,100
+Black Beach,2022,Total PAH,0.085,100
+Courtenay Bay,2022,Total PAH,2.405,100
+Courtenay Bay,2022,Total PAH,5.145,100
+Digby Ferry Terminal,2022,Total PAH,0.135,100
+Digby Ferry Terminal,2022,Total PAH,3.4,100
+Hazen Creek Mouth,2022,Total PAH,1.705,100
+Hazen Creek Mouth,2022,Total PAH,0.085,100
+Hazen Creek Nearshore,2022,Total PAH,0.085,100
+Hazen Creek Nearshore,2022,Total PAH,0.085,100
+Hazen Creek Nearshore,2022,Total PAH,0.085,100
+Hazen Creek Nearshore,2022,Total PAH,0.125,100
+Inner Harbour,2022,Total PAH,5.36,100
+Inner Harbour,2022,Total PAH,0.555,100
+Inner Harbour,2022,Total PAH,1.335,100
+Inner Harbour,2022,Total PAH,0.195,100
+Little River,2022,Total PAH,0.68,100
+Little River,2022,Total PAH,0.975,100
+Marsh Creek WS DS,2022,Total PAH,18.59,100
+Marsh Creek WS DS,2022,Total PAH,2.64,100
+Mispec,2022,Total PAH,0.085,100
+Mispec,2022,Total PAH,0.085,100
+Saints Rest Beach,2022,Total PAH,0.085,100
+Saints Rest Beach,2022,Total PAH,0.085,100
+Spar Cove,2022,Total PAH,0.38,100
+Spar Cove,2022,Total PAH,20.33,100
+Spar Cove,2022,Total PAH,4.08,100
+Spar Cove,2022,Total PAH,12.91,100
+Tin Can Beach,2022,Total PAH,6.38,100
+Tin Can Beach,2022,Total PAH,5.99,100
+Tin Can Beach,2022,Total PAH,3.53,100
+Tin Can Beach,2022,Total PAH,6.3,100
