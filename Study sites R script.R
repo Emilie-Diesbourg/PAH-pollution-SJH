@@ -17,7 +17,7 @@ ca.province <- canada[canada$NAME_1 %in% provinces,]
 ca.province.df <- tidy(ca.province)
 
 #Retrieve satellite data
-register_google(key="AIzaSyAnPAOqauMYf2ObPbEAk6d9Aapp-DNmmIM")
+register_google(key=)
 
 #plotting the map
 ggmap(get_googlemap(center=c(lon=-66.11, lat= 45.235), # estimate where the center of your map would be 
