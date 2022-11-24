@@ -3,7 +3,9 @@ Examines the concentrations and compositions of sediment PAH contamination in th
 
 SedimentPAHscript.R : Complete script for data analyses, calling all relevant data files in this repository. 
 
+Study sites R script.R : Code to create map for sampling locations in the Saint John Harbour.
 
+Site coordinates for R.csv : Used to create a map of sampling locations in the Saint John Harbour. 
 
 PAH composition year and site.csv : Contains data on the concentration of each individual PAH and its percentage relative to the total PAH concentration at each site and over the entire sampling period (2018-2022). This data was used to see if there was a temporal difference in percent composition of each individual PAH analyte.
 
@@ -29,4 +31,5 @@ sedimentPAHyears_fulldatawithoutliers.csv : Contains average PAH values at each 
 
 SedimentPAHsites.csv : Contains total PAH values at each site per year. This data was used for comparison of total PAH values across sites and years and used for Figure 2. 
 
+PAHcomposition2018-2022.csv : Contains percent composition of each individual PAH relative to the total as percentage and concentration. This data was used to create Supplementary Figure 3 which illustrates differences in percent composition of each PAH over the sampling years. 
 
