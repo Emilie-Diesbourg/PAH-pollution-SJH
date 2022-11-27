@@ -1,0 +1,207 @@
+Site,Sitecode,SedimentPAH,Year
+Bayshore,BS,0.12,2018
+Bayshore,BS,0.17,2019
+Bayshore,BS,0.17,2019
+Bayshore,BS,0.085,2019
+Bayshore,BS,0.085,2020
+Bayshore,BS,0.085,2020
+Bayshore,BS,0.085,2020
+Bayshore,BS,0.085,2021
+Bayshore,BS,0.085,2021
+Bayshore,BS,0.085,2021
+Bayshore,BS,0.13,2021
+Bayshore,BS,0.085,2022
+Bayshore,BS,0.085,2022
+Black Beach,BB,0.085,2018
+Black Beach,BB,0.17,2019
+Black Beach,BB,0.17,2019
+Black Beach,BB,0.1,2019
+Black Beach,BB,0.085,2020
+Black Beach,BB,0.085,2020
+Black Beach,BB,0.085,2020
+Black Beach,BB,0.085,2021
+Black Beach,BB,0.085,2021
+Black Beach,BB,0.085,2021
+Black Beach,BB,0.085,2021
+Black Beach,BB,0.085,2022
+Black Beach,BB,0.085,2022
+Courtenay Bay,CB,7.01,2018
+Courtenay Bay,CB,1.71,2019
+Courtenay Bay,CB,1.54,2019
+Courtenay Bay,CB,3.345,2019
+Courtenay Bay,CB,1.385,2020
+Courtenay Bay,CB,2.235,2020
+Courtenay Bay,CB,5,2020
+Courtenay Bay,CB,9.93,2021
+Courtenay Bay,CB,0.16,2021
+Courtenay Bay,CB,2.275,2021
+Courtenay Bay,CB,1.81,2021
+Courtenay Bay,CB,2.405,2022
+Courtenay Bay,CB,5.145,2022
+Digby Ferry Terminal ,DFT,26.67,2018
+Digby Ferry Terminal ,DFT,0.23,2019
+Digby Ferry Terminal ,DFT,2.59,2019
+Digby Ferry Terminal ,DFT,0.83,2019
+Digby Ferry Terminal ,DFT,1.32,2020
+Digby Ferry Terminal ,DFT,0.495,2020
+Digby Ferry Terminal ,DFT,4.91,2020
+Digby Ferry Terminal ,DFT,2.24,2021
+Digby Ferry Terminal ,DFT,4.82,2021
+Digby Ferry Terminal ,DFT,5.15,2021
+Digby Ferry Terminal ,DFT,0.435,2021
+Digby Ferry Terminal ,DFT,0.135,2022
+Digby Ferry Terminal ,DFT,3.4,2022
+Hazen Creek Mouth,HCM,0.17,2019
+Hazen Creek Mouth,HCM,0.25,2019
+Hazen Creek Mouth,HCM,0.085,2019
+Hazen Creek Mouth,HCM,0.085,2020
+Hazen Creek Mouth,HCM,0.085,2020
+Hazen Creek Mouth,HCM,0.085,2020
+Hazen Creek Mouth,HCM,0.085,2021
+Hazen Creek Mouth,HCM,0.225,2021
+Hazen Creek Mouth,HCM,0.115,2021
+Hazen Creek Mouth,HCM,0.085,2021
+Hazen Creek Mouth,HCM,1.705,2022
+Hazen Creek Mouth,HCM,0.085,2022
+Hazen Creek Nearshore,HCNS,0.095,2018
+Hazen Creek Nearshore,HCNS,0.17,2019
+Hazen Creek Nearshore,HCNS,0.2,2019
+Hazen Creek Nearshore,HCNS,0.085,2019
+Hazen Creek Nearshore,HCNS,0.2,2020
+Hazen Creek Nearshore,HCNS,0.085,2020
+Hazen Creek Nearshore,HCNS,0.21,2020
+Hazen Creek Nearshore,HCNS,0.245,2021
+Hazen Creek Nearshore,HCNS,0.085,2021
+Hazen Creek Nearshore,HCNS,0.085,2021
+Hazen Creek Nearshore,HCNS,0.44,2021
+Hazen Creek Nearshore,HCNS,0.085,2021
+Hazen Creek Nearshore,HCNS,0.085,2021
+Hazen Creek Nearshore,HCNS,0.085,2022
+Hazen Creek Nearshore,HCNS,0.085,2022
+Hazen Creek Nearshore,HCNS,0.085,2022
+Hazen Creek Nearshore,HCNS,0.125,2022
+Inner Harbour,IH,7.41,2018
+Inner Harbour,IH,0.4,2019
+Inner Harbour,IH,0.38,2019
+Inner Harbour,IH,0.505,2019
+Inner Harbour,IH,0.465,2020
+Inner Harbour,IH,0.385,2020
+Inner Harbour,IH,0.645,2020
+Inner Harbour,IH,0.785,2021
+Inner Harbour,IH,0.17,2021
+Inner Harbour,IH,2.335,2021
+Inner Harbour,IH,0.585,2021
+Inner Harbour,IH,3.6,2021
+Inner Harbour,IH,0.46,2021
+Inner Harbour,IH,5.36,2022
+Inner Harbour,IH,0.555,2022
+Inner Harbour,IH,1.335,2022
+Inner Harbour,IH,0.195,2022
+Little River,LR,1.915,2018
+Little River,LR,1.31,2019
+Little River,LR,1.11,2019
+Little River,LR,6.05,2019
+Little River,LR,4.125,2020
+Little River,LR,1.44,2020
+Little River,LR,1.945,2020
+Little River,LR,10.635,2021
+Little River,LR,15.55,2021
+Little River,LR,1.83,2021
+Little River,LR,6.395,2021
+Little River,LR,0.68,2022
+Little River,LR,0.975,2022
+Marsh Creek,MC,7.02,2018
+Marsh Creek,MC,14.04,2019
+Marsh Creek,MC,167.32,2019
+Marsh Creek,MC,34.33,2019
+Marsh Creek,MC,11.8,2020
+Marsh Creek,MC,41,2020
+Marsh Creek,MC,142.94,2020
+Marsh Creek,MC,12.72,2021
+Marsh Creek,MC,13.87,2021
+Marsh Creek,MC,23.69,2021
+Marsh Creek,MC,38.72,2021
+Marsh Creek,MC,18.59,2022
+Marsh Creek,MC,2.64,2022
+Mispec Beach,MB,0.17,2019
+Mispec Beach,MB,0.17,2019
+Mispec Beach,MB,0.085,2019
+Mispec Beach,MB,0.085,2020
+Mispec Beach,MB,0.085,2020
+Mispec Beach,MB,0.085,2020
+Mispec Beach,MB,0.085,2021
+Mispec Beach,MB,0.085,2021
+Mispec Beach,MB,0.085,2021
+Mispec Beach,MB,0.085,2021
+Mispec Beach,MB,0.085,2022
+Mispec Beach,MB,0.085,2022
+Saints Rest Beach,SRB,0.085,2018
+Saints Rest Beach,SRB,0.17,2019
+Saints Rest Beach,SRB,0.17,2019
+Saints Rest Beach,SRB,0.085,2019
+Saints Rest Beach,SRB,0.085,2020
+Saints Rest Beach,SRB,0.085,2020
+Saints Rest Beach,SRB,0.085,2020
+Saints Rest Beach,SRB,0.085,2021
+Saints Rest Beach,SRB,0.085,2021
+Saints Rest Beach,SRB,0.085,2021
+Saints Rest Beach,SRB,0.085,2021
+Saints Rest Beach,SRB,0.085,2022
+Saints Rest Beach,SRB,0.085,2022
+Spar Cove,SC,0.225,2018
+Spar Cove,SC,3.6,2019
+Spar Cove,SC,16.32,2019
+Spar Cove,SC,6.65,2020
+Spar Cove,SC,5.34,2020
+Spar Cove,SC,84.26,2020
+Spar Cove,SC,5.04,2021
+Spar Cove,SC,5.68,2021
+Spar Cove,SC,6.33,2021
+Spar Cove,SC,9.53,2021
+Spar Cove,SC,1.58,2021
+Spar Cove,SC,0.56,2021
+Spar Cove,SC,0.38,2022
+Spar Cove,SC,20.33,2022
+Spar Cove,SC,4.08,2022
+Spar Cove,SC,12.91,2022
+Tin Can Beach,TCB,7.24,2018
+Tin Can Beach,TCB,2.1,2019
+Tin Can Beach,TCB,1.47,2019
+Tin Can Beach,TCB,2.105,2019
+Tin Can Beach,TCB,3.15,2020
+Tin Can Beach,TCB,3.78,2020
+Tin Can Beach,TCB,7.07,2020
+Tin Can Beach,TCB,49.3,2021
+Tin Can Beach,TCB,7.57,2021
+Tin Can Beach,TCB,4.33,2021
+Tin Can Beach,TCB,9.28,2021
+Tin Can Beach,TCB,2.295,2021
+Tin Can Beach,TCB,3.215,2021
+Tin Can Beach,TCB,6.38,2022
+Tin Can Beach,TCB,5.99,2022
+Tin Can Beach,TCB,3.53,2022
+Tin Can Beach,TCB,6.3,2022
+Hazen Creek Nearshore,HCNS,0.165,2022
+Hazen Creek Nearshore,HCNS,0.16,2022
+Hazen Creek Nearshore,HCNS,0.085,2022
+Hazen Creek Nearshore,HCNS,0.085,2022
+Hazen Creek Nearshore,HCNS,0.085,2022
+Hazen Creek Nearshore,HCNS,0.085,2022
+Inner Harbour,IH,0.825,2022
+Inner Harbour,IH,0.435,2022
+Inner Harbour,IH,0.295,2022
+Inner Harbour,IH,0.18,2022
+Inner Harbour,IH,0.175,2022
+Inner Harbour,IH,0.16,2022
+Spar Cove,SC,22.12,2022
+Spar Cove,SC,16.36,2022
+Spar Cove,SC,11.02,2022
+Spar Cove,SC,6.95,2022
+Spar Cove,SC,6.9,2022
+Spar Cove,SC,1.62,2022
+Tin Can Beach,TCB,12.11,2022
+Tin Can Beach,TCB,10.23,2022
+Tin Can Beach,TCB,6.36,2022
+Tin Can Beach,TCB,5.99,2022
+Tin Can Beach,TCB,4.76,2022
+Tin Can Beach,TCB,3.85,2022
