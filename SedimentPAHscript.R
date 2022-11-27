@@ -170,21 +170,43 @@ ggplot(data=TCB, aes(x=Site, y=SedimentPAH))+ #1 outlier
 #could be legitimate observations at the site. Possibly they are not super representative of the site but
 #I think removing them would be worse. 
 
-#### Kruskal-Wallis test [PAH] across years and graph ####
+#### PAH across years and sites ####
 
-PAHyears<-read.csv("sedimentPAHyears_fulldatawithoutliers.csv", header=T)
-PAHyears$Year<-as.factor(PAHyears$Year)
-str(PAHyears)
+## Kruskal-Wallis test [PAH] across years and graph ##
+PAHsites<-read.csv("SedimentPAHsites.csv", header=T)
+PAHsites$Year<-as.factor(PAHsites$Year)
+str(PAHsites)
 
-#ANOVA if the data was normal BUT it isn't!
-model1<-aov(data=PAHyears, SedimentPAH~Year)
+#ANOVA if the data was normal but it isn't
+model1<-aov(data=PAHsites, SedimentPAH~Year)
 summary(model1)
 plot(model1)#not normal
 
+#Transform data
+logPAH<-log(PAHsites$SedimentPAH)
+cbind(PAHsites, logPAH)
+model2<-aov(data=PAHsites, logPAH~Year)
+summary(model2)
+plot(model2) #Normality is still not good after transforming but residuals look okay
 
 #Because the data is not normal, we use Kruskal Wallis test
 
-kruskal.test(SedimentPAH~Year, data=PAHyears) #p-value is 0.8537. no diff across years with all sites included.
+kruskal.test(SedimentPAH~Year, data=PAHsites) #p-value is 0.8051. no diff across years with all sites included.
+
+#Subset each site from dataset
+BS<-subset(PAHsites, Site=="Bayshore") 
+BB<-subset(PAHsites, Site=="Black Beach") 
+CB<-subset(PAHsites, Site=="Courtenay Bay")
+DFT<-subset(PAHsites, Site=="Digby Ferry Terminal") 
+HCM<-subset(PAHsites, Site=="Hazen Creek Mouth") 
+HCNS<-subset(PAHsites, Site=="Hazen Creek Nearshore") 
+IH<-subset(PAHsites, Site=="Inner Harbour") 
+LR<-subset(PAHsites, Site=="Little River") 
+MC<-subset(PAHsites, Site== "Marsh Creek") 
+MB<-subset(PAHsites, Site=="Mispec Beach") 
+SRB<-subset(PAHsites, Site=="Saints Rest Beach")
+SC<-subset(PAHsites, Site=="Spar Cove") 
+TCB<-subset(PAHsites, Site=="Tin Can Beach") 
 
 #Subset for each site and test if sig. diff. over time
 kruskal.test(SedimentPAH~Year, data=BS) #p=0.2286
@@ -192,119 +214,31 @@ kruskal.test(SedimentPAH~Year, data=BB) #p=0.0188***
 kruskal.test(SedimentPAH~Year, data=CB) #p=0.5112
 kruskal.test(SedimentPAH~Year, data=DFT)#p=0.412
 kruskal.test(SedimentPAH~Year, data=HCM) #p=0.4122
-kruskal.test(SedimentPAH~Year, data=HCNS) #p=0.7282
-kruskal.test(SedimentPAH~Year, data=IH) #p=0.3218
+kruskal.test(SedimentPAH~Year, data=HCNS) #p=0.5055
+kruskal.test(SedimentPAH~Year, data=IH) #p=0.3546
 kruskal.test(SedimentPAH~Year, data=LR) #p=0.1077
 kruskal.test(SedimentPAH~Year, data=MC) #p=0.3452
 kruskal.test(SedimentPAH~Year, data=MB) #p=0.0858
-kruskal.test(SedimentPAH~Year, data=SC) #p=0.3789
+kruskal.test(SedimentPAH~Year, data=SC) #p=0.2547
 kruskal.test(SedimentPAH~Year, data=SRB) #p=0.1222
-kruskal.test(SedimentPAH~Year, data=TCB) #p=0.09086
+kruskal.test(SedimentPAH~Year, data=TCB) #p=0.06626
 
-#The only site with significant difference over time is Black Beach. But do we care?...not sure
+#The only site with significant difference over time is Black Beach. 
 
-#Plot the data
-ggplot(PAHyears, aes(x=Year, y=SedimentPAH))+
-  geom_boxplot()+
-  theme_classic()+
-  ylab("Total sediment PAH \n concentration (mg/kg DW)")+
-  stat_summary(fun=mean, size=0.3, color="blue")+
-  geom_abline(intercept=0.17, slope=0, col="red", lty=2)+
- scale_y_log10()
 
-#Now do the same analysis with outliers removed
-PAH_no_outliers<-read.csv("fullPAHdata_WOoutliersMAD.csv", header=T)
+## Kruskal-Wallis test [PAH] across sites and graphs ##
 
-Y2018<-subset(PAH_no_outliers, Year=="2018")
-mean(Y2018$SedimentPAH) #2.76
-sd(Y2018$SedimentPAH) #3.45
-
-Y2019<-subset(PAH_no_outliers, Year=="2019")
-mean(Y2019$SedimentPAH) #3.84
-sd(Y2019$SedimentPAH) #7.85
-
-Y2020<-subset(PAH_no_outliers, Year=="2020")
-mean(Y2020$SedimentPAH) #2.99
-sd(Y2020$SedimentPAH) #7.15
-
-Y2021<-subset(PAH_no_outliers, Year=="2021")
-mean(Y2021$SedimentPAH) #3.48
-sd(Y2021$SedimentPAH) #6.95
-
-Y2022<-subset(PAH_no_outliers, Year=="2022")
-mean(Y2022$SedimentPAH) #2.60
-sd(Y2022$SedimentPAH) #4.29
-
-mean(PAH_no_outliers$SedimentPAH) #3.20
-sd(PAH_no_outliers$SedimentPAH) #6.53
-
-kruskal.test(SedimentPAH~Year, data=PAH_no_outliers) #0.8499 no diff across years when all sites included
-
-BS1<-subset(PAH_no_outliers, Site=="Bayshore")
-BB1<-subset(PAH_no_outliers, Site=="Black Beach")
-CB1<-subset(PAH_no_outliers, Site=="Courtenay Bay")
-DFT1<-subset(PAH_no_outliers, Site=="Digby Ferry Terminal")
-HCM1<-subset(PAH_no_outliers, Site=="Hazen Creek Mouth")
-HCNS1<-subset(PAH_no_outliers, Site=="Hazen Creek Nearshore")
-IH1<-subset(PAH_no_outliers, Site=="Inner Harbour")
-LR1<-subset(PAH_no_outliers, Site=="Little River")
-MC1<-subset(PAH_no_outliers, Site=="Marsh Creek")
-MB1<-subset(PAH_no_outliers, Site=="Mispec Beach")
-SC1<-subset(PAH_no_outliers, Site=="Spar Cove")
-SRB1<-subset(PAH_no_outliers, Site=="Saints Rest Beach")
-TCB1<-subset(PAH_no_outliers, Site=="Tin Can Beach")
-
-#Subset for each site and test if sig. diff. over time
-kruskal.test(SedimentPAH~Year, data=BS1) #p=NA because all values are the same
-kruskal.test(SedimentPAH~Year, data=BB1) #p=NA because all values are the same
-kruskal.test(SedimentPAH~Year, data=CB1) #p=0.3756
-kruskal.test(SedimentPAH~Year, data=DFT1)#p=0.6559
-kruskal.test(SedimentPAH~Year, data=HCM1) #p=NA because all values are the same
-kruskal.test(SedimentPAH~Year, data=HCNS1) #p=NA because all values are the same
-kruskal.test(SedimentPAH~Year, data=IH1) #p=0.8492
-kruskal.test(SedimentPAH~Year, data=LR1) #p=0.152
-kruskal.test(SedimentPAH~Year, data=MC1) #p=0.5616
-kruskal.test(SedimentPAH~Year, data=MB1) #p=NA because all values are the same
-kruskal.test(SedimentPAH~Year, data=SC1) #p=0.4977
-kruskal.test(SedimentPAH~Year, data=SRB1) #p=NA because all values are the same
-kruskal.test(SedimentPAH~Year, data=TCB1) #p=0.09826
-
-#No differences over time when outliers are removed within any site
-
-#Don't have to worry about this because we are not keeping the outlier analysis in the report
-
-#### Kruskal-Wallis test [PAH] across sites and graphs ####
-
-#With potential outliers included
 PAHsites<-read.csv("SedimentPAHsites.csv", header=T)
 PAHsites$Year<-as.factor(PAHsites$Year)
 str(PAHsites)
 
+#Test for assumptions of ANOVA
 shapiro.test(PAHsites$SedimentPAH) #p-value < 2.2e-16 , means that data is not normal
 leveneTest(SedimentPAH~Site, data=PAHsites) #p=1.316e-05, heterogeneity of variance
 
 #Therefore, we use Kruskal Wallis non-parametric test
 kruskal.test(SedimentPAH~Site, data=PAHsites) #p<2.2e-16
-dunnTest(SedimentPAH~Site, data=PAHsites)
-
-#Use data without outliers
-kruskal.test(SedimentPAH~Site, data=PAH_no_outliers) #p-value < 2.2e-16
-dunnTest(SedimentPAH~Site, data=PAH_no_outliers, method="bh")
-
-mean(BS1$SedimentPAH) #0.085 +/- 0
-mean(BB1$SedimentPAH) #0.085 +/- 0
-mean(CB1$SedimentPAH) #2.46 +/- 1.51
-mean(DFT1$SedimentPAH) #2.21 +/- 1.94
-mean(HCM1$SedimentPAH) #0.085 +/- 0
-mean(HCNS1$SedimentPAH) #0.085 +/- 0
-mean(IH1$SedimentPAH) #0.463 +/- 0.175
-mean(LR1$SedimentPAH) #1.70 +/- 1.01
-mean(MC1$SedimentPAH) #19.9 +/- 12.9
-mean(MB1$SedimentPAH) #0.085 +/- 0
-mean(SC1$SedimentPAH) #5.59 +/- 4.72
-mean(SRB1$SedimentPAH) #0.085 +/- 0
-mean(TCB1$SedimentPAH) #4.74 +/- 2.38
-
+dunnTest(SedimentPAH~Site, data=PAHsites) #This data is presented in Supplementary table 3
 
 ggplot(PAHsites, aes(x=Sitecode, y=SedimentPAH))+ 
   geom_boxplot()+
@@ -318,7 +252,7 @@ ggplot(PAHsites, aes(x=Sitecode, y=SedimentPAH))+
   scale_x_discrete(labels = function(x) str_wrap(x, width = 15))+
   scale_y_log10()
 
-#plotting the total sediment PAH concentration at each site within each year from 2018-2022 (Supplementary info)
+#plotting the total sediment PAH concentration at each site within each year from 2018-2022 (Supplementary Figure 2)
 
 D2018<-subset(PAHsites, Year=="2018")
 D2019<-subset(PAHsites, Year=="2019")
@@ -334,7 +268,7 @@ plot2018<-ggplot(D2018, aes(x=Sitecode, y=SedimentPAH))+
   theme_classic()+
   ylab("Total sediment PAH \n concentration (mg/kg DW)")+
   xlab("Site")+
-  geom_abline(intercept=1.30384, slope=0, col="red", lty=2)+
+  geom_abline(intercept=0.23045, slope=0, col="red", lty=2)+
   theme(axis.text.x = element_text(angle = 60, vjust=0.5, hjust=0.5))+
   scale_x_discrete(labels = function(x) str_wrap(x, width = 15))+
   scale_y_log10()
@@ -346,7 +280,7 @@ plot2019<-ggplot(D2019, aes(x=Sitecode, y=SedimentPAH))+
   theme_classic()+
   ylab("Total sediment PAH \n concentration (mg/kg DW)")+
   xlab("Site")+
-  geom_abline(intercept=1.30384, slope=0, col="red", lty=2)+
+  geom_abline(intercept=0.23045, slope=0, col="red", lty=2)+
   theme(axis.text.x = element_text(angle = 60, vjust=0.5, hjust=0.5))+
   scale_x_discrete(labels = function(x) str_wrap(x, width = 15))+
   scale_y_log10()
@@ -358,7 +292,7 @@ plot2020<-ggplot(D2020, aes(x=Sitecode, y=SedimentPAH))+
   theme_classic()+
   ylab("Total sediment PAH \n concentration (mg/kg DW)")+
   xlab("Site")+
-  geom_abline(intercept=1.30384, slope=0, col="red", lty=2)+
+  geom_abline(intercept=0.23045, slope=0, col="red", lty=2)+
   theme(axis.text.x = element_text(angle = 60, vjust=0.5, hjust=0.5))+
   scale_x_discrete(labels = function(x) str_wrap(x, width = 15))+
   scale_y_log10()
@@ -370,7 +304,7 @@ plot2021<-ggplot(D2021, aes(x=Sitecode, y=SedimentPAH))+
   theme_classic()+
   ylab("Total sediment PAH \n concentration (mg/kg DW)")+
   xlab("Site")+
-  geom_abline(intercept=1.30384, slope=0, col="red", lty=2)+
+  geom_abline(intercept=0.23045, slope=0, col="red", lty=2)+
   theme(axis.text.x = element_text(angle = 60, vjust=0.5, hjust=0.5))+
   scale_x_discrete(labels = function(x) str_wrap(x, width = 15))+
   scale_y_log10()
@@ -382,25 +316,27 @@ plot2022<-ggplot(D2022, aes(x=Sitecode, y=SedimentPAH))+
   theme_classic()+
   ylab("Total sediment PAH \n concentration (mg/kg DW)")+
   xlab("Site")+
-  geom_abline(intercept=1.30384, slope=0, col="red", lty=2)+
+  geom_abline(intercept=0.23045, slope=0, col="red", lty=2)+
   theme(axis.text.x = element_text(angle = 60, vjust=0.5, hjust=0.5))+
   scale_x_discrete(labels = function(x) str_wrap(x, width = 15))+
   scale_y_log10()
 
 ggarrange<-ggarrange(plot2018 + rremove("ylab") + rremove("xlab"), plot2019+rremove("ylab")+ rremove("xlab"), plot2020 + rremove("ylab")+ rremove("xlab"), plot2021 + rremove("ylab")+ rremove("xlab"), plot2022 + rremove("ylab")+ rremove("xlab"), 
-           labels = c("2018", "2019", "2020", "2021", "2022", "F"),
-          hjust=-4.7, align = "hv",
-           ncol = 3, nrow = 2, widths = c(1, 1, 1), heights = c(1,1,1))
+                     labels = c("2018", "2019", "2020", "2021", "2022", "F"),
+                     hjust=-4.7, align = "hv",
+                     ncol = 3, nrow = 2, widths = c(1, 1, 1), heights = c(1,1,1))
 
 
 
 annotate_figure(ggarrange, left = textGrob("Total sediment PAH \n concentration (mg/kg DW)", rot = 90, vjust = 0.5, gp = gpar(cex = 1)),
                 bottom = textGrob("Site code", vjust=0.5, gp = gpar(cex = 1)))
 
-#### PAH composition across years ####
+#### PAH composition across years and sites ####
 
-#The following section of code creates bar graphs illustrating the percentage of each analyte to the total 
-#PAH concentraiton each year. This final graph can be found in Supplementary information, Figure 3
+## Composition across years ##
+
+#The following section of code creates bar graphs illustrating the percentage of each individual PAH to the total 
+#PAH concentration each year. This data is found in Supplementary Table 5 and the graph is in Supplementary Figure 3
 PAHcomposition<-read.csv("PAHcomposition2018-2022.csv", header=T)
 PAHcomposition$Year<-as.factor(PAHcomposition$Year)
 str(PAHcomposition)
@@ -467,9 +403,9 @@ comp2022<-ggplot(PAH2022, aes(x=PAH_analyte, y=Percent_of_total))+
 comp2022
 
 comp<-ggarrange(comp2018 + rremove("ylab") + rremove("xlab"), comp2019+rremove("ylab")+ rremove("xlab"), comp2020 + rremove("ylab")+ rremove("xlab"), comp2021 + rremove("ylab")+ rremove("xlab"), comp2022 + rremove("ylab")+ rremove("xlab"), 
-                     labels = c("2018", "2019", "2020", "2021", "2022"),
-                     hjust=-1.7, align = "hv",
-                     ncol = 3, nrow = 2, widths = c(1, 1, 1), heights = c(1,1,1))
+                labels = c("2018", "2019", "2020", "2021", "2022"),
+                hjust=-1.7, align = "hv",
+                ncol = 3, nrow = 2, widths = c(1, 1, 1), heights = c(1,1,1))
 
 
 
@@ -490,65 +426,62 @@ acy<-subset(PAH_comp, Analyte=="Acenaphthylene")
 kruskal.test(data=acy, Percent~Year) #p=0.5005
 
 ant<-subset(PAH_comp, Analyte=="Anthracene")
-kruskal.test(data=ant, Percent~Year) #p=0.9583
+kruskal.test(data=ant, Percent~Year) #p=0.9991
 
 baa<-subset(PAH_comp, Analyte=="Benz[a]anthracene")
-kruskal.test(data=baa, Percent~Year) #p=0.3762
+kruskal.test(data=baa, Percent~Year) #p=0.4869
 
 bap<-subset(PAH_comp, Analyte=="Benzo[a]pyrene")
-kruskal.test(data=bap, Percent~Year) #p=0.0058
-dunnTest(data=bap, Percent~Year) #sig diff btw 2018-2021: p=0.016, and 2018-2022: p=0.035
+kruskal.test(data=bap, Percent~Year) #p=0.0007872
+dunnTest(data=bap, Percent~Year) #sig diff btw 2018-2021: p=0.00321, 2019-2021: p= 0.0259, and 2018-2022: p=0.0176
 
 bbf<-subset(PAH_comp, Analyte=="Benzo[b,j]fluoranthene")
-kruskal.test(data=bbf, Percent~Year) #p=0.2553
+kruskal.test(data=bbf, Percent~Year) #p=0.4894
 
 bep<-subset(PAH_comp, Analyte=="Benzo[e]pyrene")
-kruskal.test(data=bep, Percent~Year) #p=0.4906
+kruskal.test(data=bep, Percent~Year) #p=0.282
 
 bgp<-subset(PAH_comp, Analyte=="Benzo(g,h,i)perylene-D12")
-kruskal.test(data=bgp, Percent~Year) #p=0.01867
-dunnTest(data=bgp, Percent~Year) #sig diff btw 2018-2021: p=0.012
+kruskal.test(data=bgp, Percent~Year) #p=0.2878
 
 bkf<-subset(PAH_comp, Analyte=="Benzo[k]fluoranthene")
-kruskal.test(data=bkf, Percent~Year) #p=0.9401
+kruskal.test(data=bkf, Percent~Year) #p=0.7939
 
 ct<-subset(PAH_comp, Analyte=="Chrysene + Triphenylene")
-kruskal.test(data=ct, Percent~Year) #p=9.867e-05
-dunnTest(data=ct, Percent~Year) #sig diff btw 2018-2021: p=0.0076, 2018-2022: p=0.0015, 2019-2022: p=0.025, 2020-2022: p=0.015
+kruskal.test(data=ct, Percent~Year) #p=0.05253
 
 daa<-subset(PAH_comp, Analyte=="Dibenz[a,h]anthracene")
-kruskal.test(data=daa, Percent~Year) #p=0.3257
+kruskal.test(data=daa, Percent~Year) #p=0.5373
 
 fla<-subset(PAH_comp, Analyte=="Fluoranthene")
 kruskal.test(data=fla, Percent~Year) #p=0.3548
 
 flu<-subset(PAH_comp, Analyte=="Fluorene")
-kruskal.test(data=flu, Percent~Year) #p=0.5742
+kruskal.test(data=flu, Percent~Year) #p=0.0875
 
 inp<-subset(PAH_comp, Analyte=="Indeno[1,2,3-cd]pyrene")
-kruskal.test(data=inp, Percent~Year) #0.003
-dunnTest(data=inp, Percent~Year) #sig diff btw 2018-2020: p=0.046, 2018-2021: p=2018-2021, 2019-2021: p=0.044
+kruskal.test(data=inp, Percent~Year) #0.0979
 
 nap<-subset(PAH_comp, Analyte=="Naphthalene")
-kruskal.test(data=nap, Percent~Year) #0.1025
+kruskal.test(data=nap, Percent~Year) #0.6661
 
 phe<-subset(PAH_comp, Analyte=="Phenanthrene")
-kruskal.test(data=phe, Percent~Year) #0.6421
+kruskal.test(data=phe, Percent~Year) #0.3736
 
 pyr<-subset(PAH_comp, Analyte=="Pyrene")
-kruskal.test(data=pyr, Percent~Year) #0.5092
+kruskal.test(data=pyr, Percent~Year) #0.7329
 
-#### PAH composition across sites ####
+## PAH composition across sites ##
 
-#The following code uses Kruskal and Dunns tests to see if there are differences in individual PAH
-#percentage of total across sites. This information is presented in supplementary Table 
+#The following code uses Kruskal and Dunn tests to see if there are differences in individual PAH
+#percentage of total across sites. Data presented in supplementary table 5.
 
 ace<-subset(PAH_comp, Analyte=="Acenaphthene")
 kruskal.test(data=ace, Percent~Site) #p-value  < 2.2e-16
 dunnTest(data=ace, Percent~Site)
 
 acy<-subset(PAH_comp, Analyte=="Acenaphthylene")
-kruskal.test(data=acy, Percent~Site) #p-value = 3.628e-10
+kruskal.test(data=acy, Percent~Site) #p-value = < 2.2e-16
 
 ant<-subset(PAH_comp, Analyte=="Anthracene")
 kruskal.test(data=ant, Percent~Site) #p-value = 6.313e-08
@@ -603,10 +536,13 @@ kruskal.test(data=TOC, TOC~Site)
 dunnTest(data=TOC, TOC~Site)
 ggplot(TOC, aes(x=Site, y=TOC))+geom_boxplot()+theme_classic() #spar cove has the highest TOC, Hazen creek has the least
 
+
+PAHOC<-read.table("C:\\Users\\Emilie\\OneDrive - University of New Brunswick\\Documents\\UNB 2018-2022\\PAH project summer 2022\\Data\\Modified data\\Sediment PAH calculations\\TotalPAHOCnormalized4sitesR.xlsx", header=T)
+str(PAHOC)
 #Organic carbon normalized PAH concentration
-shapiro.test(TotalPAHOCnormalized4sites$TotalPAH)
-kruskal.test(data=TotalPAHOCnormalized4sites, TotalPAH~Site) #p=7.43e-04
-dunnTest(data=TotalPAHOCnormalized4sites, TotalPAH~Site)
+shapiro.test(TotalPAHOCnormalized4sitesR$PAHOC) #not normal
+kruskal.test(data=TotalPAHOCnormalized4sitesR, PAHOC~Site) #p=7.43e-04
+dunnTest(data=TotalPAHOCnormalized4sitesR, PAHOC~Site)
 
 #### Fish indices ####
 fish<-read.csv("C:\\Users\\Emilie\\OneDrive - University of New Brunswick\\Documents\\UNB 2018-2022\\PAH project summer 2022\\Data\\Modified data\\Sediment PAH calculations\\Fish indices\\Fish_indices2018-2022.csv", header=T)
@@ -689,141 +625,6 @@ Pielou
 
 indices<-ggarrange(abundance  + rremove("xlab"), SW+ rremove("xlab"), Simp + rremove("xlab"), Pielou +rremove("xlab")) 
 annotate_figure(indices, bottom = textGrob("Sediment PAH concentration (mg/kg; DW)", vjust=0.5, gp = gpar(cex = 1)))
-
-#### Fish indices with Marsh Creek removed ##################
-
-#There is no difference in the overall conclusions between keeping Marsh Creek in or out of analysis
-#I will present the stats and figure with Marsh Creek removed since it is easier to visualize on a graph
-
-fish1<-read.csv("C:\\Users\\Emilie\\OneDrive - University of New Brunswick\\Documents\\UNB 2018-2022\\PAH project summer 2022\\Data\\Modified data\\Sediment PAH calculations\\Fish indices\\Summary of fish indices and PAH_noMC.csv", header=T)
-
-model11<-glm.nb(Abundance~SedimentPAH, data=fish1)
-summary(model11)
-
-model21<-glm(SW_index~SedimentPAH, data=fish1, family=Gamma(link="log"))
-summary(model21)
-
-
-model31<-glm(data=fish1, Simp_index~SedimentPAH, family=binomial)
-beta(model31)
-
-model41<-glm(data=fish1, Evenness~SedimentPAH, family=binomial)
-beta(model41)
-
-#Plotting abundance vs sediment pah
-abundance1<-ggplot(fish1, aes(x=SedimentPAH, y=Abundance))+
-  geom_point()+
-  geom_smooth(aes(x = SedimentPAH, y = Abundance), data = fish1, 
-              method = "glm.nb", se = F, color = "blue")+
-  theme_classic()+
-  xlab("Sediment PAH concentration (mg/kg DW)")+
-  xlim(0, 13)
-abundance1
-
-#SW index vs PAH
-SW1<-ggplot(fish1, aes(x=SedimentPAH, y=SW_index))+
-  geom_point(aes(x=SedimentPAH, y=SW_index))+
-  geom_smooth(aes(x=SedimentPAH, y=SW_index), data=fish1, method="glm", se=F, color="cyan4", method.args = list(family = "poisson"))+
-  theme_classic()+
-  ylab("Shannon-Wiener Diversity Index")+
-  xlab("Sediment PAH concentration (mg/kg DW)")+
-  xlim(0, 13)+
-  ylim(0,2)
-SW1
-
-#Simpson's index vs PAH
-Simp1<-ggplot(fish1, aes(x=SedimentPAH, y=Simp_index))+
-  geom_point(aes(x=SedimentPAH, y=Simp_index))+
-  geom_smooth(aes(x=SedimentPAH, y=Simp_index), data=fish1, method="glm", se=F, color="chocolate1", method.args = list(family = "binomial"))+
-  ylab("Simpson's Dominance Index")+
-  xlab("Sediment PAH concentration (mg/kg DW)")+
-  theme_classic()+
-  xlim(0, 13)
-Simp1
-
-#Pilou vs PAH
-Pilou1<-ggplot(fish1, aes(x=SedimentPAH, y=Evenness))+
-  geom_point(aes(x=SedimentPAH, y=Evenness))+
-  geom_smooth(aes(x=SedimentPAH, y=Evenness), data=fish1, method="glm", se=F, color="darkorchid4", method.args = list(family = "binomial"))+
-  ylab("Pilou Evenness Index")+
-  xlab("Sediment PAH concentration (mg/kg DW)")+
-  theme_classic()+
-  xlim(0, 13)
-Pilou1
-
-indices1<-ggarrange(abundance1  + rremove("xlab"), SW1+ rremove("xlab"), Simp1 + rremove("xlab"), Pilou1 +rremove("xlab")) 
-annotate_figure(indices1, bottom = textGrob("Sediment PAH concentration (mg/kg; DW)", vjust=0.5, gp = gpar(cex = 1)))
-
-#### Fish indices with the four Atlantic silverside collection sites, TOC normalized PAH data ####
-#using only the sediment PAH data from July 2022 (n=6), these data were normalized by the % organic
-#carbon found in the sediments to partially account for the bioavilability of PAHs. The average normalized
-#PAH concentrations were then regressed against the same species diversity indices to see if anything
-#changed. This data is presented in the supplemental information
-
-model5<-glm.nb(Abundance~PAHnorm, data=fish) 
-summary(model5)#p=0.649                                
-
-model6<-glm(SW_index~PAHnorm, data=fish, family=Gamma(link="log")) 
-summary(model6) #p=0.916
-
-model7<-betareg(Simp_index~PAHnorm, data=fish)
-summary(model7) #p=0.117
-
-model8<-betareg(Evenness~PAHnorm, data=fish)
-summary(model8) #p=0.137
-
-#Plotting abundance vs TOC normalized sediment pah
-abundance_norm<-ggplot(fish, aes(x=PAHnorm, y=Abundance, label=Sitecode))+
-  geom_text(hjust=0.5, vjust=1.5, size=2.5)+
-  geom_point(aes(x = PAHnorm, y = Abundance), color="blue")+
-  geom_smooth(aes(x = PAHnorm, y = Abundance), data = fish, 
-              method = "glm.nb", se = F, color = "blue")+
-  theme_classic()+
-  xlab("TOC normalized sediment PAH concentration (mg/kg/TOC%)")+
-  geom_errorbarh(aes(xmin=PAHnorm-Senorm, xmax=PAHnorm+Senorm), height=0)+
-  scale_x_log10()
-abundance_norm
-
-#Plotting Shannon-Wiener diversity vs TOC normalized sediment PAH
-SW_norm<-ggplot(fish, aes(x=PAHnorm, y=SW_index, label=Sitecode))+
-  geom_text(hjust=0.5, vjust=-1, size=2.5)+
-  geom_point(aes(x=PAHnorm, y=SW_index), color="cyan4")+
-  geom_smooth(aes(x=PAHnorm, y=SW_index), data=fish, method="glm", se=F, color="cyan4", method.args = list(family = "Gamma"))+
-  theme_classic()+
-  ylab("Shannon-Wiener Diversity Index")+
-  xlab("TOC normalized sediment PAH concentration (mg/kg/TOC%)")+
-  geom_errorbarh(aes(xmin=PAHnorm-Senorm, xmax=PAHnorm+Senorm), height=0)+
-  scale_x_log10()
-SW_norm
-
-#Simpson's index vs PAH
-Simp_norm<-ggplot(fish, aes(x=PAHnorm, y=Simp_index, label=Sitecode))+
-  geom_text(hjust=0.5, vjust=-0.5, size=2.5)+
-  geom_point(aes(x=PAHnorm, y=Simp_index), color="chocolate1")+
-  geom_smooth(aes(x=PAHnorm, y=Simp_index), data=fish, method="glm", se=F, color="chocolate1", method.args = list(family = "binomial"))+
-  ylab("Gini-Simpson's Dominance Index")+
-  xlab("TOC normalized sediment PAH concentration (mg/kg/TOC%)")+
-  geom_errorbarh(aes(xmin=PAHnorm-Senorm, xmax=PAHnorm+Senorm), height=0)+
-  theme_classic()+
-  scale_x_log10()
-Simp_norm
-
-#Pielou vs PAH
-Pielou_norm<-ggplot(fish, aes(x=PAHnorm, y=Evenness, label=Sitecode))+
-  geom_text(hjust=0.5, vjust=-0.5, size=2.5)+
-  geom_point(aes(x=PAHnorm, y=Evenness), color="darkorchid4")+
-  geom_smooth(aes(x=PAHnorm, y=Evenness), data=fish, method="glm", se=F, color="darkorchid4", method.args = list(family = "binomial"))+
-  ylab("Pielou Evenness Index")+
-  xlab("TOC normalized sediment PAH concentration (mg/kg/TOC%)")+
-  geom_errorbarh(aes(xmin=PAHnorm-Senorm, xmax=PAHnorm+Senorm), height=0)+
-  theme_classic()+
-  scale_x_log10()
-Pielou_norm
-
-indices<-ggarrange(abundance_norm + rremove("xlab"), SW_norm + rremove("xlab"), Simp_norm + rremove("xlab"), Pielou_norm +rremove("xlab")) 
-annotate_figure(indices, bottom = textGrob("TOC normalized sediment PAH concentration (mg/kg/TOC%)", vjust=0.5, gp = gpar(cex = 1)))
-
-
 
 
 #### EROD activity, LSI, K ####
@@ -1147,7 +948,7 @@ IHgraph
 
 SCgraphdata<-subset(SedimentChemistry)
 
-  
+
 
 
 
