@@ -17,6 +17,8 @@ EROD activity for R.csv : Contains hepatic EROD (pmol/min/mg protein) activity v
 
 EROD activity for R outlier removed.csv : Contains hepatic EROD (pmol/min/mg protein) activity values of 10 Atlantic silverside individuals/site, except at the Inner Harbour site which had 9 individuals, as one outlier was removed.
 
+EROD activity data.xlsx : Raw data for calculating EROD activity of Atlantic silverside at 4 sites (n=40 fish total). 
+
 LSI.xlsx : Provides site name and Hepatosomatic (liver somatic) index as a percent with n=10 values/site.
 
 K.xlsx : Provides site name and Fulton condition factor (weight/length^3 x 100) values with n=40 fish per site.
@@ -25,7 +27,7 @@ SedimentChemistry.xlsx : Has trace metal concentrations (31 metals) measured in 
 
 TotalOrganicCarbon2022.csv : Contains total organic carbon measurements and moisture content of sediment in percentage at 4 sites n=6/site. 
 
-SpeciesDiversity.xlsx : Data used for diversity values including Shannon-Wiener, Gini-Simpson, Pielou Evenness, and Abundance.
+NektonoccurrenceR.csv : Data used for calculating diversity values including Shannon-Wiener, Gini-Simpson, Pielou Evenness, and Abundance and to create NMDS plot with species composition and environmental predictors of variation overlayed on top of the NMDS.
 
 DiversityCalculations.R : Code used for diversity calculations. 
 

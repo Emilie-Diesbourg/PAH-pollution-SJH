@@ -1,6 +1,8 @@
 #### Packages/libraries ####
 setwd("C:\\Users\\Emilie\\OneDrive - University of New Brunswick\\Documents\\UNB 2018-2022\\PAH project summer 2022\\Data\\Modified data\\Sediment PAH calculations")
 
+library(dplyr)
+library(ecodist)
 library(outliers)
 library(DescTools)
 library(FSA)
@@ -15,6 +17,7 @@ library(viridis)
 library(MASS)
 library(reghelper)
 library(betareg)
+library(vegan)
 library(ggrepel)
 
 #### Outlier testing ####
@@ -245,11 +248,11 @@ ggplot(PAHsites, aes(x=Sitecode, y=SedimentPAH))+
   stat_summary(fun=mean, col="blue", size=0.3)+
   stat_boxplot(geom="errorbar", width=0.15)+
   theme_classic()+
-  ylab("Total sediment PAH \n concentration (mg/kg DW)")+
+  ylab("Total concentration of 17 sedimentary \n PAHs (mg/kg DW)")+
   xlab("Site")+
   geom_abline(intercept=0.17, slope=0, col="red", lty=2)+
   theme(axis.text.x = element_text(angle = 60, vjust=0.5, hjust=0.5))+
-  scale_x_discrete(labels = function(x) str_wrap(x, width = 15))+
+  scale_x_discrete(labels = function(x) str_wrap(x, width = 15))+ #Wrap strings into nicely formatted paragraphs
   scale_y_log10()
 
 #plotting the total sediment PAH concentration at each site within each year from 2018-2022 (Supplementary Figure 2)
@@ -322,9 +325,9 @@ plot2022<-ggplot(D2022, aes(x=Sitecode, y=SedimentPAH))+
   scale_y_log10()
 
 ggarrange<-ggarrange(plot2018 + rremove("ylab") + rremove("xlab"), plot2019+rremove("ylab")+ rremove("xlab"), plot2020 + rremove("ylab")+ rremove("xlab"), plot2021 + rremove("ylab")+ rremove("xlab"), plot2022 + rremove("ylab")+ rremove("xlab"), 
-                     labels = c("2018", "2019", "2020", "2021", "2022", "F"),
-                     hjust=-4.7, align = "hv",
-                     ncol = 3, nrow = 2, widths = c(1, 1, 1), heights = c(1,1,1))
+           labels = c("2018", "2019", "2020", "2021", "2022", "F"),
+          hjust=-4.7, align = "hv",
+           ncol = 3, nrow = 2, widths = c(1, 1, 1), heights = c(1,1,1))
 
 
 
@@ -403,9 +406,9 @@ comp2022<-ggplot(PAH2022, aes(x=PAH_analyte, y=Percent_of_total))+
 comp2022
 
 comp<-ggarrange(comp2018 + rremove("ylab") + rremove("xlab"), comp2019+rremove("ylab")+ rremove("xlab"), comp2020 + rremove("ylab")+ rremove("xlab"), comp2021 + rremove("ylab")+ rremove("xlab"), comp2022 + rremove("ylab")+ rremove("xlab"), 
-                labels = c("2018", "2019", "2020", "2021", "2022"),
-                hjust=-1.7, align = "hv",
-                ncol = 3, nrow = 2, widths = c(1, 1, 1), heights = c(1,1,1))
+                     labels = c("2018", "2019", "2020", "2021", "2022"),
+                     hjust=-1.7, align = "hv",
+                     ncol = 3, nrow = 2, widths = c(1, 1, 1), heights = c(1,1,1))
 
 
 
@@ -625,6 +628,141 @@ Pielou
 
 indices<-ggarrange(abundance  + rremove("xlab"), SW+ rremove("xlab"), Simp + rremove("xlab"), Pielou +rremove("xlab")) 
 annotate_figure(indices, bottom = textGrob("Sediment PAH concentration (mg/kg; DW)", vjust=0.5, gp = gpar(cex = 1)))
+
+#### Fish indices with Marsh Creek removed ##################
+
+#There is no difference in the overall conclusions between keeping Marsh Creek in or out of analysis therefore
+#I will present the stats and figure with Marsh Creek included
+
+fish1<-read.csv("C:\\Users\\Emilie\\OneDrive - University of New Brunswick\\Documents\\UNB 2018-2022\\PAH project summer 2022\\Data\\Modified data\\Sediment PAH calculations\\Fish indices\\Summary of fish indices and PAH_noMC.csv", header=T)
+
+model11<-glm.nb(Abundance~SedimentPAH, data=fish1)
+summary(model11)
+
+model21<-glm(SW_index~SedimentPAH, data=fish1, family=Gamma(link="log"))
+summary(model21)
+
+
+model31<-glm(data=fish1, Simp_index~SedimentPAH, family=binomial)
+beta(model31)
+
+model41<-glm(data=fish1, Evenness~SedimentPAH, family=binomial)
+beta(model41)
+
+#Plotting abundance vs sediment pah
+abundance1<-ggplot(fish1, aes(x=SedimentPAH, y=Abundance))+
+  geom_point()+
+  geom_smooth(aes(x = SedimentPAH, y = Abundance), data = fish1, 
+              method = "glm.nb", se = F, color = "blue")+
+  theme_classic()+
+  xlab("Sediment PAH concentration (mg/kg DW)")+
+  xlim(0, 13)
+abundance1
+
+#SW index vs PAH
+SW1<-ggplot(fish1, aes(x=SedimentPAH, y=SW_index))+
+  geom_point(aes(x=SedimentPAH, y=SW_index))+
+  geom_smooth(aes(x=SedimentPAH, y=SW_index), data=fish1, method="glm", se=F, color="cyan4", method.args = list(family = "poisson"))+
+  theme_classic()+
+  ylab("Shannon-Wiener Diversity Index")+
+  xlab("Sediment PAH concentration (mg/kg DW)")+
+  xlim(0, 13)+
+  ylim(0,2)
+SW1
+
+#Simpson's index vs PAH
+Simp1<-ggplot(fish1, aes(x=SedimentPAH, y=Simp_index))+
+  geom_point(aes(x=SedimentPAH, y=Simp_index))+
+  geom_smooth(aes(x=SedimentPAH, y=Simp_index), data=fish1, method="glm", se=F, color="chocolate1", method.args = list(family = "binomial"))+
+  ylab("Simpson's Dominance Index")+
+  xlab("Sediment PAH concentration (mg/kg DW)")+
+  theme_classic()+
+  xlim(0, 13)
+Simp1
+
+#Pilou vs PAH
+Pilou1<-ggplot(fish1, aes(x=SedimentPAH, y=Evenness))+
+  geom_point(aes(x=SedimentPAH, y=Evenness))+
+  geom_smooth(aes(x=SedimentPAH, y=Evenness), data=fish1, method="glm", se=F, color="darkorchid4", method.args = list(family = "binomial"))+
+  ylab("Pilou Evenness Index")+
+  xlab("Sediment PAH concentration (mg/kg DW)")+
+  theme_classic()+
+  xlim(0, 13)
+Pilou1
+
+indices1<-ggarrange(abundance1  + rremove("xlab"), SW1+ rremove("xlab"), Simp1 + rremove("xlab"), Pilou1 +rremove("xlab")) 
+annotate_figure(indices1, bottom = textGrob("Sediment PAH concentration (mg/kg; DW)", vjust=0.5, gp = gpar(cex = 1)))
+
+#### Fish indices with the four Atlantic silverside collection sites, TOC normalized PAH data ####
+#using only the sediment PAH data from July 2022 (n=6), these data were normalized by the % organic
+#carbon found in the sediments to partially account for the bioavilability of PAHs. The average normalized
+#PAH concentrations were then regressed against the same species diversity indices to see if anything
+#changed. This data is presented in the supplemental information
+
+model5<-glm.nb(Abundance~PAHnorm, data=fish) 
+summary(model5)#p=0.649                                
+
+model6<-glm(SW_index~PAHnorm, data=fish, family=Gamma(link="log")) 
+summary(model6) #p=0.916
+
+model7<-betareg(Simp_index~PAHnorm, data=fish)
+summary(model7) #p=0.117
+
+model8<-betareg(Evenness~PAHnorm, data=fish)
+summary(model8) #p=0.137
+
+#Plotting abundance vs TOC normalized sediment pah
+abundance_norm<-ggplot(fish, aes(x=PAHnorm, y=Abundance, label=Sitecode))+
+  geom_text(hjust=0.5, vjust=1.5, size=2.5)+
+  geom_point(aes(x = PAHnorm, y = Abundance), color="blue")+
+  geom_smooth(aes(x = PAHnorm, y = Abundance), data = fish, 
+              method = "glm.nb", se = F, color = "blue")+
+  theme_classic()+
+  xlab("TOC normalized sediment PAH concentration (mg/kg/TOC%)")+
+  geom_errorbarh(aes(xmin=PAHnorm-Senorm, xmax=PAHnorm+Senorm), height=0)+
+  scale_x_log10()
+abundance_norm
+
+#Plotting Shannon-Wiener diversity vs TOC normalized sediment PAH
+SW_norm<-ggplot(fish, aes(x=PAHnorm, y=SW_index, label=Sitecode))+
+  geom_text(hjust=0.5, vjust=-1, size=2.5)+
+  geom_point(aes(x=PAHnorm, y=SW_index), color="cyan4")+
+  geom_smooth(aes(x=PAHnorm, y=SW_index), data=fish, method="glm", se=F, color="cyan4", method.args = list(family = "Gamma"))+
+  theme_classic()+
+  ylab("Shannon-Wiener Diversity Index")+
+  xlab("TOC normalized sediment PAH concentration (mg/kg/TOC%)")+
+  geom_errorbarh(aes(xmin=PAHnorm-Senorm, xmax=PAHnorm+Senorm), height=0)+
+  scale_x_log10()
+SW_norm
+
+#Simpson's index vs PAH
+Simp_norm<-ggplot(fish, aes(x=PAHnorm, y=Simp_index, label=Sitecode))+
+  geom_text(hjust=0.5, vjust=-0.5, size=2.5)+
+  geom_point(aes(x=PAHnorm, y=Simp_index), color="chocolate1")+
+  geom_smooth(aes(x=PAHnorm, y=Simp_index), data=fish, method="glm", se=F, color="chocolate1", method.args = list(family = "binomial"))+
+  ylab("Gini-Simpson's Dominance Index")+
+  xlab("TOC normalized sediment PAH concentration (mg/kg/TOC%)")+
+  geom_errorbarh(aes(xmin=PAHnorm-Senorm, xmax=PAHnorm+Senorm), height=0)+
+  theme_classic()+
+  scale_x_log10()
+Simp_norm
+
+#Pielou vs PAH
+Pielou_norm<-ggplot(fish, aes(x=PAHnorm, y=Evenness, label=Sitecode))+
+  geom_text(hjust=0.5, vjust=-0.5, size=2.5)+
+  geom_point(aes(x=PAHnorm, y=Evenness), color="darkorchid4")+
+  geom_smooth(aes(x=PAHnorm, y=Evenness), data=fish, method="glm", se=F, color="darkorchid4", method.args = list(family = "binomial"))+
+  ylab("Pielou Evenness Index")+
+  xlab("TOC normalized sediment PAH concentration (mg/kg/TOC%)")+
+  geom_errorbarh(aes(xmin=PAHnorm-Senorm, xmax=PAHnorm+Senorm), height=0)+
+  theme_classic()+
+  scale_x_log10()
+Pielou_norm
+
+indices<-ggarrange(abundance_norm + rremove("xlab"), SW_norm + rremove("xlab"), Simp_norm + rremove("xlab"), Pielou_norm +rremove("xlab")) 
+annotate_figure(indices, bottom = textGrob("TOC normalized sediment PAH concentration (mg/kg/TOC%)", vjust=0.5, gp = gpar(cex = 1)))
+
+
 
 
 #### EROD activity, LSI, K ####
@@ -948,7 +1086,61 @@ IHgraph
 
 SCgraphdata<-subset(SedimentChemistry)
 
+  
 
 
 
 
+#### NMDS plot ####
+nekton<-read.csv("C:\\Users\\Emilie\\OneDrive - University of New Brunswick\\Documents\\UNB 2018-2022\\PAH project summer 2022\\Data\\Modified data\\NektonoccurenceR.csv", header=T)
+nekton<-na.omit(nekton) #remove NAs
+str(nekton)
+nekton$Site<-as.character(nekton$Site)
+
+com<-nekton[, 10:45]
+com = as.matrix(com) #Select only community data
+env<-select(nekton, Salinity, Temperature) 
+env = as.matrix(env) #Select only environmental data, Need to be a matrix
+set.seed(123)
+nmds = metaMDS(com, distance = "bray") #creates distance matrix
+nmds
+
+#Predictors of fit of environmental variables. Longer arrows have a stronger predictive capability
+en = envfit(nmds, env, permutations = 10000, na.rm = TRUE)
+en #Salinity is significant
+
+#Base R plot
+plot(nmds)
+plot(en)
+
+#Get x and y coordinates of NMDS
+nmdsscore <- as.data.frame(scores(nmds)$sites)
+nmdsscore$Site = nekton$Site
+nmdsscore$Salinity = nekton$Salinity
+nmdsscore$Temperature = nekton$Temperature
+nmdsscore$logPAH = nekton$logPAH
+nmdsscore$PAH = nekton$PAH
+head(nmdsscore)
+
+
+en_coord_cont = as.data.frame(scores(en, "vectors")) * ordiArrowMul(en)
+en_coord_cat = as.data.frame(scores(en, "factors")) * ordiArrowMul(en)
+
+stressplot(nmds) #low stress = good fit
+
+#plotting NMDS
+
+
+ggplot(data = nmdsscore, aes(x = NMDS1, y = NMDS2)) + 
+  geom_point(data = nmdsscore, aes(colour = logPAH), size = 3) +
+  geom_text(data=nmdsscore, aes(x=NMDS1, y=NMDS2), label=nmdsscore$Site)+
+  geom_text(data = en_coord_cont, aes(x = NMDS1, y = NMDS2), colour = "black", 
+            fontface = "bold", label = row.names(en_coord_cont)) +
+  geom_segment(aes(x = 0, y = 0, xend = NMDS1, yend = NMDS2), 
+               data = en_coord_cont, size =1, alpha = 0.5, colour = "black") +
+  theme(axis.title = element_text(size = 10, face = "bold", colour = "black"), 
+        panel.background = element_blank(), panel.border = element_rect(fill = NA, colour = "black"), 
+        axis.ticks = element_blank(), axis.text = element_blank(), legend.key = element_blank(), 
+        legend.title = element_text(size = 10, face = "bold", colour = "black"), 
+        legend.text = element_text(size = 9, colour = "black")) + 
+  labs(colour = ("PAH Concentration"))
