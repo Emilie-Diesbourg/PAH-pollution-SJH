@@ -1,4 +1,4 @@
-# PAH-pollution-SJH
+# PAH-contamination-SJH
 Examines the concentrations and compositions of sediment PAH contamination in the Saint John Harbour and assesses exposure and impact to the local nekton community.
 
 Raw Data Water Quality, Nekton, Sediment PAH.xlsx : Raw data containing water quality (Temp, salinity, pH, orthophosphate, phosphate), nekton indices, and sediment PAH data between 2018-2022. 
